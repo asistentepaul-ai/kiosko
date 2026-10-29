@@ -132,6 +132,19 @@ async function collectFrontOld(page, paper) {
 async function extractArticle(page, paper, url) {
   const attempts = [url, ...ampCandidates(url)];
   let best = null;
+  if (paper.preferSnapshot) {
+    // Diarios con muro en cliente (ABC): el HTML servido trae el texto íntegro.
+    const html0 = curlHtml(url);
+    if (html0.length > 5000) {
+      const dest0 = path.join(ROOT, '.tmp', `art-snap-${paper.slug}.html`);
+      const loc0 = snapshotFile(html0, url, dest0);
+      try {
+        await page.goto(loc0, { settle: 600, timeoutMs: 40000 });
+        const a0 = await page.eval(EXTRACT_JS({ contentSelector: paper.contentSelector }));
+        if (a0 && (a0.stats?.textChars || 0) > 300) best = { ...a0, requestedUrl: url, canonical: url };
+      } catch {}
+    }
+  }
   for (const u of attempts) {
     try {
       await page.goto(u, { settle: 1400, timeoutMs: 45000 });
@@ -140,6 +153,7 @@ async function extractArticle(page, paper, url) {
       const chars = art.stats?.textChars || 0;
       if (!best || chars > (best.stats?.textChars || 0)) best = { ...art, requestedUrl: u };
       if (chars > 1800) break;
+      if (paper.preferSnapshot && (best?.stats?.textChars || 0) > 300) break;
     } catch (e) { /* siguiente intento */ }
   }
   if ((best?.stats?.textChars || 0) < 600) {

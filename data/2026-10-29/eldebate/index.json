@@ -6,9 +6,9 @@
   "accent": "#8f1d22"
  },
  "date": "2026-10-29",
- "collectedAt": "2026-10-29T22:08:17.514Z",
+ "collectedAt": "2026-10-29T22:55:16.338Z",
  "total": 20,
- "ok": 20,
+ "ok": 19,
  "items": [
   {
    "n": 1,
@@ -16,14 +16,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/20261029/sanchez-calibra-coste-mantener-ministro-114-fallecidos-dejarlo-caer-mes-votar_475006.html",
+   "img": "https://imagenes.eldebate.com/files/image_125_115/uploads/2025/02/04/67a1500aa2277.png",
    "thumb": "mini/01.jpg",
    "pdf": "eldebate/01-responsabilidades-politicas.pdf",
    "ok": true,
-   "bytes": 254015,
+   "bytes": 232930,
    "author": "Ana Martín",
    "date": "2026-10-29T04:30:00+01:00",
    "imgs": 2,
-   "chars": 5488
+   "chars": 4663
   },
   {
    "n": 2,
@@ -31,14 +32,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/economia/20261028/escuche-audios-maquinistas-trenes-accidentados-control-atocha_475037.html",
+   "img": "https://imagenes.eldebate.com/files/image_125_115/uploads/2025/02/04/67a1500aa2277.png",
    "thumb": "mini/02.jpg",
    "pdf": "eldebate/02-audios-de-los-maquinistas.pdf",
    "ok": true,
-   "bytes": 180451,
+   "bytes": 164373,
    "author": "El Debate",
    "date": "2026-10-28T23:57:09+01:00",
    "imgs": 1,
-   "chars": 1417
+   "chars": 1210
   },
   {
    "n": 3,
@@ -46,14 +48,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/20261029/tecnicos-transportes-hallan-sobrecoste-109-millones-tercero-exigio-contrato-linea-accidente_475319.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2026/10/20/6ad7178b71f47.jpeg",
    "thumb": "",
    "pdf": "eldebate/03-tecnicos-de-transportes-hallan-un-sobrecoste-de-10-9-millones-que-un-t.pdf",
    "ok": true,
-   "bytes": 210558,
+   "bytes": 192359,
    "author": "Alejandro Entrambasaguas",
    "date": "2026-10-29T19:57:48+01:00",
    "imgs": 1,
-   "chars": 4776
+   "chars": 4471
   },
   {
    "n": 4,
@@ -61,14 +64,11 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/economia/20261029/directo-intensifican-las-labores-retirada-vagones-trenes-urda_475056.html",
+   "img": "https://www.eldebate.com/files/author_avatar/uploads/2021/09/30/615609d80a6da.jpeg",
    "thumb": "mini/04.jpg",
-   "pdf": "eldebate/04-ouigo-cancela-todos-sus-trenes-hasta-el-lunes-para-evitar-que-aumente-.pdf",
-   "ok": true,
-   "bytes": 536917,
-   "author": "Rubén Prieto y Claudia Cid",
-   "date": "2026-10-29T08:09:55+01:00",
-   "imgs": 7,
-   "chars": 6229
+   "pdf": "",
+   "ok": false,
+   "bytes": 0
   },
   {
    "n": 5,
@@ -76,14 +76,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/sociedad/20261029/dia-1-minuto-jorge-sanz-puente-esta-viviendo-tiempo-prestado-etapa-como-ministro_475429.html",
+   "img": "https://www.eldebate.com/files/author_avatar/uploads/2021/09/30/615609d80a6da.jpeg",
    "thumb": "mini/05.jpg",
    "pdf": "eldebate/05-puente-esta-viviendo-con-tiempo-prestado-su-etapa-como-ministro.pdf",
    "ok": true,
-   "bytes": 155784,
+   "bytes": 138666,
    "author": "El Debate",
    "date": "2026-10-29T21:19:12+01:00",
    "imgs": 1,
-   "chars": 1470
+   "chars": 1227
   },
   {
    "n": 6,
@@ -91,14 +92,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/20261029/antonio-acedo-maquinista-ave-salvo-vidas-frenando-cuando-vio-iryo-via_475143.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2023/10/27/653b7696eb4a5.jpeg",
    "thumb": "",
    "pdf": "eldebate/06-antonio-acedo-el-fallecido-maquinista-del-ave-que-salvo-vidas-frenando.pdf",
    "ok": true,
-   "bytes": 185286,
+   "bytes": 164065,
    "author": "Hugo Marugán",
    "date": "2026-10-29T12:34:46+01:00",
    "imgs": 1,
-   "chars": 3094
+   "chars": 2266
   },
   {
    "n": 7,
@@ -106,14 +108,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/20261029/operacion-control-danos-gobierno-fracasa-ante-evidencias_475225.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2022/09/11/631df886412ad.jpeg",
    "thumb": "",
    "pdf": "eldebate/07-la-operacion-de-control-de-danos-del-gobierno-fracasa-ante-las-evidenc.pdf",
    "ok": true,
-   "bytes": 175521,
+   "bytes": 167588,
    "author": "Ana Martín",
    "date": "2026-10-29T13:37:02+01:00",
    "imgs": 1,
-   "chars": 4574
+   "chars": 4462
   },
   {
    "n": 8,
@@ -121,14 +124,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/economia/20261029/presion-falta-formacion-tragedia-urda-cargar-chiquillo-como-angrois_475057.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2022/02/08/620229ad2c2c9.jpeg",
    "thumb": "",
    "pdf": "eldebate/08-presion-y-falta-de-formacion-tras-la-tragedia-de-urda-se-van-a-cargar-.pdf",
    "ok": true,
-   "bytes": 194151,
+   "bytes": 170362,
    "author": "José Rosado y Alfonso Úcar",
    "date": "2026-10-29T08:43:08+01:00",
    "imgs": 1,
-   "chars": 5918
+   "chars": 5521
   },
   {
    "n": 9,
@@ -136,14 +140,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/economia/20261029/debate-urda-busqueda-restos-biologicos-esta-siendo-dura_475359.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2021/10/21/617134c4271da.jpeg",
    "thumb": "",
    "pdf": "eldebate/09-el-debate-en-urda-la-busqueda-de-restos-biologicos-esta-siendo-muy-dur.pdf",
    "ok": true,
-   "bytes": 190289,
+   "bytes": 173813,
    "author": "El Debate",
    "date": "2026-10-29T17:36:51+01:00",
    "imgs": 1,
-   "chars": 1047
+   "chars": 861
   },
   {
    "n": 10,
@@ -151,14 +156,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/20261029/gobierno-modifico-contrato-mantenimiento-seguridad-linea-madridsevilla-dia-antes-accidente_475047.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2021/11/25/619fd40a005d3.jpeg",
    "thumb": "",
    "pdf": "eldebate/10-el-gobierno-tuvo-que-modificar-el-contrato-de-mantenimiento-de-la-segu.pdf",
    "ok": true,
-   "bytes": 217259,
+   "bytes": 195731,
    "author": "María Jamardo",
    "date": "2026-10-29T05:48:30+01:00",
    "imgs": 1,
-   "chars": 3396
+   "chars": 2962
   },
   {
    "n": 11,
@@ -166,14 +172,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/andalucia/20261029/dramatica-historia-carmen-superviviente-adamuz-urda-emocionalmente-esta-afectada_475070.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2021/10/21/617134c4271da.jpeg",
    "thumb": "",
    "pdf": "eldebate/11-la-dramatica-historia-de-carmen-superviviente-de-adamuz-y-urda-emocion.pdf",
    "ok": true,
-   "bytes": 207727,
+   "bytes": 190571,
    "author": "El Debate",
    "date": "2026-10-29T09:33:52+01:00",
    "imgs": 1,
-   "chars": 2236
+   "chars": 1970
   },
   {
    "n": 12,
@@ -181,14 +188,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/cataluna/20261029/concejal-comuns-sant-cugat-barcelona-entra-colera-padrenuestro-victimas-toledo_475094.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2026/10/05/6ac38c10e4604.jpeg",
    "thumb": "",
    "pdf": "eldebate/12-un-concejal-de-comuns-en-sant-cugat-barcelona-entra-en-colera-por-un-p.pdf",
    "ok": true,
-   "bytes": 185695,
+   "bytes": 167169,
    "author": "Eduardo Baronet",
    "date": "2026-10-29T10:54:42+01:00",
    "imgs": 1,
-   "chars": 2040
+   "chars": 1736
   },
   {
    "n": 13,
@@ -196,14 +204,15 @@
    "section": "",
    "summary": "ISabel díaz Ayuso, presidenta de la comunidad de madrid",
    "url": "https://www.eldebate.com/espana/20261029/fatima-banez_475374.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2022/11/17/63762f5a85194.jpeg",
    "thumb": "",
    "pdf": "eldebate/13-articulo-de-mariano-rajoy-en-recuerdo-de-fatima-banez-fatima-era-intel.pdf",
    "ok": true,
-   "bytes": 218469,
+   "bytes": 184940,
    "author": "Mariano Rajoy",
    "date": "2026-10-29T17:40:54+01:00",
    "imgs": 3,
-   "chars": 2775
+   "chars": 2095
   },
   {
    "n": 14,
@@ -211,14 +220,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/economia/20261029/donde-estas-fatima_475403.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2022/11/17/63762f5a85194.jpeg",
    "thumb": "",
    "pdf": "eldebate/14-donde-estas-fatima.pdf",
    "ok": true,
-   "bytes": 151029,
+   "bytes": 117518,
    "author": "antonio huertas",
    "date": "2026-10-29T18:34:45+01:00",
    "imgs": 3,
-   "chars": 5000
+   "chars": 4428
   },
   {
    "n": 15,
@@ -226,14 +236,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/economia/20261029/pp-confirma-fallecimiento-exministra-fatima-banez-te-vamos-echar-mucho-menos-querida-amiga_475247.html",
+   "img": "",
    "thumb": "",
    "pdf": "eldebate/15-el-pp-y-los-empresarios-se-despiden-de-banez-una-gran-servidora-de-esp.pdf",
    "ok": true,
-   "bytes": 201932,
+   "bytes": 173241,
    "author": "Unai Mezcua",
    "date": "2026-10-29T13:43:31+01:00",
    "imgs": 1,
-   "chars": 5056
+   "chars": 4527
   },
   {
    "n": 16,
@@ -241,14 +252,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/gente/20261029/quien-familia-fatima-banez-llora-muerte-59-anos_474980.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2022/04/13/6256eb2f68796.jpeg",
    "thumb": "",
    "pdf": "eldebate/16-la-tragedia-de-la-familia-de-fatima-banez-que-llora-su-muerte-a-los-59.pdf",
    "ok": true,
-   "bytes": 255583,
+   "bytes": 236941,
    "author": "Ana Mellado",
    "date": "2026-10-29T04:30:00+01:00",
    "imgs": 2,
-   "chars": 3523
+   "chars": 3149
   },
   {
    "n": 17,
@@ -256,14 +268,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/20261029/alvarez-toledo-tacha-abyecto-mensaje-rtve-sobre-muerte-fatima-banez-titular-indecente_475380.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2021/10/21/617134c4271da.jpeg",
    "thumb": "",
    "pdf": "eldebate/17-alvarez-de-toledo-tacha-de-abyecto-el-mensaje-de-rtve-sobre-la-muerte-.pdf",
    "ok": true,
-   "bytes": 160167,
+   "bytes": 151628,
    "author": "El Debate",
    "date": "2026-10-29T17:45:36+01:00",
    "imgs": 1,
-   "chars": 2051
+   "chars": 1931
   },
   {
    "n": 18,
@@ -271,14 +284,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/20261028/adif-autorizo-ave-reanudar-marcha-normal-pese-otro-maquinista-nego-superar-40-kmh-como-marca-protocolo_475033.html",
+   "img": "https://www.eldebate.com/files/image_32_32/uploads/2021/11/25/619fd40a005d3.jpeg",
    "thumb": "",
    "pdf": "eldebate/18-adif-autorizo-al-ave-reanudar-a-marcha-normal-pese-a-que-otro-maquinis.pdf",
    "ok": true,
-   "bytes": 308489,
+   "bytes": 290624,
    "author": "María Jamardo",
    "date": "2026-10-28T22:36:53+01:00",
    "imgs": 2,
-   "chars": 5079
+   "chars": 4845
   },
   {
    "n": 19,
@@ -286,14 +300,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/espana/andalucia/20261029/moreno-ahora-mismo-no-viajaria-ave-menos-linea-madrid-andalucia_475397.html",
+   "img": "",
    "thumb": "",
    "pdf": "eldebate/19-moreno-ahora-mismo-yo-no-viajaria-en-el-ave-por-lo-menos-en-la-linea-d.pdf",
    "ok": true,
-   "bytes": 178104,
+   "bytes": 157163,
    "author": "El Debate",
    "date": "2026-10-29T18:12:23+01:00",
    "imgs": 1,
-   "chars": 3468
+   "chars": 3159
   },
   {
    "n": 20,
@@ -301,14 +316,15 @@
    "section": "",
    "summary": "",
    "url": "https://www.eldebate.com/economia/20261029/ceo-iryo-aviso-5-octubre-sistema-bastante-antiguo-lzb-usa-linea-madridsevilla_475354.html",
+   "img": "",
    "thumb": "",
    "pdf": "eldebate/20-el-ceo-de-iryo-aviso-el-5-de-octubre-del-sistema-bastante-antiguo-lzb-.pdf",
    "ok": true,
-   "bytes": 183267,
+   "bytes": 163827,
    "author": "El Debate",
    "date": "2026-10-29T17:17:57+01:00",
    "imgs": 1,
-   "chars": 987
+   "chars": 711
   }
  ]
 }
