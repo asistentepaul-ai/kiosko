@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Kiosko · prensa del día</title>
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <div class="brand">
+      <span class="mark">◧</span>
+      <span class="name">Kiosko</span>
+      <span class="tag">prensa del día, sin muros</span>
+    </div>
+    <div class="controls">
+      <div class="daypicker">
+        <button id="prevDay" class="ghost" title="Día anterior" aria-label="Día anterior">‹</button>
+        <select id="daySelect" aria-label="Elegir día"></select>
+        <button id="nextDay" class="ghost" title="Día siguiente" aria-label="Día siguiente">›</button>
+      </div>
+      <button id="refresh" class="refresh" title="Recargar desde el servidor">
+        <span class="dot"></span> Actualizar
+      </button>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs" aria-label="Periódicos"></nav>
+
+<main class="wrap" id="main">
+  <div class="status" id="status">Cargando…</div>
+  <section class="front" id="front"></section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <span id="stamp"></span>
+    <span class="sep">·</span>
+    <span>Recortes propios para lectura personal. 10 días de archivo.</span>
+  </div>
+</footer>
+
+<div class="viewer" id="viewer" hidden>
+  <div class="viewer-bar">
+    <div class="viewer-title" id="viewerTitle"></div>
+    <div class="viewer-actions">
+      <a id="viewerOpen" class="act" target="_blank" rel="noopener">Abrir en pestaña</a>
+      <button id="viewerClose" class="act close" aria-label="Cerrar">Cerrar ✕</button>
+    </div>
+  </div>
+  <iframe id="viewerFrame" title="PDF"></iframe>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
