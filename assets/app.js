@@ -133,17 +133,24 @@ function renderShot(data) {
   for (const z of f.hotspots) {
     const item = bySlug.get(z.n);
     if (!item || !item.ok) continue;
-    const a = el('a', 'zone');
-    a.href = pdfUrl(item);
+    // Sin href a propósito: un enlace real hace que el navegador (y el navegador
+    // interno de Telegram) pida permiso o abra el PDF fuera de la página.
+    const a = el('div', 'zone');
+    a.setAttribute('role', 'link');
+    a.tabIndex = 0;
     a.style.left = z.x + '%';
     a.style.top = z.y + '%';
     a.style.width = z.w + '%';
     a.style.height = z.h + '%';
     a.title = item.title;
     a.setAttribute('aria-label', item.title);
+    a.dataset.pdf = pdfUrl(item);
     a.appendChild(el('span', 'zone-tag', item.title));
     if (location.search.includes('debug')) a.classList.add('zdebug');
     a.addEventListener('click', (e) => { e.preventDefault(); openViewer(item); });
+    a.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openViewer(item); }
+    });
     shot.appendChild(a);
     n++;
   }
