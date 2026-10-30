@@ -1,0 +1,168 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2462,
+ "bytes": 187408,
+ "hotspots": [
+  {
+   "n": 9,
+   "title": "Sánchez debe cesar a Puente: 115 muertos en nueve meses y ninguna responsabilidad política",
+   "x": 14.286,
+   "y": 65.638,
+   "w": 35.143,
+   "h": 1.868
+  },
+  {
+   "n": 10,
+   "title": "Dimisión de Óscar Puente: Hazte Oír supera las 25.000 firmas en menos de 24 horas para exigir su cese",
+   "x": 14.286,
+   "y": 67.547,
+   "w": 35.143,
+   "h": 1.868
+  },
+  {
+   "n": 13,
+   "title": "Ricardo Díaz Martín, catedrático en ingeniería: \"Es un fallo de primero de seguridad ferroviaria\"",
+   "x": 50.571,
+   "y": 67.547,
+   "w": 35.143,
+   "h": 1.868
+  },
+  {
+   "n": 6,
+   "title": "Efectivos de rescate, bajo atención psicológica: \"Las imágenes que están viendo son demoledoras\"",
+   "x": 50,
+   "y": 36.312,
+   "w": 35.714,
+   "h": 1.868
+  },
+  {
+   "n": 8,
+   "title": "Carmen, la viajera que sobrevivió al accidente de Adamuz y Urda",
+   "x": 14.286,
+   "y": 57.311,
+   "w": 35.143,
+   "h": 2.6
+  },
+  {
+   "n": 12,
+   "title": "Vox se querella contra Óscar Puente ante el Supremo por presunto homicidio imprudente tras el accidente ferroviario de Toledo",
+   "x": 50.571,
+   "y": 64.703,
+   "w": 35.143,
+   "h": 2.843
+  },
+  {
+   "n": 7,
+   "title": "Los maquinistas, sobre el sistema de seguridad de Urda: \"Falló ayer y ha fallado en reiteradas ocasiones otros días\"",
+   "x": 50,
+   "y": 38.221,
+   "w": 35.714,
+   "h": 2.843
+  },
+  {
+   "n": 14,
+   "title": "Puente comparecerá el martes en la Diputación Permanente, pero no ve motivos para dimitir",
+   "x": 14.286,
+   "y": 79.813,
+   "w": 17,
+   "h": 5.971
+  },
+  {
+   "n": 15,
+   "title": "Pasajeros \"atrapados\" en un tren entre Madrid y Valencia: \"Los bocadillos han volado en minutos\"",
+   "x": 32.429,
+   "y": 79.813,
+   "w": 17,
+   "h": 5.971
+  },
+  {
+   "n": 16,
+   "title": "Sin noticias de los desaparecidos en Urda: «Mantenemos la esperanza»",
+   "x": 50.571,
+   "y": 79.813,
+   "w": 17,
+   "h": 5.971
+  },
+  {
+   "n": 17,
+   "title": "El padre Fernando: de sujetar el suero a la absolución colectiva",
+   "x": 68.714,
+   "y": 79.813,
+   "w": 17,
+   "h": 5.971
+  },
+  {
+   "n": 18,
+   "title": "Recuperadas las cajas negras del accidente ferroviario",
+   "x": 14.286,
+   "y": 87.449,
+   "w": 17,
+   "h": 7.677
+  },
+  {
+   "n": 19,
+   "title": "Los maquinistas convocan dos nuevas jornadas de huelga en Renfe para el 10 y el 12 de noviembre",
+   "x": 32.429,
+   "y": 87.449,
+   "w": 17,
+   "h": 7.677
+  },
+  {
+   "n": 20,
+   "title": "Ouigo cancela todos sus trenes para el 30 de octubre y 2 de noviembre tras quedar en suspenso los servicios mínimos de la huelga de maquinistas",
+   "x": 50.571,
+   "y": 87.449,
+   "w": 17,
+   "h": 7.677
+  },
+  {
+   "n": 3,
+   "title": "Iryo apunta a la magnitud del fallo del sistema LZB como causa de que su tren no arrancase antes de ser embestido en Urda",
+   "x": 14.286,
+   "y": 15.8,
+   "w": 71.429,
+   "h": 1.868
+  },
+  {
+   "n": 4,
+   "title": "El sistema de seguridad LZB que falló en el accidente de Urda debería estar reemplazado desde enero por el más moderno ERTMS",
+   "x": 14.286,
+   "y": 17.669,
+   "w": 71.429,
+   "h": 1.868
+  },
+  {
+   "n": 11,
+   "title": "Tragedia en Toledo: Asciende a 69 el número de víctimas por el accidente",
+   "x": 50.571,
+   "y": 57.311,
+   "w": 35.143,
+   "h": 3.899
+  },
+  {
+   "n": 1,
+   "title": "Accidente tren Toledo directo",
+   "x": 14.286,
+   "y": 0,
+   "w": 71.429,
+   "h": 3.249
+  },
+  {
+   "n": 2,
+   "title": "Accidente de tren de Urda: el AVE iba entre 160 y 200 km/h cuando chocó contra el Iryo",
+   "x": 14.286,
+   "y": 8.367,
+   "w": 71.429,
+   "h": 4.427
+  },
+  {
+   "n": 5,
+   "title": "El Rey, tras visitar a los heridos: \"Tendrán que adoptarse medidas para que esto no vuelva a suceder\"",
+   "x": 50,
+   "y": 23.761,
+   "w": 35.714,
+   "h": 9.586
+  }
+ ]
+}

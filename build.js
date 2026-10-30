@@ -34,6 +34,7 @@ const { FRONT_JS } = require('./lib/front');
 const { inlineImages } = require('./lib/images');
 const { buildHtml } = require('./lib/render');
 const { PAPERS, bySlug } = require('./lib/sites');
+const { captureFront } = require('./lib/capture');
 
 const ROOT = __dirname;
 const DATA = path.join(ROOT, 'data');
@@ -244,12 +245,19 @@ async function processPaper(drv, paper, idx) {
   }
 
   const ok = items.filter((i) => i.ok);
+  let frontMeta = null;
+  try {
+    if (ok.length) frontMeta = await captureFront(nav, paper, ok, outDir);
+  } catch (e) { log(`[${paper.slug}] sin captura de portada: ${e.message}`); }
+  if (frontMeta) log(`[${paper.slug}] portada capturada: ${(frontMeta.bytes / 1024).toFixed(0)}KB, ${frontMeta.hotspots.length}/${ok.length} zonas`);
+
   fs.writeFileSync(path.join(outDir, 'index.json'), JSON.stringify({
     paper: { slug: paper.slug, name: paper.name, color: paper.color, accent: paper.accent },
     date: DATE,
     collectedAt: new Date().toISOString(),
     total: items.length,
     ok: ok.length,
+    front: frontMeta || undefined,
     items,
   }, null, 1));
   return { slug: paper.slug, name: paper.name, total: items.length, ok: ok.length };

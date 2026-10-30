@@ -330,5 +330,60 @@
    "imgs": 0,
    "chars": 1797
   }
- ]
+ ],
+ "front": {
+  "img": "front.webp",
+  "w": 1400,
+  "h": 4579,
+  "hotspots": [
+   {
+    "n": 8,
+    "title": "Puente descarta una dimisión inmediata y comparecerá el martes en la Diputación Permanente presionado por sus socios",
+    "x": 73.357,
+    "y": 13.671,
+    "w": 19.5,
+    "h": 1.092
+   },
+   {
+    "n": 19,
+    "title": "La polémica publicación de RTVE sobre la muerte de Báñez que ha obligado a la televisión pública a pedir perdón",
+    "x": 7.143,
+    "y": 94.693,
+    "w": 19.5,
+    "h": 2.686
+   },
+   {
+    "n": 1,
+    "title": "Accidente tren Toledo",
+    "x": 55.714,
+    "y": 22.56,
+    "w": 10.643,
+    "h": 6.224
+   },
+   {
+    "n": 9,
+    "title": "El CEO de Iryo alertó 23 días antes del accidente de que los fallos del LZB dejaban sus trenes inmovilizados",
+    "x": 29.214,
+    "y": 19.087,
+    "w": 41.571,
+    "h": 1.616
+   },
+   {
+    "n": 11,
+    "title": "El Rey pide afrontar con \"rigor\" la tragedia y afirma que \"tendrán que adoptarse medidas para que no vuelva a suceder\"",
+    "x": 7.143,
+    "y": 38.48,
+    "w": 46,
+    "h": 1.616
+   },
+   {
+    "n": 10,
+    "title": "Los investigadores copian los audios de conversaciones entre maquinistas y operadores para esclarecer las circunstancias",
+    "x": 7.143,
+    "y": 40.86,
+    "w": 46,
+    "h": 2.817
+   }
+  ]
+ }
 }

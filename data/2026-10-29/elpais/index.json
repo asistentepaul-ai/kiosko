@@ -326,5 +326,132 @@
    "ok": false,
    "bytes": 0
   }
- ]
+ ],
+ "front": {
+  "img": "front.webp",
+  "w": 1400,
+  "h": 3150,
+  "hotspots": [
+   {
+    "n": 12,
+    "title": "Rodrigo se durmió, perdió el tren y se libró del accidente; ahora busca a su primo desaparecido",
+    "x": 40.5,
+    "y": 39.492,
+    "w": 29.571,
+    "h": 2.571
+   },
+   {
+    "n": 7,
+    "title": "Puente anuncia que comparecerá el 3 de noviembre a petición propia en el Congreso tras la solicitud de varios socios",
+    "x": 8.786,
+    "y": 29.619,
+    "w": 29.571,
+    "h": 2.603
+   },
+   {
+    "n": 15,
+    "title": "Ouigo cancela sus trenes para el 30 de octubre y el 2 de noviembre",
+    "x": 72.286,
+    "y": 42.762,
+    "w": 19,
+    "h": 5.079
+   },
+   {
+    "n": 3,
+    "title": "El consejero delegado de Iryo advirtió de los problemas del sistema LZB tres semanas antes",
+    "x": 8.786,
+    "y": 21.587,
+    "w": 19,
+    "h": 5.81
+   },
+   {
+    "n": 16,
+    "title": "Yo viajaba en ese tren",
+    "x": 8.786,
+    "y": 50.095,
+    "w": 11.929,
+    "h": 10.508
+   },
+   {
+    "n": 17,
+    "title": "Sin noticias de José San Emeterio, el hombre que viajaba con Trece, el perro devuelto a su mujer",
+    "x": 22.857,
+    "y": 50.095,
+    "w": 11.929,
+    "h": 10.508
+   },
+   {
+    "n": 18,
+    "title": "Consternación por la desaparición de la compositora Marisa Manchado",
+    "x": 37,
+    "y": 50.095,
+    "w": 11.929,
+    "h": 10.508
+   },
+   {
+    "n": 4,
+    "title": "Dos vidas cruzadas en la cabina: Antonio y Daniel, los maquinistas treintañeros del AVE 2080 que murieron en el accidente",
+    "x": 29.929,
+    "y": 21.27,
+    "w": 40.143,
+    "h": 3.238
+   },
+   {
+    "n": 10,
+    "title": "Abascal carga contra Pedro Sánchez y “Óscar Muerte”",
+    "x": 8.786,
+    "y": 42.794,
+    "w": 29.571,
+    "h": 4.508
+   },
+   {
+    "n": 5,
+    "title": "La maquinista del Iryo intentó desbloquear su tren en dos ocasiones sin éxito y buscó el consejo de su empresa",
+    "x": 72.286,
+    "y": 10.127,
+    "w": 19,
+    "h": 7.175
+   },
+   {
+    "n": 9,
+    "title": "Feijóo apunta a las “responsabilidades políticas” de Puente por el segundo accidente mortal en nueve meses",
+    "x": 8.786,
+    "y": 37.048,
+    "w": 29.571,
+    "h": 5.111
+   },
+   {
+    "n": 6,
+    "title": "Muere la exministra Fátima Báñez, que viajaba en uno de los trenes",
+    "x": 72.286,
+    "y": 17.937,
+    "w": 19,
+    "h": 8.159
+   },
+   {
+    "n": 19,
+    "title": "Muere Patrick Stewart, el capitán Picard de ‘Star Trek’ y el Profesor X de ‘X-Men’, a los 86 años",
+    "x": 8.786,
+    "y": 69.746,
+    "w": 7.429,
+    "h": 26.444
+   },
+   {
+    "n": 1,
+    "title": "El primer informe técnico fija en 160 a 200 kilómetros por hora la velocidad del AVE que chocó en Urda",
+    "x": 8.786,
+    "y": 10.127,
+    "w": 19,
+    "h": 10.857
+   },
+   {
+    "n": 13,
+    "title": "El Rey pide que se determine “cómo y por qué” ha sucedido y medidas para que “no vuelva a suceder”",
+    "x": 72.286,
+    "y": 29.619,
+    "w": 19,
+    "h": 12.508
+   }
+  ]
+ }
 }

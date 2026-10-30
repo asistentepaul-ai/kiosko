@@ -330,5 +330,100 @@
    "imgs": 0,
    "chars": 1589
   }
- ]
+ ],
+ "front": {
+  "img": "front.webp",
+  "w": 1400,
+  "h": 2492,
+  "hotspots": [
+   {
+    "n": 1,
+    "title": "Responsable centro ADIF",
+    "x": 14.5,
+    "y": 40.128,
+    "w": 7.571,
+    "h": 3.371
+   },
+   {
+    "n": 18,
+    "title": "España suma más muertos en AVE que el conjunto del resto de países en toda la historia",
+    "x": 38.857,
+    "y": 63.443,
+    "w": 22.286,
+    "h": 2.006
+   },
+   {
+    "n": 19,
+    "title": "Los periodistas de TO analizan las novedades de la investigación sobre Urda",
+    "x": 64.357,
+    "y": 61.035,
+    "w": 20.143,
+    "h": 3.13
+   },
+   {
+    "n": 16,
+    "title": "Sánchez evita pronunciarse sobre la continuidad de Puente tras el accidente de Urda",
+    "x": 14.5,
+    "y": 60.112,
+    "w": 22.286,
+    "h": 4.213
+   },
+   {
+    "n": 20,
+    "title": "Familiares de víctimas reciben mensajes falsos sobre la identificación de los cuerpos",
+    "x": 14.5,
+    "y": 76.124,
+    "w": 22.714,
+    "h": 4.213
+   },
+   {
+    "n": 8,
+    "title": "Iryo alertó a ADIF hace semanas de que sus trenes se «paraban» en la línea de Andalucía",
+    "x": 14.5,
+    "y": 33.748,
+    "w": 22.357,
+    "h": 4.936
+   },
+   {
+    "n": 12,
+    "title": "Así son los ordenadores de ADIF de los años 90 que hacen fallar el sistema de la vía a Andalucía",
+    "x": 39.143,
+    "y": 40.409,
+    "w": 46.429,
+    "h": 2.568
+   },
+   {
+    "n": 9,
+    "title": "Puente dio hace días a su amigo al frente de Renfe el control total de la seguridad ferroviaria",
+    "x": 14.5,
+    "y": 44.502,
+    "w": 22.357,
+    "h": 5.778
+   },
+   {
+    "n": 7,
+    "title": "El primer informe estima que el AVE viajaba «entre 160 y 200 km/h» cuando chocó en Urda",
+    "x": 14.5,
+    "y": 24.358,
+    "w": 22.357,
+    "h": 8.748
+   },
+   {
+    "n": 2,
+    "title": "PSOE destitución Puente",
+    "x": 14.5,
+    "y": 83.467,
+    "w": 22.714,
+    "h": 11.717
+   },
+   {
+    "n": 3,
+    "title": "Frente Amplio Puente",
+    "x": 39.286,
+    "y": 83.467,
+    "w": 22.714,
+    "h": 11.717
+   }
+  ]
+ }
 }

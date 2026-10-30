@@ -326,5 +326,68 @@
    "imgs": 1,
    "chars": 711
   }
- ]
+ ],
+ "front": {
+  "img": "front.webp",
+  "w": 1400,
+  "h": 1419,
+  "hotspots": [
+   {
+    "n": 19,
+    "title": "Moreno: «Ahora mismo yo no viajaría en el AVE, por lo menos en la línea de Madrid a Andalucía»",
+    "x": 62.143,
+    "y": 60.254,
+    "w": 21.429,
+    "h": 6.061
+   },
+   {
+    "n": 20,
+    "title": "El CEO de Iryo avisó el 5 de octubre del sistema «bastante antiguo» LZB que se usa en la línea Madrid-Sevilla",
+    "x": 62.143,
+    "y": 66.314,
+    "w": 21.429,
+    "h": 6.061
+   },
+   {
+    "n": 17,
+    "title": "Álvarez de Toledo tacha de «abyecto» el mensaje de RTVE sobre la muerte de Báñez: «Titular indecente»",
+    "x": 39.143,
+    "y": 75.194,
+    "w": 21.643,
+    "h": 12.826
+   },
+   {
+    "n": 18,
+    "title": "Adif autorizó al AVE reanudar «a marcha normal» pese a que otro maquinista se negó a superar los 40 km/h como marca el protocolo",
+    "x": 62.143,
+    "y": 42.636,
+    "w": 21.429,
+    "h": 14.799
+   },
+   {
+    "n": 13,
+    "title": "Artículo de Mariano Rajoy en recuerdo de Fátima Báñez: «Fátima era inteligente y capaz, pero sobre todo buena»",
+    "x": 16.429,
+    "y": 55.18,
+    "w": 44.286,
+    "h": 7.4
+   },
+   {
+    "n": 14,
+    "title": "¿Dónde estás, Fátima?",
+    "x": 16.429,
+    "y": 65.398,
+    "w": 44.286,
+    "h": 7.47
+   },
+   {
+    "n": 16,
+    "title": "La tragedia de la familia de Fátima Báñez que llora su muerte a los 59 años: uno de sus hijos se encontraba en Atlanta cursando un máster",
+    "x": 16.429,
+    "y": 75.194,
+    "w": 21.643,
+    "h": 16.35
+   }
+  ]
+ }
 }

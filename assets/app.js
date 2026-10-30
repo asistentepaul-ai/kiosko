@@ -108,7 +108,48 @@ async function loadPaper() {
   front.dataset.brand = '1';
   front.style.setProperty('--brand', p.color || '#14161a');
   front.style.setProperty('--brand-ink', p.accent || p.color || '#14161a');
-  renderFront(state.data.items || []);
+  if (state.data.front && state.data.front.hotspots) renderShot(state.data);
+  else renderFront(state.data.items || []);
+}
+
+// Portada real capturada + zonas clicables encima.
+function renderShot(data) {
+  const front = $('#front');
+  front.innerHTML = '';
+  front.classList.add('shot-mode');
+  const f = data.front;
+  const items = data.items || [];
+  const bySlug = new Map(items.map((i) => [i.n, i]));
+
+  const shot = el('div', 'shot');
+  const img = el('img', 'shot-img');
+  img.src = `data/${state.day}/${state.paper}/${f.img}`;
+  img.width = f.w; img.height = f.h;
+  img.alt = `Portada de ${data.paper?.name || state.paper}`;
+  img.loading = 'eager';
+  shot.appendChild(img);
+
+  let n = 0;
+  for (const z of f.hotspots) {
+    const item = bySlug.get(z.n);
+    if (!item || !item.ok) continue;
+    const a = el('a', 'zone');
+    a.href = pdfUrl(item);
+    a.style.left = z.x + '%';
+    a.style.top = z.y + '%';
+    a.style.width = z.w + '%';
+    a.style.height = z.h + '%';
+    a.title = item.title;
+    a.setAttribute('aria-label', item.title);
+    a.appendChild(el('span', 'zone-tag', item.title));
+    if (location.search.includes('debug')) a.classList.add('zdebug');
+    a.addEventListener('click', (e) => { e.preventDefault(); openViewer(item); });
+    shot.appendChild(a);
+    n++;
+  }
+  front.appendChild(shot);
+
+  if (!n) setStatus('Portada sin zonas activas para este día.', true);
 }
 
 function thumbNode(item) {
@@ -148,6 +189,7 @@ function cardFor(item, kind) {
 function renderFront(items) {
   const front = $('#front');
   front.innerHTML = '';
+  front.classList.remove('shot-mode');
   if (!items.length) { setStatus('Sin noticias guardadas para este día.', true); return; }
   const [lead, ...rest] = items;
   front.appendChild(cardFor(lead, 'lead'));
@@ -164,7 +206,7 @@ function renderFront(items) {
   }
 }
 
-const pdfUrl = (item) => `data/${state.day}/${state.paper}/${item.pdf}`;
+const pdfUrl = (item) => `data/${state.day}/${item.pdf}`;
 
 function openViewer(item) {
   $('#viewerTitle').textContent = item.title;
