@@ -246,9 +246,23 @@ async function processPaper(drv, paper, idx) {
 
   const ok = items.filter((i) => i.ok);
   let frontMeta = null;
-  try {
-    if (ok.length) frontMeta = await captureFront(nav, paper, ok, outDir);
-  } catch (e) { log(`[${paper.slug}] sin captura de portada: ${e.message}`); }
+  if (ok.length) {
+    // La página que descargó 20 artículos acaba con la sesión CDP muerta, así que
+    // la captura va en página propia y nueva. Si aun así falla, se reintenta una vez.
+    for (let attempt = 1; attempt <= 2 && !frontMeta; attempt++) {
+      let cap = null;
+      try {
+        cap = await newPage(drv, { width: 1440, height: 1000 });
+        await blockNoise(cap);
+        frontMeta = await captureFront(cap, paper, ok, outDir);
+      } catch (e) {
+        log(`[${paper.slug}] captura intento ${attempt} falló: ${e.message}`);
+        frontMeta = null;
+      } finally {
+        if (cap) await cap.close().catch(() => {});
+      }
+    }
+  }
   if (frontMeta) log(`[${paper.slug}] portada capturada: ${(frontMeta.bytes / 1024).toFixed(0)}KB, ${frontMeta.hotspots.length}/${ok.length} zonas`);
 
   fs.writeFileSync(path.join(outDir, 'index.json'), JSON.stringify({

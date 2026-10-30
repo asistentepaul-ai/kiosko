@@ -330,5 +330,148 @@
    "imgs": 1,
    "chars": 3702
   }
- ]
+ ],
+ "front": {
+  "img": "front.webp",
+  "w": 1400,
+  "h": 1936,
+  "hotspots": [
+   {
+    "n": 1,
+    "title": "Accidente tren Toledo",
+    "x": 7.143,
+    "y": 8.833,
+    "w": 15.143,
+    "h": 2.583
+   },
+   {
+    "n": 4,
+    "title": "Los 25 km en los que nadie detuvo el tren",
+    "x": 24.786,
+    "y": 8.833,
+    "w": 15.143,
+    "h": 2.583
+   },
+   {
+    "n": 5,
+    "title": "El accidente, explicado en gráficos",
+    "x": 42.429,
+    "y": 8.833,
+    "w": 15.143,
+    "h": 2.583
+   },
+   {
+    "n": 3,
+    "title": "Desaparecidos trenes Urda",
+    "x": 60.071,
+    "y": 8.833,
+    "w": 15.143,
+    "h": 2.583
+   },
+   {
+    "n": 6,
+    "title": "Atención a víctimas y allegados",
+    "x": 77.714,
+    "y": 8.833,
+    "w": 15.143,
+    "h": 2.583
+   },
+   {
+    "n": 7,
+    "title": "Transportes certificó la seguridad",
+    "x": 95.357,
+    "y": 8.833,
+    "w": 4.643,
+    "h": 2.583
+   },
+   {
+    "n": 10,
+    "title": "¿Dependía todo de un solo operador? Las cinco capas de seguridad que no evitaron la tragedia de Urda",
+    "x": 7.143,
+    "y": 33.471,
+    "w": 19.5,
+    "h": 5.32
+   },
+   {
+    "n": 15,
+    "title": "El ejemplo institucional de Page: \"muy afectado\", aparca sus diferencias con Sánchez y ejerce de anfitrión de Feijóo",
+    "x": 73.357,
+    "y": 21.178,
+    "w": 19.5,
+    "h": 5.32
+   },
+   {
+    "n": 16,
+    "title": "Martín, el técnico convertido por Puente en 'chivo expiatorio' y destapado por unos audios a favor del Gobierno",
+    "x": 73.357,
+    "y": 28.357,
+    "w": 19.5,
+    "h": 5.32
+   },
+   {
+    "n": 13,
+    "title": "Investigación. El CEO de Iryo alertó 23 días antes del accidente de que los fallos del LZB dejaban sus trenes inmovilizados",
+    "x": 29.214,
+    "y": 46.901,
+    "w": 41.571,
+    "h": 3.822
+   },
+   {
+    "n": 19,
+    "title": "Lawrence y Fernando, el matrimonio de Oklahoma roto por el accidente: \"No sabe en qué momento desapareció\"",
+    "x": 7.143,
+    "y": 86.002,
+    "w": 46,
+    "h": 3.564
+   },
+   {
+    "n": 20,
+    "title": "Casa Real. El Rey pide afrontar con \"dignidad y rigor\" la tragedia de Urda y afirma que \"tendrán que adoptarse medidas para que esto no vuelva a suceder\"",
+    "x": 7.143,
+    "y": 89.979,
+    "w": 46,
+    "h": 3.822
+   },
+   {
+    "n": 9,
+    "title": "En el corazón del 'factor humano' en crisis por Urda: \"En un sistema degradado, somos la última protección\"",
+    "x": 7.143,
+    "y": 21.178,
+    "w": 19.5,
+    "h": 9.143
+   },
+   {
+    "n": 11,
+    "title": "La continuidad de Puente divide al PSOE mientras él rechaza dimitir: \"Los audios lo ponen más contra las cuerdas\"",
+    "x": 7.143,
+    "y": 40.651,
+    "w": 19.5,
+    "h": 9.556
+   },
+   {
+    "n": 12,
+    "title": "El vagón 8 del AVE incrustado en un vagón del Iryo: la imagen de la tragedia de Alexandra, Antonio, Adriana...",
+    "x": 29.214,
+    "y": 41.632,
+    "w": 41.571,
+    "h": 4.855
+   },
+   {
+    "n": 18,
+    "title": "El PSOE ofrece en sacrificio al último de la fila",
+    "x": 73.357,
+    "y": 37.655,
+    "w": 19.5,
+    "h": 13.017
+   },
+   {
+    "n": 8,
+    "title": "Adif consintió prorrogar el viejo sistema LZB por un ahorro de 37 millones de euros",
+    "x": 7.143,
+    "y": 13.068,
+    "w": 85.714,
+    "h": 7.541
+   }
+  ]
+ }
 }

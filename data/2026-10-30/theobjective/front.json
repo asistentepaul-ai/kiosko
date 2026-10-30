@@ -1,0 +1,88 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3016,
+ "bytes": 203560,
+ "hotspots": [
+  {
+   "n": 10,
+   "title": "Los sindicatos dan la estocada a Puente: «La filtración es gravísima»",
+   "x": 14.5,
+   "y": 27.454,
+   "w": 34.786,
+   "h": 1.956
+  },
+  {
+   "n": 19,
+   "title": "Macarras en el poder",
+   "x": 41.571,
+   "y": 64.523,
+   "w": 20.286,
+   "h": 3.647
+  },
+  {
+   "n": 15,
+   "title": "¿Dónde está el dinero? ADIF es el segundo mayor receptor de fondos de toda la UE",
+   "x": 39.286,
+   "y": 36.936,
+   "w": 22.714,
+   "h": 3.481
+  },
+  {
+   "n": 9,
+   "title": "El Gobierno oculta un audio clave del accidente que desmiente la versión oficial",
+   "x": 14.5,
+   "y": 24.569,
+   "w": 34.786,
+   "h": 2.686
+  },
+  {
+   "n": 12,
+   "title": "La seguridad de la circulación en ADIF sigue en manos de un periodista pese a Adamuz",
+   "x": 50.786,
+   "y": 24.569,
+   "w": 34.786,
+   "h": 2.686
+  },
+  {
+   "n": 20,
+   "title": "Los sindicatos exigen aclarar si el sistema LZB se cayó por avería o por desconexión voluntaria",
+   "x": 14.5,
+   "y": 91.976,
+   "w": 46.429,
+   "h": 4.045
+  },
+  {
+   "n": 17,
+   "title": "El Gobierno gasta la mitad que la UE en mantener la alta velocidad tras recortar el 22%",
+   "x": 14.5,
+   "y": 42.44,
+   "w": 22.714,
+   "h": 10.113
+  },
+  {
+   "n": 18,
+   "title": "Tensa espera en Urda: «Tengo la esperanza de abrazar a mi hermano»",
+   "x": 39.286,
+   "y": 42.44,
+   "w": 22.714,
+   "h": 10.113
+  },
+  {
+   "n": 14,
+   "title": "Tensa reunión de Sánchez con los técnicos de ADIF en Atocha: «Entraban al matadero»",
+   "x": 14.5,
+   "y": 30.736,
+   "w": 22.714,
+   "h": 10.71
+  },
+  {
+   "n": 8,
+   "title": "ADIF admitió por escrito en 2022 que el sistema estaba «obsoleto» para los trenes Iryo",
+   "x": 14.5,
+   "y": 11.605,
+   "w": 71.071,
+   "h": 5.272
+  }
+ ]
+}

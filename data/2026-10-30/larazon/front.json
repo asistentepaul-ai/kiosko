@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3046,
+ "bytes": 277014,
+ "hotspots": [
+  {
+   "n": 17,
+   "title": "La cúpula de la Guardia Civil investigó a la UCO tras descartar su implicación en las filtraciones",
+   "x": 14.286,
+   "y": 78.956,
+   "w": 29.071,
+   "h": 1.51
+  },
+  {
+   "n": 14,
+   "title": "El padre Fernando: de sujetar el suero a la absolución colectiva",
+   "x": 14.286,
+   "y": 51.871,
+   "w": 17,
+   "h": 5.515
+  },
+  {
+   "n": 9,
+   "title": "Carmen, la viajera que sobrevivió al accidente de Adamuz y Urda",
+   "x": 32.429,
+   "y": 51.871,
+   "w": 17,
+   "h": 5.515
+  },
+  {
+   "n": 11,
+   "title": "Pedro Rico, CEO de Vithas y superviviente del accidente de trenes: \"Haberlo vivido como médico te da otra dimensión\"",
+   "x": 50.571,
+   "y": 51.871,
+   "w": 17,
+   "h": 5.515
+  },
+  {
+   "n": 10,
+   "title": "Sin noticias de los desaparecidos en Urda: «Mantenemos la esperanza»",
+   "x": 68.714,
+   "y": 51.871,
+   "w": 17,
+   "h": 5.515
+  },
+  {
+   "n": 18,
+   "title": "La abogada de Koldo se aferra a las agendas de Leire para desligarse de las \"cloacas\"",
+   "x": 44.5,
+   "y": 63.789,
+   "w": 17,
+   "h": 5.811
+  },
+  {
+   "n": 3,
+   "title": "La aseguradora de Adif consigna un millón de euros para las víctimas de Adamuz el mismo día del accidente de Urda",
+   "x": 14.286,
+   "y": 12.213,
+   "w": 71.429,
+   "h": 1.51
+  },
+  {
+   "n": 19,
+   "title": "La Junta Electoral abre otro expediente sancionador a Sánchez por su vídeo con el \"Guernica\"",
+   "x": 44.5,
+   "y": 75.968,
+   "w": 17,
+   "h": 6.5
+  },
+  {
+   "n": 20,
+   "title": "Un juzgado admite la demanda del exjuez García-Castellón contra Pablo Fernández (Podemos): le reclama 100.000 euros",
+   "x": 14.286,
+   "y": 88.871,
+   "w": 17,
+   "h": 7.19
+  },
+  {
+   "n": 15,
+   "title": "Feijóo enseña a Puente la puerta de salida y muestra su perfil más presidenciable con los expertos",
+   "x": 14.286,
+   "y": 40.085,
+   "w": 23.071,
+   "h": 5.384
+  },
+  {
+   "n": 16,
+   "title": "El exdirector de la Guardia Civil ordenó a la UCO anular la causa contra el \"hermanísimo\": \"Decir que no hay nada\"",
+   "x": 14.286,
+   "y": 66.94,
+   "w": 29.071,
+   "h": 6.73
+  },
+  {
+   "n": 4,
+   "title": "Sánchez y sus gurús calculan qué les cuesta más: mantener a Puente o provocar su caída",
+   "x": 50,
+   "y": 17.958,
+   "w": 35.714,
+   "h": 6.303
+  },
+  {
+   "n": 2,
+   "title": "Adif presiona a los controladores para acelerar la recuperación del tráfico ferroviario pese al riesgo de seguridad para no indemnizar los retrasos",
+   "x": 14.286,
+   "y": 4.137,
+   "w": 71.429,
+   "h": 4.892
+  }
+ ]
+}

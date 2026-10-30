@@ -280,10 +280,10 @@ main { flex: 1; padding: 30px 0 60px; }
 .zone:focus-visible .zone-tag { opacity: 1; transform: translateY(0); }
 .zone.flip .zone-tag { top: auto; bottom: 100%; margin: 0 0 4px; transform: translateY(3px); }
 
-/* En móvil la portada se lee mal: se deja desplazar en horizontal. */
+/* En móvil la portada se ajusta al ancho: se ve entera y se amplía con los dedos. */
 @media (max-width: 760px) {
-  .front.shot-mode { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -14px; padding: 0 14px 6px; }
-  .shot { min-width: 720px; }
+  .front.shot-mode { overflow-x: visible; margin: 0 -10px; }
+  .shot { min-width: 0; width: 100%; }
   .zone-tag { display: none; }
 }
 

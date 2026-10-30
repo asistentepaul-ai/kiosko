@@ -1,0 +1,120 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2932,
+ "bytes": 221158,
+ "hotspots": [
+  {
+   "n": 18,
+   "title": "Un PP \"en shock\" por Fátima Báñez cierra filas con la orden de \"extremar la prudencia\"",
+   "x": 43.357,
+   "y": 81.003,
+   "w": 19.286,
+   "h": 3.513
+  },
+  {
+   "n": 8,
+   "title": "Papá, no vengas en tren",
+   "x": 64.357,
+   "y": 37.653,
+   "w": 26.286,
+   "h": 2.933
+  },
+  {
+   "n": 17,
+   "title": "Sánchez sujeta a Puente pese al pánico en el PSOE al 29-N: \"Hay que ofrecer cabezas\"",
+   "x": 43.357,
+   "y": 75.409,
+   "w": 19.286,
+   "h": 4.468
+  },
+  {
+   "n": 10,
+   "title": "Sánchez ha perdido las elecciones del 29-N",
+   "x": 64.357,
+   "y": 48.261,
+   "w": 26.286,
+   "h": 3.649
+  },
+  {
+   "n": 20,
+   "title": "Un Iryo que salió de Sevilla recibió otra orden de \"marcha normal\" y se salvó por poco",
+   "x": 43.357,
+   "y": 90.655,
+   "w": 19.286,
+   "h": 5.048
+  },
+  {
+   "n": 11,
+   "title": "¡Tranquilos, estamos investigando lo que ha pasado!",
+   "x": 64.357,
+   "y": 53.035,
+   "w": 26.286,
+   "h": 4.468
+  },
+  {
+   "n": 16,
+   "title": "Radiografía mundial de los accidentes de trenes de alta velocidad: el 'ranking' que saca los colores a España",
+   "x": 8.357,
+   "y": 91.917,
+   "w": 33.286,
+   "h": 3.99
+  },
+  {
+   "n": 9,
+   "title": "Liberalización y desgobierno: el controlador es solo un síntoma de algo peor",
+   "x": 64.357,
+   "y": 41.712,
+   "w": 26.286,
+   "h": 5.423
+  },
+  {
+   "n": 12,
+   "title": "No es cuestión de dinero: lo que esconde la mala gobernanza del ferrocarril",
+   "x": 8.357,
+   "y": 62.347,
+   "w": 19.286,
+   "h": 11.153
+  },
+  {
+   "n": 13,
+   "title": "El audio desvela que la orden de partir a velocidad normal se consensuó en la sala",
+   "x": 29.357,
+   "y": 62.347,
+   "w": 19.286,
+   "h": 11.153
+  },
+  {
+   "n": 14,
+   "title": "El misterio del sistema de seguridad ferroviaria y la raíz de fondo del problema",
+   "x": 50.357,
+   "y": 62.347,
+   "w": 19.286,
+   "h": 11.153
+  },
+  {
+   "n": 15,
+   "title": "Los primeros datos estiman que el AVE viajaba \"entre 160 y 200 km/h\" cuando impactó",
+   "x": 71.357,
+   "y": 62.347,
+   "w": 19.286,
+   "h": 11.153
+  },
+  {
+   "n": 7,
+   "title": "Transportes supo en 2025 que había fallos sistémicos en las comunicaciones entre maquinistas y Adif",
+   "x": 8.357,
+   "y": 55.491,
+   "w": 54.286,
+   "h": 6.071
+  },
+  {
+   "n": 6,
+   "title": "Los controladores denunciaron hace 15 días a Adif falta de personal y turnos maratonianos",
+   "x": 8.357,
+   "y": 26.467,
+   "w": 82.286,
+   "h": 7.196
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 5200,
+ "bytes": 350786,
+ "hotspots": [
+  {
+   "n": 5,
+   "title": "Maquinistas e ingenieros insisten en que el sistema que falló en el accidente está obsoleto: «Debió ser cambiado hace tiempo»",
+   "x": 71.357,
+   "y": 12.135,
+   "w": 18.143,
+   "h": 1.365
+  },
+  {
+   "n": 4,
+   "title": "España dedica la mitad que la UE al mantenimiento ferroviario: 45,5 millones cada mil kilómetros",
+   "x": 71.357,
+   "y": 9.462,
+   "w": 18.143,
+   "h": 1.769
+  },
+  {
+   "n": 3,
+   "title": "Sánchez arrincona al ministro que usaba de ariete",
+   "x": 71.357,
+   "y": 5.577,
+   "w": 18.143,
+   "h": 3.192
+  },
+  {
+   "n": 10,
+   "title": "La labor forense contra reloj para identificar a las víctimas: «La boca es como el DNI»",
+   "x": 71.357,
+   "y": 14.846,
+   "w": 18.143,
+   "h": 3.692
+  },
+  {
+   "n": 9,
+   "title": "La trabajadora social que atendió a la maquinista del Iryo: «Solo decía que el semáforo estaba en rojo»",
+   "x": 30.786,
+   "y": 20.981,
+   "w": 38.429,
+   "h": 1.865
+  },
+  {
+   "n": 7,
+   "title": "La Guardia Civil investiga si era adecuado el mantenimiento del tramo del accidente de Urda",
+   "x": 10.5,
+   "y": 21.615,
+   "w": 18.143,
+   "h": 4.038
+  },
+  {
+   "n": 2,
+   "title": "Puente echó a técnicos y llenó la cúpula de Adif de políticos",
+   "x": 10.5,
+   "y": 5.981,
+   "w": 53.643,
+   "h": 1.577
+  },
+  {
+   "n": 15,
+   "title": "La Milla de Oro de Madrid se blinda por miedo al saqueo: «Hay nerviosismo»",
+   "x": 10.5,
+   "y": 57.942,
+   "w": 18.143,
+   "h": 5.058
+  },
+  {
+   "n": 16,
+   "title": "María Corina Machado: «Venezuela necesita justicia y no impunidad»",
+   "x": 10.5,
+   "y": 63.692,
+   "w": 18.143,
+   "h": 5.462
+  },
+  {
+   "n": 18,
+   "title": "El Gobierno abre la batalla por el BCE: «Le toca a España, De Cos es un excelente candidato»",
+   "x": 10.5,
+   "y": 77,
+   "w": 18.143,
+   "h": 5.462
+  },
+  {
+   "n": 6,
+   "title": "Controladores de Adif avisan: «Faltan manos, hay muchos trenes para pocos ojos»",
+   "x": 10.5,
+   "y": 14.846,
+   "w": 18.143,
+   "h": 6.077
+  },
+  {
+   "n": 11,
+   "title": "El primer médico en atender a las víctimas del tren: «Nadie te prepara para la medicina de guerra»",
+   "x": 71.357,
+   "y": 19.231,
+   "w": 18.143,
+   "h": 6.096
+  },
+  {
+   "n": 12,
+   "title": "El duro adiós a Fátima en el PP: «Se lo echaba todo a las espaldas y siempre con una sonrisa»",
+   "x": 10.5,
+   "y": 27.731,
+   "w": 18.143,
+   "h": 6.346
+  },
+  {
+   "n": 13,
+   "title": "Marta Serrano: «Julieta te llevaba a la luz, estoy llena de pena»",
+   "x": 30.786,
+   "y": 27.731,
+   "w": 18.143,
+   "h": 6.346
+  },
+  {
+   "n": 14,
+   "title": "«Despertar en Urda-Chernóbil»",
+   "x": 71.357,
+   "y": 27.731,
+   "w": 18.143,
+   "h": 6.346
+  },
+  {
+   "n": 19,
+   "title": "Mansour Abbas y Yousef Jabareen, los dos palestinos que tienen la llave del Gobierno en Israel",
+   "x": 10.5,
+   "y": 89.019,
+   "w": 53.643,
+   "h": 5.058
+  },
+  {
+   "n": 20,
+   "title": "La gasolina y el diésel se contienen, pero las ayudas no evitan que sea más caro que hace un año",
+   "x": 10.5,
+   "y": 94.769,
+   "w": 53.643,
+   "h": 5.058
+  },
+  {
+   "n": 17,
+   "title": "Los demócratas entierran de momento el hacha de guerra 'woke' para ganarle a Trump",
+   "x": 10.5,
+   "y": 70.827,
+   "w": 53.643,
+   "h": 5.462
+  }
+ ]
+}

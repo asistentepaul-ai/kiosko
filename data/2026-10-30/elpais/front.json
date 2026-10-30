@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 5200,
+ "bytes": 359876,
+ "hotspots": [
+  {
+   "n": 3,
+   "title": "Las llamadas entre Atocha y los maquinistas, explicadas paso a paso",
+   "x": 8.786,
+   "y": 12.538,
+   "w": 29.571,
+   "h": 1.135
+  },
+  {
+   "n": 4,
+   "title": "Centro de Control de Atocha, un centenar de operarios entre la presión del tráfico y un ‘software’ de vanguardia",
+   "x": 8.786,
+   "y": 15.942,
+   "w": 29.571,
+   "h": 1.558
+  },
+  {
+   "n": 16,
+   "title": "David Schulner, guionista: “¿Por qué hay tantas series de ‘cowboys’ machitos? Por Trump”",
+   "x": 41.143,
+   "y": 49.712,
+   "w": 7.214,
+   "h": 9.058
+  },
+  {
+   "n": 10,
+   "title": "Sánchez mantiene el apoyo a Puente, pese a la creciente presión contra él",
+   "x": 8.786,
+   "y": 21.5,
+   "w": 11.929,
+   "h": 6.115
+  },
+  {
+   "n": 11,
+   "title": "El PP respetará el luto, pero después apuntará a Sánchez: “Con la dimisión de Puente no basta”",
+   "x": 22.857,
+   "y": 21.5,
+   "w": 11.929,
+   "h": 6.115
+  },
+  {
+   "n": 12,
+   "title": "La tragedia golpea la maltrecha reputación del sistema ferroviario, ya castigada por Adamuz",
+   "x": 37,
+   "y": 21.5,
+   "w": 11.929,
+   "h": 6.115
+  },
+  {
+   "n": 7,
+   "title": "70 familiares esperan la peor noticia dentro de la casa parroquial de Toledo: “Nadie nos dice nada”",
+   "x": 72.286,
+   "y": 0.788,
+   "w": 19,
+   "h": 3.885
+  },
+  {
+   "n": 15,
+   "title": "Un año con Alcalá Norte: un grupo disfuncional ante el reto de su segundo disco",
+   "x": 30.214,
+   "y": 49.712,
+   "w": 8.714,
+   "h": 9.058
+  },
+  {
+   "n": 14,
+   "title": "El patriarcado también mata a los hombres: “La masculinidad tóxica puede promover que se ignoren problemas de salud”",
+   "x": 18.5,
+   "y": 49.712,
+   "w": 9.5,
+   "h": 9.058
+  },
+  {
+   "n": 6,
+   "title": "Preguntas y respuestas: lo que explican y lo que no los audios entre los maquinistas y el centro de control",
+   "x": 40.5,
+   "y": 7.808,
+   "w": 29.571,
+   "h": 3.096
+  },
+  {
+   "n": 17,
+   "title": "La era del ‘premium’ mediocre: cuando tener espacio en el avión o una hamburguesa ‘de autor’ se venden como lujo",
+   "x": 50.571,
+   "y": 49.712,
+   "w": 9.786,
+   "h": 9.442
+  },
+  {
+   "n": 19,
+   "title": "La inevitable (o insoportable) levedad de los políticos en Madrid, donde solo Ayuso permanece",
+   "x": 8.786,
+   "y": 79.635,
+   "w": 9.857,
+   "h": 10.173
+  },
+  {
+   "n": 20,
+   "title": "Milei vuelve a España después de sacudir la campaña con sus insultos a Pedro Sánchez",
+   "x": 8.786,
+   "y": 90.192,
+   "w": 9.857,
+   "h": 9.808
+  },
+  {
+   "n": 18,
+   "title": "Lagarde, el ‘búho’ que pilotó las finanzas mundiales durante dos décadas sin estar predestinada a ello",
+   "x": 8.786,
+   "y": 68.192,
+   "w": 9.857,
+   "h": 11.058
+  },
+  {
+   "n": 9,
+   "title": "Dos vidas cruzadas en la cabina: Antonio y Daniel, los maquinistas treintañeros del AVE 2080",
+   "x": 72.286,
+   "y": 12.923,
+   "w": 19,
+   "h": 6.673
+  },
+  {
+   "n": 13,
+   "title": "Los hijos de Warren Buffett y el marrón de heredar 150.000 millones de dólares: “Nadie debería disponer de tanto dinero, no es natural”",
+   "x": 8.786,
+   "y": 48.154,
+   "w": 7.5,
+   "h": 18.692
+  },
+  {
+   "n": 8,
+   "title": "Antonio despertó entre los hierros del tren y trató de proteger a su mujer: “Quería cubrirla, pero no podía mover los brazos”",
+   "x": 72.286,
+   "y": 5.058,
+   "w": 19,
+   "h": 7.481
+  },
+  {
+   "n": 1,
+   "title": "Los controladores de Atocha ordenaron seguir el protocolo equivocado antes del choque: “Me estaba liando”",
+   "x": 8.786,
+   "y": 0.788,
+   "w": 61.357,
+   "h": 3.538
+  }
+ ]
+}

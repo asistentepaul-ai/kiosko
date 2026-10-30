@@ -330,5 +330,148 @@
    "imgs": 5,
    "chars": 5024
   }
- ]
+ ],
+ "front": {
+  "img": "front.webp",
+  "w": 1400,
+  "h": 3325,
+  "hotspots": [
+   {
+    "n": 7,
+    "title": "«Puente está viviendo con tiempo prestado su etapa como ministro»",
+    "x": 62.143,
+    "y": 24.09,
+    "w": 21.429,
+    "h": 2.586
+   },
+   {
+    "n": 9,
+    "title": "El párroco de Urda: «Me decían 'déjeme que llore con usted'. En ese momento no se puede hacer otra cosa»",
+    "x": 33.571,
+    "y": 39.308,
+    "w": 15.714,
+    "h": 3.759
+   },
+   {
+    "n": 4,
+    "title": "La directora de Ouigo España urgió a Adif hace un mes a que quitara ya el sistema LZB por «antiguo»",
+    "x": 16.429,
+    "y": 28.902,
+    "w": 21.643,
+    "h": 3.188
+   },
+   {
+    "n": 17,
+    "title": "Los expertos se preguntan dónde está la Agencia de Seguridad Ferroviaria tras el accidente de Toledo",
+    "x": 16.429,
+    "y": 80.271,
+    "w": 21.429,
+    "h": 3.94
+   },
+   {
+    "n": 5,
+    "title": "El primer informe de la tragedia de Urda sitúa entre 160 y 200 km/h la velocidad a la que se produjo la colisión",
+    "x": 39.143,
+    "y": 28.902,
+    "w": 21.643,
+    "h": 3.94
+   },
+   {
+    "n": 13,
+    "title": "Juristas analizan la responsabilidad legal de Puente y Adif en el accidente: «Es difícil encontrar pruebas»",
+    "x": 16.429,
+    "y": 62.075,
+    "w": 21.643,
+    "h": 3.94
+   },
+   {
+    "n": 14,
+    "title": "Abascal pide la dimisión de la «pareja siniestra» de Sánchez y «'Óscar Muerte'» tras la tragedia de Toledo",
+    "x": 39.143,
+    "y": 62.075,
+    "w": 21.643,
+    "h": 3.94
+   },
+   {
+    "n": 6,
+    "title": "Sánchez intenta ganar tiempo hasta que Puente comparezca el martes en el Congreso",
+    "x": 62.143,
+    "y": 18.947,
+    "w": 21.429,
+    "h": 4.211
+   },
+   {
+    "n": 18,
+    "title": "Los Reyes agradecen las muestras de apoyo de la comunidad internacional: «Los españoles nos sentimos acompañados»",
+    "x": 39.286,
+    "y": 80.271,
+    "w": 21.429,
+    "h": 4.211
+   },
+   {
+    "n": 20,
+    "title": "«Todo va peor»: las cifras que ponen en cuestión el estado del ferrocarril español",
+    "x": 33.571,
+    "y": 85.714,
+    "w": 15.714,
+    "h": 9.173
+   },
+   {
+    "n": 11,
+    "title": "El Gobierno cambió los fondos europeos para cobrar antes de hacer efectiva la reforma de la vía del accidente",
+    "x": 67.857,
+    "y": 34.075,
+    "w": 15.714,
+    "h": 9.955
+   },
+   {
+    "n": 12,
+    "title": "¿A qué se ha dedicado Óscar Puente? Más entrevistas en radio y tele que obras visitadas",
+    "x": 16.429,
+    "y": 57.504,
+    "w": 44.286,
+    "h": 3.609
+   },
+   {
+    "n": 19,
+    "title": "Seis plazas y hasta 408 CV: así es el Lexus TZ, el nuevo SUV eléctrico que cambiará tu forma de viajar",
+    "x": 16.429,
+    "y": 85.714,
+    "w": 15.714,
+    "h": 10.677
+   },
+   {
+    "n": 10,
+    "title": "Cárdenas (UGT-Renfe) alerta de los fallos de seguridad tras el accidente de Urda: «La vía no estaba tan bien como decían»",
+    "x": 50.714,
+    "y": 34.075,
+    "w": 15.714,
+    "h": 10.707
+   },
+   {
+    "n": 8,
+    "title": "Técnicos de Transportes hallan un sobrecoste de 10,9 millones que «un tercero» exigió en el contrato de la línea del accidente",
+    "x": 16.429,
+    "y": 34.075,
+    "w": 15.714,
+    "h": 11.699
+   },
+   {
+    "n": 16,
+    "title": "«Pues nada, si tiene problemas nos llama»: los audios del accidente revelan confusiones, vaguedades y dudas en el centro de control",
+    "x": 39.286,
+    "y": 67.278,
+    "w": 21.429,
+    "h": 10.827
+   },
+   {
+    "n": 15,
+    "title": "Si cuentas con una red de alta velocidad de lujo pero no la mantienes al final se te cae a trozos",
+    "x": 16.429,
+    "y": 67.278,
+    "w": 21.429,
+    "h": 11.759
+   }
+  ]
+ }
 }
