@@ -1,7 +1,68 @@
 {
- "updatedAt": "2026-10-30T05:29:16.783Z",
+ "updatedAt": "2026-10-31T05:26:58.736Z",
  "keepDays": 10,
  "days": [
+  {
+   "date": "2026-10-31",
+   "papers": [
+    {
+     "slug": "elmundo",
+     "name": "El Mundo",
+     "total": 20,
+     "ok": 20,
+     "color": "#0f2942",
+     "accent": "#b71234"
+    },
+    {
+     "slug": "elconfidencial",
+     "name": "El Confidencial",
+     "total": 20,
+     "ok": 20,
+     "color": "#0b0b0f",
+     "accent": "#0e7a5f"
+    },
+    {
+     "slug": "abc",
+     "name": "ABC",
+     "total": 20,
+     "ok": 2,
+     "color": "#00558c",
+     "accent": "#00558c"
+    },
+    {
+     "slug": "larazon",
+     "name": "La Razón",
+     "total": 20,
+     "ok": 20,
+     "color": "#b3121b",
+     "accent": "#b3121b"
+    },
+    {
+     "slug": "eldebate",
+     "name": "El Debate",
+     "total": 20,
+     "ok": 20,
+     "color": "#8f1d22",
+     "accent": "#8f1d22"
+    },
+    {
+     "slug": "theobjective",
+     "name": "The Objective",
+     "total": 20,
+     "ok": 20,
+     "color": "#16181d",
+     "accent": "#c8a45c"
+    },
+    {
+     "slug": "elpais",
+     "name": "El País",
+     "total": 20,
+     "ok": 20,
+     "color": "#0b0b0b",
+     "accent": "#1a6fb5"
+    }
+   ]
+  },
   {
    "date": "2026-10-30",
    "papers": [

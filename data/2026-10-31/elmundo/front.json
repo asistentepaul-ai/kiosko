@@ -1,0 +1,144 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 5035,
+ "bytes": 496774,
+ "hotspots": [
+  {
+   "n": 3,
+   "title": "Última hora del accidente",
+   "x": 7.143,
+   "y": 2.463,
+   "w": 15.143,
+   "h": 0.993
+  },
+  {
+   "n": 4,
+   "title": "Los 25 km en los que nadie detuvo el tren",
+   "x": 24.786,
+   "y": 2.463,
+   "w": 15.143,
+   "h": 0.993
+  },
+  {
+   "n": 5,
+   "title": "El accidente, explicado en gráficos",
+   "x": 42.429,
+   "y": 2.463,
+   "w": 15.143,
+   "h": 0.993
+  },
+  {
+   "n": 6,
+   "title": "Los rostros de la tragedia",
+   "x": 60.071,
+   "y": 2.463,
+   "w": 15.143,
+   "h": 0.993
+  },
+  {
+   "n": 7,
+   "title": "Atención a víctimas y allegados",
+   "x": 77.714,
+   "y": 2.463,
+   "w": 15.143,
+   "h": 0.993
+  },
+  {
+   "n": 8,
+   "title": "Transportes certificó la seguridad",
+   "x": 95.357,
+   "y": 2.463,
+   "w": 4.643,
+   "h": 0.993
+  },
+  {
+   "n": 17,
+   "title": "Las últimas víctimas del accidente identificadas: la arquitecta Patricia; el tripulante Nelson; Andrea, escaparatista de Mango...",
+   "x": 53.357,
+   "y": 94.439,
+   "w": 16.214,
+   "h": 1.271
+  },
+  {
+   "n": 12,
+   "title": "Los 10 excesos de Puente que condenarían a cualquier ministro y la razón que le salva tras su comparecencia más difícil",
+   "x": 53.357,
+   "y": 96.346,
+   "w": 16.214,
+   "h": 1.271
+  },
+  {
+   "n": 11,
+   "title": "La España que va de Fátima Báñez a Óscar Puente",
+   "x": 7.143,
+   "y": 13.525,
+   "w": 19.5,
+   "h": 1.231
+  },
+  {
+   "n": 19,
+   "title": "Golpe policial a Blocus ante un sábado de máxima alerta: blindaje de comercios en las grandes ciudades por temor a disturbios",
+   "x": 7.143,
+   "y": 31.897,
+   "w": 28.357,
+   "h": 1.212
+  },
+  {
+   "n": 20,
+   "title": "Feijóo cambia el guion de su campaña tras el accidente y reúne a la cúpula del PP para rehacer la estrategia",
+   "x": 46.857,
+   "y": 21.45,
+   "w": 19.5,
+   "h": 2.046
+  },
+  {
+   "n": 16,
+   "title": "Puente mantiene a una cúpula repleta de afines y ex cargos del PSOE al frente de la gestión de la peor crisis de la historia de Adif",
+   "x": 73.357,
+   "y": 11.221,
+   "w": 19.5,
+   "h": 2.046
+  },
+  {
+   "n": 14,
+   "title": "\"Dile a Maite que estoy vivo, que la quiero\". La tragedia a través de los ojos de Antonio, el farmacéutico jubilado que dio los primeros auxilios",
+   "x": 29.214,
+   "y": 17.16,
+   "w": 41.571,
+   "h": 1.47
+  },
+  {
+   "n": 10,
+   "title": "Sánchez aplica con Puente el \"escudo protector\" de la 'doctrina Marlaska' para evitar que lo arrastre la crisis",
+   "x": 7.143,
+   "y": 8.461,
+   "w": 19.5,
+   "h": 3.515
+  },
+  {
+   "n": 18,
+   "title": "Una semana infiltrado con los Blocus, los violentos que lideraba el hispanopakistaní Alfayez desde un pueblo de Valencia",
+   "x": 7.143,
+   "y": 28.5,
+   "w": 37.143,
+   "h": 1.867
+  },
+  {
+   "n": 13,
+   "title": "El vídeo inédito del drama y la solidaridad en Urda: \"El señor me ha enviado un ángel y se llama José Ramón\"",
+   "x": 29.214,
+   "y": 15.134,
+   "w": 41.571,
+   "h": 1.867
+  },
+  {
+   "n": 9,
+   "title": "Operadores y maquinistas no se fían de Adif y piden bajar la velocidad de circulación",
+   "x": 7.143,
+   "y": 4.111,
+   "w": 85.714,
+   "h": 4.171
+  }
+ ]
+}

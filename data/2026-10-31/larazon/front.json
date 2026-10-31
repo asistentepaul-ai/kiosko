@@ -1,0 +1,120 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2663,
+ "bytes": 226652,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "Detenido en Picanya el fundador e impulsor del movimiento Blocus en España",
+   "x": 14.286,
+   "y": 75.103,
+   "w": 29.071,
+   "h": 1.727
+  },
+  {
+   "n": 10,
+   "title": "Uno de los bomberos de Urda: \"Aún no sé explicar el silencio al acceder al vagón\"",
+   "x": 14.286,
+   "y": 34.848,
+   "w": 17,
+   "h": 5.145
+  },
+  {
+   "n": 16,
+   "title": "Desalojan a los policías y guardias civiles encerrados en el Ministerio del Interior en busca de una \"jubilación digna\"",
+   "x": 44.5,
+   "y": 49.606,
+   "w": 17,
+   "h": 5.145
+  },
+  {
+   "n": 9,
+   "title": "Rebelión de los altos funcionarios contra el Gobierno y Óscar Puente: \"Vamos a plantarnos cuando la decisión política vaya en contra de la legalidad o de los criterios técnicos\"",
+   "x": 50,
+   "y": 28.351,
+   "w": 35.714,
+   "h": 2.629
+  },
+  {
+   "n": 17,
+   "title": "El Supremo abre la puerta a suspender también el voto de los hijos de nacionalizados por la \"ley de nietos\"",
+   "x": 44.5,
+   "y": 71.724,
+   "w": 17,
+   "h": 7.435
+  },
+  {
+   "n": 11,
+   "title": "Jesús Linares, el sostén emocional de Urda: «Pequeñas certezas en medio de la incertidumbre reduce enormemente el desamparo»",
+   "x": 32.429,
+   "y": 40.631,
+   "w": 17,
+   "h": 7.435
+  },
+  {
+   "n": 12,
+   "title": "\"Sé que mi mujer no está desaparecida, solo falta que se le ponga el certificado de fallecimiento\"",
+   "x": 50.571,
+   "y": 40.631,
+   "w": 17,
+   "h": 7.435
+  },
+  {
+   "n": 13,
+   "title": "Adiós a Fátima Báñez: la exministra que nunca abandonó sus raíces",
+   "x": 68.714,
+   "y": 40.631,
+   "w": 17,
+   "h": 7.435
+  },
+  {
+   "n": 18,
+   "title": "Gael Rodríguez, de alcalde más joven al senador más joven",
+   "x": 14.286,
+   "y": 86.444,
+   "w": 17,
+   "h": 9.05
+  },
+  {
+   "n": 19,
+   "title": "El cierre de la alta velocidad Madrid-Barcelona que baraja Puente: casi 30 millones de pasajeros afectados y 100.000 millones de gasto turístico en juego en dos años",
+   "x": 32.429,
+   "y": 86.444,
+   "w": 17,
+   "h": 9.05
+  },
+  {
+   "n": 20,
+   "title": "Ceuta y Melilla: la defensa acorazada pasa por el taller",
+   "x": 50.571,
+   "y": 86.444,
+   "w": 17,
+   "h": 9.05
+  },
+  {
+   "n": 14,
+   "title": "Los policías creen que las detenciones de Blocus rebajen los altercados de Halloween",
+   "x": 14.286,
+   "y": 49.606,
+   "w": 29.071,
+   "h": 8.75
+  },
+  {
+   "n": 8,
+   "title": "Otro AVE de Renfe evitó chocar contra los trenes siniestrados en Urda por segundos",
+   "x": 14.286,
+   "y": 18.325,
+   "w": 35.714,
+   "h": 10.364
+  },
+  {
+   "n": 6,
+   "title": "Los agujeros en la versión de Puente para salvarse",
+   "x": 14.286,
+   "y": 4.732,
+   "w": 71.429,
+   "h": 5.783
+  }
+ ]
+}

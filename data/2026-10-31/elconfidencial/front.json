@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3733,
+ "bytes": 304336,
+ "hotspots": [
+  {
+   "n": 14,
+   "title": "Una atleta, el padre de un actor… Los rostros de la tragedia y 69 vidas rotas",
+   "x": 43.857,
+   "y": 44.575,
+   "w": 19.286,
+   "h": 2.759
+  },
+  {
+   "n": 12,
+   "title": "Qué dicen de Urda quienes llevan décadas estudiando el error humano en accidentes",
+   "x": 43.857,
+   "y": 35.789,
+   "w": 19.286,
+   "h": 3.509
+  },
+  {
+   "n": 13,
+   "title": "Una psicóloga de Adamuz desplegada tras la tragedia de Toledo: \"Hay incredulidad\"",
+   "x": 43.857,
+   "y": 40.182,
+   "w": 19.286,
+   "h": 3.509
+  },
+  {
+   "n": 15,
+   "title": "Los forenses terminan las autopsias de los 69 fallecidos: hay 27 cuerpos identificados",
+   "x": 43.857,
+   "y": 48.219,
+   "w": 19.286,
+   "h": 3.509
+  },
+  {
+   "n": 10,
+   "title": "Sánchez prometió en febrero que no habría otra tragedia ferroviaria y llamó irresponsables a quienes lo dudaban",
+   "x": 64.857,
+   "y": 29.869,
+   "w": 26.286,
+   "h": 3.509
+  },
+  {
+   "n": 16,
+   "title": "Miedo al tren: la confianza no se regula por decreto en el BOE",
+   "x": 64.857,
+   "y": 63.327,
+   "w": 26.286,
+   "h": 3.509
+  },
+  {
+   "n": 11,
+   "title": "El 'gurú de los trenes' británico: \"España debe hacer una auditoría internacional independiente\"",
+   "x": 8.857,
+   "y": 48.701,
+   "w": 33.286,
+   "h": 3.884
+  },
+  {
+   "n": 18,
+   "title": "Viaje a la Francia cabreada: \"El peligro son los dos países que no se soportan\"",
+   "x": 8.857,
+   "y": 72.998,
+   "w": 19.714,
+   "h": 6.858
+  },
+  {
+   "n": 7,
+   "title": "¿Reconstruir desde cero o reparar? Qué hacemos con una vía tan vieja como la del AVE entre Madrid y Sevilla",
+   "x": 8.857,
+   "y": 25.931,
+   "w": 26.286,
+   "h": 7.608
+  },
+  {
+   "n": 5,
+   "title": "Rusia veta la resolución de EEUU sobre el Sáhara y desbarata los planes de Marruecos",
+   "x": 8.857,
+   "y": 15.51,
+   "w": 82.286,
+   "h": 3
+  },
+  {
+   "n": 9,
+   "title": "\"El monstruo se le ha hecho demasiado grande al presidente\". ¿Por qué el ministro Óscar Puente no dimite?",
+   "x": 64.857,
+   "y": 19.502,
+   "w": 26.286,
+   "h": 9.483
+  },
+  {
+   "n": 6,
+   "title": "El Ejecutivo ignora desde 2022 la alerta de la CIAF de supervisar órdenes como la que dio el operario de Atocha",
+   "x": 8.857,
+   "y": 19.502,
+   "w": 54.286,
+   "h": 14.787
+  },
+  {
+   "n": 20,
+   "title": "La Policía se hará notar en Madrid para evitar disturbios y saqueos como los que se desencadenaron en Barcelona",
+   "x": 8.857,
+   "y": 81.998,
+   "w": 54.286,
+   "h": 14.787
+  }
+ ]
+}
