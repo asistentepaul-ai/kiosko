@@ -1,0 +1,120 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3578,
+ "bytes": 271854,
+ "hotspots": [
+  {
+   "n": 12,
+   "title": "La única superviviente del vagón 1 del Iryo: \"Vimos la mano y ya no la soltamos\"",
+   "x": 43.857,
+   "y": 46.562,
+   "w": 19.286,
+   "h": 2.879
+  },
+  {
+   "n": 10,
+   "title": "\"El AVE ya no es fiable\". La alta velocidad faraónica española ha dejado de molar",
+   "x": 43.857,
+   "y": 37.395,
+   "w": 19.286,
+   "h": 3.661
+  },
+  {
+   "n": 11,
+   "title": "Cómo recuperar la reputación turística tras más de 100 muertos: muchas preguntas",
+   "x": 43.857,
+   "y": 41.979,
+   "w": 19.286,
+   "h": 3.661
+  },
+  {
+   "n": 13,
+   "title": "Los forenses trabajan para identificar a las 69 víctimas: 51 ya han sido notificadas",
+   "x": 43.857,
+   "y": 50.363,
+   "w": 19.286,
+   "h": 3.661
+  },
+  {
+   "n": 16,
+   "title": "La juventud en Europa ya estaba politizada antes de salir a la calle: \"Estas protestas no son ninguna sorpresa\"",
+   "x": 64.857,
+   "y": 56.847,
+   "w": 26.286,
+   "h": 2.879
+  },
+  {
+   "n": 17,
+   "title": "Manifestantes disfrazados contra gas lacrimógeno: la violencia vuelve a Francia durante la noche de Halloween",
+   "x": 64.857,
+   "y": 60.648,
+   "w": 26.286,
+   "h": 2.879
+  },
+  {
+   "n": 8,
+   "title": "El ministro Puente no debe dimitir",
+   "x": 64.857,
+   "y": 30.911,
+   "w": 26.286,
+   "h": 2.99
+  },
+  {
+   "n": 7,
+   "title": "La posible dimisión de Puente y la verdad sobre los errores humanos",
+   "x": 8.857,
+   "y": 29.653,
+   "w": 26.286,
+   "h": 3.466
+  },
+  {
+   "n": 9,
+   "title": "Ramiro Aurín, ingeniero experto en infraestructuras: \"A un tren a Sevilla yo no me subo, al resto de la red, sí\"",
+   "x": 8.857,
+   "y": 50.866,
+   "w": 33.286,
+   "h": 4.053
+  },
+  {
+   "n": 14,
+   "title": "La noche de Halloween en Barcelona se blindó contra un fantasma: el cerrojazo policial desactiva a Blocus",
+   "x": 8.857,
+   "y": 56.847,
+   "w": 19.714,
+   "h": 12.856
+  },
+  {
+   "n": 5,
+   "title": "Netanyahu, el político indestructible que gana hasta cuando pierde",
+   "x": 8.857,
+   "y": 16.182,
+   "w": 82.286,
+   "h": 3.13
+  },
+  {
+   "n": 18,
+   "title": "Estados Unidos está (demasiado) maduro para la violencia política: por qué estas elecciones son más peligrosas que nunca",
+   "x": 8.857,
+   "y": 71.632,
+   "w": 54.286,
+   "h": 8.58
+  },
+  {
+   "n": 20,
+   "title": "Limpia en las listas del PSOE: Sánchez deja fuera a casi cuatro de cada 10 diputados, pero ratifica a Puente tras el accidente ferroviario de Urda",
+   "x": 8.857,
+   "y": 81.219,
+   "w": 54.286,
+   "h": 15.428
+  },
+  {
+   "n": 6,
+   "title": "Los retrasos que anticipaban la gran crisis del AVE en España: más de 1.800 trenes afectados por el LZB en dos años",
+   "x": 8.857,
+   "y": 20.347,
+   "w": 54.286,
+   "h": 15.484
+  }
+ ]
+}

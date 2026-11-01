@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3386,
+ "bytes": 256154,
+ "hotspots": [
+  {
+   "n": 5,
+   "title": "Las vidas truncadas en el tren: “Gracias por haber estado a mi lado”",
+   "x": 8.786,
+   "y": 20.171,
+   "w": 29.571,
+   "h": 1.742
+  },
+  {
+   "n": 10,
+   "title": "El ministro que pasó de la euforia al desastre en tres días",
+   "x": 40.5,
+   "y": 30.538,
+   "w": 29.571,
+   "h": 1.742
+  },
+  {
+   "n": 4,
+   "title": "¿Qué causó el accidente? La secuencia, paso a paso, de una cadena de fallos que el sistema no detuvo",
+   "x": 72.286,
+   "y": 6.172,
+   "w": 19,
+   "h": 3.101
+  },
+  {
+   "n": 15,
+   "title": "De Adamuz a Urda: perplejos y vulnerables",
+   "x": 51.143,
+   "y": 40.165,
+   "w": 11.929,
+   "h": 5.995
+  },
+  {
+   "n": 17,
+   "title": "Las ‘midterms’, en mapas y gráficos: qué se vota este martes y cómo llega Trump",
+   "x": 19.571,
+   "y": 54.696,
+   "w": 8,
+   "h": 9.982
+  },
+  {
+   "n": 14,
+   "title": "Lecciones alemanas del peor accidente de la alta velocidad de la historia",
+   "x": 72.286,
+   "y": 29.888,
+   "w": 19,
+   "h": 4.194
+  },
+  {
+   "n": 16,
+   "title": "Estados Unidos somete a referéndum el final del trumpismo",
+   "x": 8.786,
+   "y": 54.696,
+   "w": 8.643,
+   "h": 9.982
+  },
+  {
+   "n": 20,
+   "title": "Detrás de la guerrilla de Everyone Hates Elon y sus tres lecciones para acabar con los superricos",
+   "x": 18.571,
+   "y": 74.306,
+   "w": 7.571,
+   "h": 12.64
+  },
+  {
+   "n": 7,
+   "title": "El tercer tren de Urda: la espera bajo un puente a dos kilómetros de la tragedia",
+   "x": 8.786,
+   "y": 30.183,
+   "w": 29.571,
+   "h": 3.514
+  },
+  {
+   "n": 8,
+   "title": "Puente intenta bajar la presión con un plan de refuerzo de la seguridad del AVE",
+   "x": 40.5,
+   "y": 11.725,
+   "w": 29.571,
+   "h": 4.076
+  },
+  {
+   "n": 9,
+   "title": "Feijóo gira la campaña hacia el perfil gestor del PP",
+   "x": 40.5,
+   "y": 16.421,
+   "w": 29.571,
+   "h": 4.076
+  },
+  {
+   "n": 6,
+   "title": "El diario de Carmen mientras su padre lucha por recuperarse en la UCI: “Papá, tú no te puedes ir”",
+   "x": 8.786,
+   "y": 24.838,
+   "w": 29.571,
+   "h": 4.755
+  },
+  {
+   "n": 11,
+   "title": "Diego Martín, jefe sindical de los maquinistas: “No confiamos en el sistema”",
+   "x": 72.286,
+   "y": 11.725,
+   "w": 19,
+   "h": 8.092
+  },
+  {
+   "n": 13,
+   "title": "El maquinista de Angrois al operador de Atocha: “Que se aísle de la tele y la prensa”",
+   "x": 72.286,
+   "y": 20.408,
+   "w": 19,
+   "h": 8.86
+  },
+  {
+   "n": 19,
+   "title": "Mägo de Oz, muy grandes, muy conflictivos: demandas, disputas por el poder y una película que reabre las heridas",
+   "x": 8.786,
+   "y": 71.914,
+   "w": 7.571,
+   "h": 24.542
+  },
+  {
+   "n": 2,
+   "title": "Urda, la tragedia que desnudó las grietas del sistema ferroviario",
+   "x": 8.786,
+   "y": 1.211,
+   "w": 61.357,
+   "h": 4.105
+  }
+ ]
+}

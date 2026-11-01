@@ -1,0 +1,160 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3484,
+ "bytes": 277938,
+ "hotspots": [
+  {
+   "n": 17,
+   "title": "Saqueos y enfrentamientos con la Policía en Fráncfort tras una protesta estudiantil",
+   "x": 39.286,
+   "y": 81.171,
+   "w": 21.429,
+   "h": 3.042
+  },
+  {
+   "n": 12,
+   "title": "La falta de medios amenaza con retrasar aún más la investigación de Adamuz tras el accidente de Urda",
+   "x": 16.429,
+   "y": 65.27,
+   "w": 21.643,
+   "h": 3.042
+  },
+  {
+   "n": 20,
+   "title": "El Rey se estrena como anfitrión en la Cumbre Iberoamericana más polarizada de la historia",
+   "x": 67.857,
+   "y": 91.303,
+   "w": 15.714,
+   "h": 4.305
+  },
+  {
+   "n": 16,
+   "title": "Guerra abierta entre ERC y el Frente Amplio",
+   "x": 16.429,
+   "y": 81.171,
+   "w": 21.429,
+   "h": 3.301
+  },
+  {
+   "n": 13,
+   "title": "La seguridad ferroviaria también es cosa del Gobierno: ¿cómo van a asegurarse de que funciona?",
+   "x": 39.143,
+   "y": 65.27,
+   "w": 21.643,
+   "h": 3.301
+  },
+  {
+   "n": 5,
+   "title": "Más de la mitad de los españoles considera que Puente debe dimitir tras el accidente de Urda",
+   "x": 62.143,
+   "y": 18.083,
+   "w": 21.429,
+   "h": 3.444
+  },
+  {
+   "n": 4,
+   "title": "Óscar Puente, qué son 110 muertos y 260 heridos comparados con su calvario",
+   "x": 39.143,
+   "y": 27.497,
+   "w": 21.643,
+   "h": 5.454
+  },
+  {
+   "n": 3,
+   "title": "Entrambasaguas y Jamardo apuntan al Gobierno tras la tragedia de Urda: «La corrupción cuesta vidas»",
+   "x": 16.429,
+   "y": 27.497,
+   "w": 21.643,
+   "h": 5.913
+  },
+  {
+   "n": 10,
+   "title": "Señor Ministro, lo inexplicable lo explicó usted",
+   "x": 67.857,
+   "y": 37.543,
+   "w": 15.714,
+   "h": 8.18
+  },
+  {
+   "n": 9,
+   "title": "El accidente de Toledo vuelve a poner el foco en la escasa distancia entre las dos vías de la línea Madrid-Sevilla",
+   "x": 50.714,
+   "y": 37.543,
+   "w": 15.714,
+   "h": 9.501
+  },
+  {
+   "n": 19,
+   "title": "El juez pone contra las cuerdas a tres cargos socialistas por la piscina ilegal de 1,2 millones de euros",
+   "x": 50.714,
+   "y": 85.62,
+   "w": 15.714,
+   "h": 9.501
+  },
+  {
+   "n": 8,
+   "title": "Óscar Puente autorizó después de la tragedia de Adamuz una inversión de 186,17 millones de euros para desarrollar una nueva línea de AVE",
+   "x": 33.571,
+   "y": 37.543,
+   "w": 15.714,
+   "h": 10.218
+  },
+  {
+   "n": 18,
+   "title": "Mayoría de izquierda en los tres millones de extranjeros nacionalizados que podrán votar en España, medio millón más que en 2023",
+   "x": 16.429,
+   "y": 85.62,
+   "w": 15.714,
+   "h": 10.936
+  },
+  {
+   "n": 7,
+   "title": "De la condena a Ábalos a los accidentes ferroviarios en Adamuz y Urda: la secuencia de escándalos que acorrala a Transportes",
+   "x": 16.429,
+   "y": 37.543,
+   "w": 15.714,
+   "h": 11.165
+  },
+  {
+   "n": 2,
+   "title": "Final del trayecto para el ministro que fantaseaba con suceder a Sánchez",
+   "x": 16.429,
+   "y": 22.187,
+   "w": 44.286,
+   "h": 4.363
+  },
+  {
+   "n": 11,
+   "title": "Teresa Oreiro, responsable de Circulación en Adif: «Aquí hay muchos responsables: el que calla, el que presiona, el que mira para otro lado»",
+   "x": 16.429,
+   "y": 59.874,
+   "w": 44.286,
+   "h": 4.449
+  },
+  {
+   "n": 14,
+   "title": "Las amenazas de Blocus quedan en nada tras un amplio despliegue policial en varias ciudades españolas",
+   "x": 16.429,
+   "y": 69.747,
+   "w": 21.429,
+   "h": 9.501
+  },
+  {
+   "n": 6,
+   "title": "El mapa de las incidencias de Adif el último año: nueve avisos en el tramo de Urda antes del accidente",
+   "x": 62.143,
+   "y": 26.493,
+   "w": 21.429,
+   "h": 9.874
+  },
+  {
+   "n": 15,
+   "title": "Ana Martín y Bieito Rubido revelan el futuro de Puente y las dudas de Sánchez: «Lo va a dejar caer»",
+   "x": 39.286,
+   "y": 69.747,
+   "w": 21.429,
+   "h": 10.218
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 5182,
+ "bytes": 625434,
+ "hotspots": [
+  {
+   "n": 1,
+   "title": "Accidente tren Toledo",
+   "x": 7.143,
+   "y": 2.393,
+   "w": 15.143,
+   "h": 0.965
+  },
+  {
+   "n": 4,
+   "title": "Los 25 km en los que nadie detuvo el tren",
+   "x": 24.786,
+   "y": 2.393,
+   "w": 15.143,
+   "h": 0.965
+  },
+  {
+   "n": 5,
+   "title": "El accidente, explicado en gráficos",
+   "x": 42.429,
+   "y": 2.393,
+   "w": 15.143,
+   "h": 0.965
+  },
+  {
+   "n": 6,
+   "title": "Los rostros de la tragedia",
+   "x": 60.071,
+   "y": 2.393,
+   "w": 15.143,
+   "h": 0.965
+  },
+  {
+   "n": 7,
+   "title": "Atención a víctimas y allegados",
+   "x": 77.714,
+   "y": 2.393,
+   "w": 15.143,
+   "h": 0.965
+  },
+  {
+   "n": 8,
+   "title": "Transportes certificó la seguridad",
+   "x": 95.357,
+   "y": 2.393,
+   "w": 4.643,
+   "h": 0.965
+  },
+  {
+   "n": 18,
+   "title": "Adif ocultó la prórroga del contrato para renovar la señalización del tramo del accidente de Urda en sus registros de transparencia",
+   "x": 53.357,
+   "y": 92.435,
+   "w": 16.214,
+   "h": 1.235
+  },
+  {
+   "n": 12,
+   "title": "El hilo invisible del coche 8 del AVE: Juan Nacho, Lute, David y otras víctimas ya reconocidas en el accidente de Urda",
+   "x": 53.357,
+   "y": 94.288,
+   "w": 16.214,
+   "h": 1.235
+  },
+  {
+   "n": 17,
+   "title": "El PP combinará una \"política para adultos\" con ataques frontales a Sánchez: \"Es el 'momento Feijóo', somos el Gobierno a la espera\"",
+   "x": 53.357,
+   "y": 96.14,
+   "w": 16.214,
+   "h": 1.544
+  },
+  {
+   "n": 15,
+   "title": "Angrois. Las otras víctimas del 'crimen' ferroviario: \"No deberíamos dejar que salga ningún tren hasta que se arregle esto\"",
+   "x": 29.214,
+   "y": 18.526,
+   "w": 41.571,
+   "h": 1.428
+  },
+  {
+   "n": 20,
+   "title": "La sociedad pública (de Zapatero) que le dio un alquiler social a Iván Redondo antes de Moncloa: \"Aquello era pura politización\"",
+   "x": 7.143,
+   "y": 31.397,
+   "w": 37.143,
+   "h": 1.698
+  },
+  {
+   "n": 14,
+   "title": "El desastre frente al jardín de Flora, la vecina acostumbrada a que los trenes se paren en su casa: \"Desde hace dos años es así\"",
+   "x": 29.214,
+   "y": 16.577,
+   "w": 41.571,
+   "h": 1.795
+  },
+  {
+   "n": 10,
+   "title": "Santiago Abascal: \"España tenía un sistema ferroviario del que sentirnos orgullosos y eso se ha desplomado de una manera brutal y trágica\"",
+   "x": 7.143,
+   "y": 8.935,
+   "w": 19.5,
+   "h": 4.014
+  },
+  {
+   "n": 19,
+   "title": "Salvador, el guardia civil que rescató a Almudena de entre los hierros gracias a su pulsera de una hermandad de Sevilla: \"Fue la única que salió viva del vagón\"",
+   "x": 73.357,
+   "y": 15.071,
+   "w": 19.5,
+   "h": 6.04
+  },
+  {
+   "n": 9,
+   "title": "Los 22 minutos que llevaron a la tragedia de Urda: dos avisos del Iryo detenido y ocho preguntas sin respuesta",
+   "x": 7.143,
+   "y": 4.709,
+   "w": 85.714,
+   "h": 4.052
+  }
+ ]
+}

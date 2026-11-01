@@ -1,0 +1,120 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3745,
+ "bytes": 255316,
+ "hotspots": [
+  {
+   "n": 16,
+   "title": "Especial tragedia ferroviaria en Urda",
+   "x": 62.357,
+   "y": 67.69,
+   "w": 23.214,
+   "h": 2.243
+  },
+  {
+   "n": 17,
+   "title": "Óscar Puente, el turbio siervo del Nerón que incendia España",
+   "x": 38.857,
+   "y": 76.529,
+   "w": 22.286,
+   "h": 2.75
+  },
+  {
+   "n": 20,
+   "title": "Vicente Fox, expresidente de México: «Trump está loco»",
+   "x": 14.5,
+   "y": 94.045,
+   "w": 22.714,
+   "h": 2.75
+  },
+  {
+   "n": 11,
+   "title": "Un sondeo de Vox coloca al partido en 71 escaños y a PSOE y PP en empate técnico",
+   "x": 14.5,
+   "y": 36.769,
+   "w": 22.714,
+   "h": 2.804
+  },
+  {
+   "n": 7,
+   "title": "El comité de ADIF avisó por carta de que el estrés por las averías afectaría a la seguridad",
+   "x": 14.5,
+   "y": 19.119,
+   "w": 34.786,
+   "h": 2.163
+  },
+  {
+   "n": 15,
+   "title": "Óscar Puente se aferra al cargo",
+   "x": 62.357,
+   "y": 63.685,
+   "w": 23.214,
+   "h": 3.578
+  },
+  {
+   "n": 14,
+   "title": "Los socios de Sánchez critican la continuidad de Puente: «Regalan la campaña al PP»",
+   "x": 14.5,
+   "y": 68.117,
+   "w": 46.429,
+   "h": 2.43
+  },
+  {
+   "n": 18,
+   "title": "La culpa del accidente de Urda la tiene… ¡el capitalismo!",
+   "x": 63.286,
+   "y": 71.615,
+   "w": 22.286,
+   "h": 7.664
+  },
+  {
+   "n": 9,
+   "title": "El portavoz de las víctimas de Angrois: «Decir que Urda fue un error humano es un insulto»",
+   "x": 14.5,
+   "y": 23.178,
+   "w": 22.714,
+   "h": 7.797
+  },
+  {
+   "n": 10,
+   "title": "El chiringuito de ADIF: así destapó TO durante años todos sus enchufes y amaños",
+   "x": 39.286,
+   "y": 23.178,
+   "w": 22.714,
+   "h": 7.797
+  },
+  {
+   "n": 19,
+   "title": "Feijóo reúne a su Comité Ejecutivo para explicar el giro de la campaña tras el accidente",
+   "x": 14.5,
+   "y": 80.347,
+   "w": 22.714,
+   "h": 7.904
+  },
+  {
+   "n": 13,
+   "title": "La música define el voto: flamenco, de derechas; y clásica, de izquierdas",
+   "x": 39.286,
+   "y": 31.776,
+   "w": 22.714,
+   "h": 9.079
+  },
+  {
+   "n": 6,
+   "title": "ADIF lleva dos años sin convocar el comité de seguridad que previene accidentes",
+   "x": 14.5,
+   "y": 9.346,
+   "w": 71.071,
+   "h": 3.578
+  },
+  {
+   "n": 8,
+   "title": "Puente desoyó los cuatro avisos de «riesgo de error humano» recibidos antes de Urda",
+   "x": 50.786,
+   "y": 13.725,
+   "w": 34.786,
+   "h": 8.385
+  }
+ ]
+}

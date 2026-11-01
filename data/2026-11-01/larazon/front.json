@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2933,
+ "bytes": 254696,
+ "hotspots": [
+  {
+   "n": 10,
+   "title": "«El AVE pasó por la otra ventana destrozando todo a su paso»",
+   "x": 50.571,
+   "y": 34.47,
+   "w": 17,
+   "h": 4.671
+  },
+  {
+   "n": 14,
+   "title": "Un policía alertó a sus jefes del narcotúnel de Ceuta en 2014",
+   "x": 44.5,
+   "y": 48.346,
+   "w": 17,
+   "h": 4.671
+  },
+  {
+   "n": 16,
+   "title": "España, campo abonado para la injerencia extranjera de cara al 29N",
+   "x": 14.286,
+   "y": 78.929,
+   "w": 17,
+   "h": 6.035
+  },
+  {
+   "n": 17,
+   "title": "Marlaska consuma la expulsión de la Guardia Civil en Roquetas de Mar: 180 familias al limbo en vísperas de Navidad",
+   "x": 32.429,
+   "y": 78.929,
+   "w": 17,
+   "h": 6.035
+  },
+  {
+   "n": 18,
+   "title": "Blocus pincha en Barcelona: los 300 policías evitan los disturbios e identifican a 1.000 personas",
+   "x": 50.571,
+   "y": 78.929,
+   "w": 17,
+   "h": 6.035
+  },
+  {
+   "n": 19,
+   "title": "Cientos de personas marchan en Bilbao para exigir la libertad de dos detenidos por presunto terrorismo",
+   "x": 68.714,
+   "y": 78.929,
+   "w": 17,
+   "h": 6.035
+  },
+  {
+   "n": 15,
+   "title": "Los mossos de la fuga de Puigdemont reclaman el archivo porque la orden de detención no tenía \"cobertura legal\"",
+   "x": 44.5,
+   "y": 65.53,
+   "w": 17,
+   "h": 6.751
+  },
+  {
+   "n": 8,
+   "title": "Óscar Puente resiste por su poder de intimidar",
+   "x": 14.286,
+   "y": 39.72,
+   "w": 17,
+   "h": 7.228
+  },
+  {
+   "n": 9,
+   "title": "La \"cadena de averías\" como causa del accidente de Urda desaparece de la versión internacional del informe de Transportes",
+   "x": 32.429,
+   "y": 39.72,
+   "w": 17,
+   "h": 7.228
+  },
+  {
+   "n": 11,
+   "title": "La solidaridad inundó los hospitales",
+   "x": 50.571,
+   "y": 39.72,
+   "w": 17,
+   "h": 7.228
+  },
+  {
+   "n": 12,
+   "title": "Sánchez, Puente y el accidente de Urda: los fondos se justifican, la seguridad ferroviaria se demuestra",
+   "x": 68.714,
+   "y": 39.72,
+   "w": 17,
+   "h": 7.228
+  },
+  {
+   "n": 13,
+   "title": "Pulso por conservar una prueba clave del software de la cátedra de Begoña Gómez",
+   "x": 14.286,
+   "y": 48.346,
+   "w": 29.071,
+   "h": 7.944
+  },
+  {
+   "n": 4,
+   "title": "Uno de los protocolos para caídas del sistema LZB no obliga a reanudar la circulación a baja velocidad",
+   "x": 14.286,
+   "y": 4.296,
+   "w": 71.429,
+   "h": 3.614
+  },
+  {
+   "n": 6,
+   "title": "La alta velocidad Madrid-Sevilla ha sufrido 14 incidencias en los últimos dos meses y 13 fallos del LZB en Urda tras 700 millones de inversión para renovarla",
+   "x": 14.286,
+   "y": 15.752,
+   "w": 35.714,
+   "h": 9.41
+  },
+  {
+   "n": 20,
+   "title": "La batalla por el Congreso de EE UU: qué se juega Trump en las \"midterms\"",
+   "x": 14.286,
+   "y": 86.328,
+   "w": 35.143,
+   "h": 9.581
+  }
+ ]
+}
