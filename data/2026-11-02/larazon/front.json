@@ -1,0 +1,144 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3163,
+ "bytes": 291914,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "Los insultos y amenazas a policías inundan las redes sociales",
+   "x": 44.5,
+   "y": 65.602,
+   "w": 17,
+   "h": 4.9
+  },
+  {
+   "n": 10,
+   "title": "Ante esta tragedia del accidente de trenes",
+   "x": 14.286,
+   "y": 41.701,
+   "w": 17,
+   "h": 5.311
+  },
+  {
+   "n": 11,
+   "title": "El control de Atocha necesita un 20% más de personal para funcionar de forma óptima",
+   "x": 32.429,
+   "y": 41.701,
+   "w": 17,
+   "h": 5.311
+  },
+  {
+   "n": 12,
+   "title": "La juez del accidente de Urda exige más operarios para las labores de búsqueda y prohíbe difundir imágenes de las víctimas",
+   "x": 68.714,
+   "y": 41.701,
+   "w": 17,
+   "h": 5.311
+  },
+  {
+   "n": 16,
+   "title": "Aumentan los robos y peleas en Ceuta, incluso con armas de fuego, causados por inmigrantes ilegales",
+   "x": 14.286,
+   "y": 76.699,
+   "w": 17,
+   "h": 5.596
+  },
+  {
+   "n": 17,
+   "title": "Marlaska consuma la expulsión de la Guardia Civil en Roquetas de Mar: 180 familias al limbo en vísperas de Navidad",
+   "x": 32.429,
+   "y": 76.699,
+   "w": 17,
+   "h": 5.596
+  },
+  {
+   "n": 18,
+   "title": "Óscar Puente, el hombre con la bronca a cuestas: dos matrimonios, tres hijos, golf y adicción a X",
+   "x": 50.571,
+   "y": 76.699,
+   "w": 17,
+   "h": 5.596
+  },
+  {
+   "n": 19,
+   "title": "Balance de Blocus en Cataluña: 2.264 identificados en una jornada sin disturbios y cuatro detenidos",
+   "x": 68.714,
+   "y": 76.699,
+   "w": 17,
+   "h": 5.596
+  },
+  {
+   "n": 14,
+   "title": "Feijóo hace de la gestión ferroviaria su eje de campaña mientras busca un ministro de Fomento para un eventual Gobierno",
+   "x": 44.5,
+   "y": 53.209,
+   "w": 17,
+   "h": 6.26
+  },
+  {
+   "n": 6,
+   "title": "España, el país más mortífero en alta velocidad: dos accidentes en un año y concentra casi tres de cada cuatro fallecidos a nivel mundial",
+   "x": 14.286,
+   "y": 34.145,
+   "w": 17,
+   "h": 6.26
+  },
+  {
+   "n": 7,
+   "title": "«Pérdida de consciencia por somnolencia por falta de descanso»",
+   "x": 32.429,
+   "y": 34.145,
+   "w": 17,
+   "h": 6.26
+  },
+  {
+   "n": 8,
+   "title": "El mantenimiento de las infraestructuras no da votos, pero si no se hace bien tiene consecuencias devastadoras",
+   "x": 50.571,
+   "y": 34.145,
+   "w": 17,
+   "h": 6.26
+  },
+  {
+   "n": 9,
+   "title": "Los controladores de Adif irán a la huelga",
+   "x": 68.714,
+   "y": 34.145,
+   "w": 17,
+   "h": 6.26
+  },
+  {
+   "n": 20,
+   "title": "¿Puede Trump auto indultarse si pierde las midterms?",
+   "x": 14.286,
+   "y": 93.013,
+   "w": 35.143,
+   "h": 3.193
+  },
+  {
+   "n": 13,
+   "title": "Los jueces y la UCO desmontan \"el relato\" de Moncloa",
+   "x": 14.286,
+   "y": 48.34,
+   "w": 29.071,
+   "h": 7.366
+  },
+  {
+   "n": 3,
+   "title": "El PSOE frena el efecto remontada y la derecha consolida su mayoría absoluta",
+   "x": 14.286,
+   "y": 3.984,
+   "w": 35.714,
+   "h": 8.726
+  },
+  {
+   "n": 5,
+   "title": "José Luis Martínez-Almeida: «El futuro de Puente lo van a decidir los trackings electorales»",
+   "x": 14.286,
+   "y": 18.337,
+   "w": 71.429,
+   "h": 4.489
+  }
+ ]
+}

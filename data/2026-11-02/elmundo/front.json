@@ -1,0 +1,144 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4936,
+ "bytes": 543316,
+ "hotspots": [
+  {
+   "n": 4,
+   "title": "Última hora del accidente",
+   "x": 7.143,
+   "y": 2.512,
+   "w": 15.143,
+   "h": 1.013
+  },
+  {
+   "n": 5,
+   "title": "Los 25 km en los que nadie detuvo el tren",
+   "x": 24.786,
+   "y": 2.512,
+   "w": 15.143,
+   "h": 1.013
+  },
+  {
+   "n": 6,
+   "title": "El accidente, explicado en gráficos",
+   "x": 42.429,
+   "y": 2.512,
+   "w": 15.143,
+   "h": 1.013
+  },
+  {
+   "n": 7,
+   "title": "Los rostros de la tragedia",
+   "x": 60.071,
+   "y": 2.512,
+   "w": 15.143,
+   "h": 1.013
+  },
+  {
+   "n": 8,
+   "title": "Atención a víctimas y allegados",
+   "x": 77.714,
+   "y": 2.512,
+   "w": 15.143,
+   "h": 1.013
+  },
+  {
+   "n": 9,
+   "title": "Transportes certificó la seguridad",
+   "x": 95.357,
+   "y": 2.512,
+   "w": 4.643,
+   "h": 1.013
+  },
+  {
+   "n": 18,
+   "title": "La red de jueces expertos encargados de asesorar a la instructora de Urda en la tragedia de los trenes",
+   "x": 53.357,
+   "y": 92.058,
+   "w": 16.214,
+   "h": 1.297
+  },
+  {
+   "n": 16,
+   "title": "Las vidas rotas del accidente de Urda: la mujer que iba a la boda de su hija, la ejecutiva a punto de jubilarse, el héroe que iba a ser padre...",
+   "x": 53.357,
+   "y": 94.003,
+   "w": 16.214,
+   "h": 1.297
+  },
+  {
+   "n": 13,
+   "title": "Los trabajadores se suman a operadores y maquinistas y piden al regulador que intervenga en Adif por \"riesgo grave\" para mejorar con urgencia la seguridad en las vías",
+   "x": 53.357,
+   "y": 95.948,
+   "w": 16.214,
+   "h": 1.621
+  },
+  {
+   "n": 12,
+   "title": "Dinero fresco. Adif mantiene su cúpula con el nivel más bajo de los grandes gestores ferroviarios europeos y una deuda de 20.000 millones que necesita rescate del Estado",
+   "x": 7.143,
+   "y": 13.675,
+   "w": 19.5,
+   "h": 1.357
+  },
+  {
+   "n": 14,
+   "title": "Carta abierta de un maquinista: El AVE devora al tren",
+   "x": 7.143,
+   "y": 18.963,
+   "w": 19.5,
+   "h": 2.087
+  },
+  {
+   "n": 17,
+   "title": "El accidente de Urda frena la política del espectáculo y pone el foco en sus riesgos: \"Ya no caben las políticas a largo plazo porque eso no llama la atención\"",
+   "x": 73.357,
+   "y": 16.43,
+   "w": 19.5,
+   "h": 2.472
+  },
+  {
+   "n": 19,
+   "title": "El Estados Unidos que no se mueve: un viaje a Tennessee, el corazón del trumpismo",
+   "x": 7.143,
+   "y": 30.369,
+   "w": 37.143,
+   "h": 1.418
+  },
+  {
+   "n": 20,
+   "title": "Los centros de datos llegan a las urnas de EEUU",
+   "x": 7.143,
+   "y": 32.496,
+   "w": 37.143,
+   "h": 1.783
+  },
+  {
+   "n": 15,
+   "title": "\"Accidente atentado\": así se activó un 'ejército digital' para exculpar al Gobierno tras la tragedia de Urda",
+   "x": 29.214,
+   "y": 17.565,
+   "w": 41.571,
+   "h": 1.904
+  },
+  {
+   "n": 11,
+   "title": "\"No procede\", así despachó Adif tres recomendaciones de la CIAF tras una orden errónea de un controlador",
+   "x": 7.143,
+   "y": 9.38,
+   "w": 19.5,
+   "h": 4.113
+  },
+  {
+   "n": 10,
+   "title": "El PSOE pierde 450.000 votos y cae por debajo de 100 escaños en la primera encuesta tras la tragedia de Urda",
+   "x": 7.143,
+   "y": 4.943,
+   "w": 85.714,
+   "h": 4.254
+  }
+ ]
+}
