@@ -1,0 +1,144 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2924,
+ "bytes": 238704,
+ "hotspots": [
+  {
+   "n": 13,
+   "title": "Los ocupados sin trabajar se duplican con Sánchez",
+   "x": 44.5,
+   "y": 51.778,
+   "w": 17,
+   "h": 4.583
+  },
+  {
+   "n": 8,
+   "title": "¿Por qué cayó el LZB? ¿Por qué no se detuvo al AVE? Las incógnitas que cercan a Puente en su comparecencia en el Congreso por el accidente de Urda",
+   "x": 14.286,
+   "y": 18.639,
+   "w": 17,
+   "h": 4.685
+  },
+  {
+   "n": 12,
+   "title": "Investigan a una mafia que facilita DNI por 6.000 euros a migrantes",
+   "x": 44.5,
+   "y": 34.542,
+   "w": 17,
+   "h": 4.685
+  },
+  {
+   "n": 20,
+   "title": "Una mexicana y una ecuatoriana rompen la invisibilidad latina en las elecciones de Alaska",
+   "x": 50.571,
+   "y": 89.877,
+   "w": 17,
+   "h": 6.019
+  },
+  {
+   "n": 19,
+   "title": "EE UU mediará en negociaciones técnicas entre Ucrania y Rusia la próxima semana en Abu Dabi",
+   "x": 50.571,
+   "y": 76.505,
+   "w": 17,
+   "h": 6.737
+  },
+  {
+   "n": 14,
+   "title": "La posible derrota de Trump en las \"midterms\" amenaza con encarecer la financiación de EE UU y reactivar la guerra comercial internacional",
+   "x": 14.286,
+   "y": 63.064,
+   "w": 17,
+   "h": 6.772
+  },
+  {
+   "n": 15,
+   "title": "Ocho de cada diez españoles mayores de 50 años calculan mal su jubilación porque creen que vivirán menos años",
+   "x": 32.429,
+   "y": 63.064,
+   "w": 17,
+   "h": 6.772
+  },
+  {
+   "n": 16,
+   "title": "Un agitador de redes de origen pakistaní estaba en el origen del intento de extender el vandalismo a las ciudades españolas",
+   "x": 50.571,
+   "y": 63.064,
+   "w": 17,
+   "h": 6.772
+  },
+  {
+   "n": 17,
+   "title": "Cuando el Estado falla, cuando el Estado responde",
+   "x": 68.714,
+   "y": 63.064,
+   "w": 17,
+   "h": 6.772
+  },
+  {
+   "n": 18,
+   "title": "Al menos 26 muertos en un ataque ruso contra un colegio en Zaporiyia",
+   "x": 14.286,
+   "y": 81.43,
+   "w": 35.143,
+   "h": 3.454
+  },
+  {
+   "n": 7,
+   "title": "No prolongar más la indignidad política",
+   "x": 14.286,
+   "y": 23.906,
+   "w": 17,
+   "h": 9.234
+  },
+  {
+   "n": 9,
+   "title": "La alargada sombra de la corrupción sobre la cartera de Transportes",
+   "x": 32.429,
+   "y": 23.906,
+   "w": 17,
+   "h": 9.234
+  },
+  {
+   "n": 10,
+   "title": "La subcontratación de trabajos por Adif tras la liberalización de la alta velocidad ha complicado aún más el tráfico ferroviario",
+   "x": 50.571,
+   "y": 23.906,
+   "w": 17,
+   "h": 9.234
+  },
+  {
+   "n": 1,
+   "title": "Accidente tren Toledo directo",
+   "x": 68.714,
+   "y": 23.906,
+   "w": 17,
+   "h": 9.234
+  },
+  {
+   "n": 5,
+   "title": "En vivo Elecciones de mitad de mandato en EE UU, en directo: candidatos, estados clave y última hora",
+   "x": 14.286,
+   "y": 0,
+   "w": 71.429,
+   "h": 2.736
+  },
+  {
+   "n": 6,
+   "title": "El fallo del LZB previo al accidente de Urda, inusual y poco habitual por su gravedad y magnitud",
+   "x": 14.286,
+   "y": 7.045,
+   "w": 71.429,
+   "h": 3.728
+  },
+  {
+   "n": 11,
+   "title": "Aldama blanqueó dinero a Portugal con contratos de «asesoramiento»",
+   "x": 14.286,
+   "y": 43.092,
+   "w": 29.071,
+   "h": 13.269
+  }
+ ]
+}
