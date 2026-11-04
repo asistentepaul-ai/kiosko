@@ -1,0 +1,24 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2483,
+ "bytes": 201612,
+ "hotspots": [
+  {
+   "n": 14,
+   "title": "Alfonso Muñoz: «Con el adelanto electoral, la despenalización de las jubilaciones anticipadas ha decaído»",
+   "x": 10.5,
+   "y": 92.308,
+   "w": 53.643,
+   "h": 2.859
+  },
+  {
+   "n": 3,
+   "title": "Los resultados, estado a estado",
+   "x": 10.5,
+   "y": 10.068,
+   "w": 79,
+   "h": 2.014
+  }
+ ]
+}

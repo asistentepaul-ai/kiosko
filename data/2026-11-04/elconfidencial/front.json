@@ -1,0 +1,104 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3035,
+ "bytes": 215824,
+ "hotspots": [
+  {
+   "n": 11,
+   "title": "Una dimisión esperpéntica",
+   "x": 64.857,
+   "y": 23.987,
+   "w": 26.286,
+   "h": 2.834
+  },
+  {
+   "n": 13,
+   "title": "Puente en el santoral y Sánchez del rojo al negro",
+   "x": 64.857,
+   "y": 34.234,
+   "w": 26.286,
+   "h": 3.526
+  },
+  {
+   "n": 3,
+   "title": "Elecciones Estados Unidos",
+   "x": 8.857,
+   "y": 86.194,
+   "w": 19.714,
+   "h": 5.667
+  },
+  {
+   "n": 14,
+   "title": "Un Ferrari es caro comprarlo, pero también mantenerlo (y II)",
+   "x": 64.857,
+   "y": 38.847,
+   "w": 26.286,
+   "h": 4.316
+  },
+  {
+   "n": 12,
+   "title": "La responsabilidad política no acaba en el ministro (basta con escucharle)",
+   "x": 64.857,
+   "y": 27.908,
+   "w": 26.286,
+   "h": 5.239
+  },
+  {
+   "n": 20,
+   "title": "'Ultimátum' de Génova a CCOO y UGT antes del 29-N: \"No vamos a protegerles\"",
+   "x": 8.857,
+   "y": 63.163,
+   "w": 26.286,
+   "h": 7.776
+  },
+  {
+   "n": 15,
+   "title": "Desobedece a Sánchez y se va: Moncloa descartaba su salida tan solo unas horas antes",
+   "x": 8.857,
+   "y": 45.239,
+   "w": 19.286,
+   "h": 10.774
+  },
+  {
+   "n": 16,
+   "title": "La salida deja en el aire la cúpula de Adif y Renfe y la ejecución de 24.100 millones",
+   "x": 29.857,
+   "y": 45.239,
+   "w": 19.286,
+   "h": 10.774
+  },
+  {
+   "n": 17,
+   "title": "El ya exministro afirma que la falta de PGE impidió mejorar el mantenimiento de Adif",
+   "x": 50.857,
+   "y": 45.239,
+   "w": 19.286,
+   "h": 10.774
+  },
+  {
+   "n": 18,
+   "title": "\"No va con mi carácter\": su discurso da un giro de 180 grados en cuatro días",
+   "x": 71.857,
+   "y": 45.239,
+   "w": 19.286,
+   "h": 10.774
+  },
+  {
+   "n": 9,
+   "title": "Debacle histórica para Trump: un tsunami demócrata barre a los republicanos en EEUU",
+   "x": 8.857,
+   "y": 80.89,
+   "w": 19.714,
+   "h": 15.157
+  },
+  {
+   "n": 10,
+   "title": "Los sondeos internos y su desgaste tumban a Puente y escalan la crisis a Sánchez en plena campaña electoral",
+   "x": 8.857,
+   "y": 38.616,
+   "w": 54.286,
+   "h": 5.865
+  }
+ ]
+}

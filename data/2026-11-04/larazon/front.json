@@ -1,0 +1,104 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2661,
+ "bytes": 221838,
+ "hotspots": [
+  {
+   "n": 18,
+   "title": "Unas 600 personas protestan en Madrid contra el desalojo policial de la acampada de Sol",
+   "x": 14.286,
+   "y": 88.839,
+   "w": 17,
+   "h": 6.652
+  },
+  {
+   "n": 19,
+   "title": "Hospitalizado un maquinista en Martorell tras chocar tres vagones contra su tren de mercancías",
+   "x": 32.429,
+   "y": 88.839,
+   "w": 17,
+   "h": 6.652
+  },
+  {
+   "n": 20,
+   "title": "Pinchazo de Sánchez: no tendrá su foto con la izquierda iberoamericana",
+   "x": 50.571,
+   "y": 88.839,
+   "w": 17,
+   "h": 6.652
+  },
+  {
+   "n": 11,
+   "title": "Las víctimas del accidente de Urda: \"En el caso de Puente hablar de vergüenza y de dignidad es una cuestión absolutamente contradictoria\"",
+   "x": 14.286,
+   "y": 26.531,
+   "w": 17,
+   "h": 7.14
+  },
+  {
+   "n": 12,
+   "title": "El PP atribuye a Tezanos la marcha de Puente y enseña la puerta a Sánchez: \"Le dimitiremos en las urnas\"",
+   "x": 32.429,
+   "y": 26.531,
+   "w": 17,
+   "h": 7.14
+  },
+  {
+   "n": 13,
+   "title": "Abascal desdeña la dimisión de Puente y apunta a Sánchez: \"Que no se esconda detrás de sus esbirros\"",
+   "x": 50.571,
+   "y": 26.531,
+   "w": 17,
+   "h": 7.14
+  },
+  {
+   "n": 17,
+   "title": "El PP aprieta en el Tribunal de Cuentas para que el hermano de Sánchez reintegre más de 340.000 euros",
+   "x": 44.5,
+   "y": 74.07,
+   "w": 17,
+   "h": 7.441
+  },
+  {
+   "n": 16,
+   "title": "Más Madrid: los extrabajadores que denunciaron a Tesh Sidi por acoso laboral temen «represalias»",
+   "x": 44.5,
+   "y": 58.399,
+   "w": 17,
+   "h": 8.343
+  },
+  {
+   "n": 6,
+   "title": "Directo Elecciones de mitad de mandato en EE UU",
+   "x": 14.286,
+   "y": 0,
+   "w": 71.429,
+   "h": 3.006
+  },
+  {
+   "n": 15,
+   "title": "Feijóo se viste de presidente con traje gris: convierte la sobriedad y la gestión en los ejes de su estrategia",
+   "x": 14.286,
+   "y": 52.612,
+   "w": 29.071,
+   "h": 8.756
+  },
+  {
+   "n": 7,
+   "title": "El «fuego amigo» contra Óscar Puente alentó su dimisión",
+   "x": 14.286,
+   "y": 7.741,
+   "w": 71.429,
+   "h": 4.434
+  },
+  {
+   "n": 14,
+   "title": "Los demócratas recuperan la Cámara de Representantes y avanzan en el Senado en un revés electoral para Trump",
+   "x": 14.286,
+   "y": 35.212,
+   "w": 35.714,
+   "h": 10.372
+  }
+ ]
+}
