@@ -1,0 +1,64 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1608,
+ "bytes": 103274,
+ "hotspots": [
+  {
+   "n": 20,
+   "title": "Dónde comer las mejores croquetas",
+   "x": 40.357,
+   "y": 86.692,
+   "w": 20.571,
+   "h": 4.913
+  },
+  {
+   "n": 17,
+   "title": "La ley electoral sigue sin recoger el control del voto por correo pese a las sospechas",
+   "x": 14.5,
+   "y": 53.607,
+   "w": 22.714,
+   "h": 18.159
+  },
+  {
+   "n": 18,
+   "title": "Un fallo informático en Correos deja a una mujer de La Moraleja y a su hija sin votar el 29-N",
+   "x": 39.286,
+   "y": 53.607,
+   "w": 22.714,
+   "h": 18.159
+  },
+  {
+   "n": 19,
+   "title": "El PSOE no da por amortizado a Puente: podría volver a Valladolid o ser senador",
+   "x": 14.5,
+   "y": 73.632,
+   "w": 22.714,
+   "h": 18.905
+  },
+  {
+   "n": 14,
+   "title": "Los dos trenes de Urda tuvieron otro incidente en ese mismo punto en septiembre",
+   "x": 14.5,
+   "y": 23.321,
+   "w": 71.071,
+   "h": 6.468
+  },
+  {
+   "n": 15,
+   "title": "Feijóo auditará en sus primeros cien días todas las subvenciones y contratos públicos",
+   "x": 14.5,
+   "y": 33.52,
+   "w": 34.786,
+   "h": 17.6
+  },
+  {
+   "n": 16,
+   "title": "Correos admite deficiencias en el voto y acepta medidas reclamadas por el PP",
+   "x": 50.786,
+   "y": 33.52,
+   "w": 34.786,
+   "h": 17.6
+  }
+ ]
+}

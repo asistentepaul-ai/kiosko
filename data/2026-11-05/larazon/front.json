@@ -1,0 +1,96 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2462,
+ "bytes": 225418,
+ "hotspots": [
+  {
+   "n": 10,
+   "title": "Feijóo: «Si gobierno, recuperaré una relación normal con el PSOE»",
+   "x": 14.286,
+   "y": 29.082,
+   "w": 17,
+   "h": 4.265
+  },
+  {
+   "n": 11,
+   "title": "Feijóo: «Hay que sacar del congelador la ley antiocupación»",
+   "x": 32.429,
+   "y": 29.082,
+   "w": 17,
+   "h": 4.265
+  },
+  {
+   "n": 12,
+   "title": "Feijóo: \"De fuera de la UE, mi primera visita será a Marruecos\"",
+   "x": 50.571,
+   "y": 29.082,
+   "w": 17,
+   "h": 4.265
+  },
+  {
+   "n": 13,
+   "title": "Las mejores imágenes de LA RAZÓN DE.. Alberto Núñez Feijóo",
+   "x": 68.714,
+   "y": 29.082,
+   "w": 17,
+   "h": 4.265
+  },
+  {
+   "n": 19,
+   "title": "Madrid aporta una treintena de cargos a las listas del 29-N",
+   "x": 44.5,
+   "y": 74.574,
+   "w": 17,
+   "h": 6.296
+  },
+  {
+   "n": 20,
+   "title": "La Audiencia de Madrid decidirá el 1 de diciembre si Errejón va a juicio por abuso sexual a Mouliaá",
+   "x": 14.286,
+   "y": 88.79,
+   "w": 17,
+   "h": 6.336
+  },
+  {
+   "n": 15,
+   "title": "Así es Luis Pedro Marco de la Peña, el presidente de Adif destituido tras el accidente de Urda: ingeniero cántabro, hijo de ferreteros y con un sueldo de 195.000 euros",
+   "x": 14.286,
+   "y": 45.37,
+   "w": 71.429,
+   "h": 1.868
+  },
+  {
+   "n": 18,
+   "title": "Agresiones a militares en Ceuta: la juez rechaza investigar si había radicales entre los inmigrantes",
+   "x": 44.5,
+   "y": 58.611,
+   "w": 17,
+   "h": 8.042
+  },
+  {
+   "n": 17,
+   "title": "La juez de Adamuz ordena a la Guardia Civil \"supervisar\" los trabajos de Adif en el Iryo accidentado",
+   "x": 14.286,
+   "y": 52.356,
+   "w": 29.071,
+   "h": 9.464
+  },
+  {
+   "n": 14,
+   "title": "Cae el presidente de Adif un día después de la dimisión de Puente por la tragedia de Urda",
+   "x": 14.286,
+   "y": 38.424,
+   "w": 71.429,
+   "h": 4.793
+  },
+  {
+   "n": 8,
+   "title": "Feijóo se presenta para \"servir\" a España: \"Yo no miento, no robo, ni me voy de vacaciones cuando invaden mi país\"",
+   "x": 50,
+   "y": 1.665,
+   "w": 35.714,
+   "h": 11.048
+  }
+ ]
+}

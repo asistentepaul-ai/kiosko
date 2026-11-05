@@ -1,0 +1,96 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3218,
+ "bytes": 205372,
+ "hotspots": [
+  {
+   "n": 5,
+   "title": "El presidente de Adif presenta su dimisión tras reunirse con Carlos Cuerpo",
+   "x": 8.857,
+   "y": 34.152,
+   "w": 26.286,
+   "h": 1.896
+  },
+  {
+   "n": 14,
+   "title": "Zapatero no guarda justificantes de las joyas. Insiste en que fueron un regalo \"personal\"",
+   "x": 8.857,
+   "y": 57.241,
+   "w": 26.286,
+   "h": 1.896
+  },
+  {
+   "n": 18,
+   "title": "Fiasco de Albares: ni Lula ni Delcy quieren ver a Sánchez",
+   "x": 64.857,
+   "y": 76.973,
+   "w": 26.286,
+   "h": 3.325
+  },
+  {
+   "n": 8,
+   "title": "\"El AVE tiene que llegar a tiempo\": Adif enviaba supervisores a la sala de control para suavizar el relato de las incidencias",
+   "x": 64.857,
+   "y": 22.623,
+   "w": 26.286,
+   "h": 4.071
+  },
+  {
+   "n": 16,
+   "title": "Exministro Puente, exministro Puente, exministro Puente",
+   "x": 64.857,
+   "y": 62.306,
+   "w": 26.286,
+   "h": 4.071
+  },
+  {
+   "n": 17,
+   "title": "El mundo se la juega en las elecciones americanas",
+   "x": 64.857,
+   "y": 71.753,
+   "w": 26.286,
+   "h": 4.195
+  },
+  {
+   "n": 7,
+   "title": "El Gobierno estudia dar protagonismo a Cuerpo en campaña mientras Sánchez vuelve a los mítines a explotar la dana",
+   "x": 8.857,
+   "y": 29.055,
+   "w": 26.286,
+   "h": 4.599
+  },
+  {
+   "n": 9,
+   "title": "La investigación de Adamuz sigue sin poder revisar a fondo los bajos del Iryo",
+   "x": 64.857,
+   "y": 27.719,
+   "w": 26.286,
+   "h": 5.438
+  },
+  {
+   "n": 20,
+   "title": "Lo que va a cambiar en Estados Unidos y Europa con este final de ciclo político",
+   "x": 8.857,
+   "y": 87.446,
+   "w": 19.714,
+   "h": 8.825
+  },
+  {
+   "n": 12,
+   "title": "El ex-CEO de Plus Ultra cuestiona los contratos de préstamos previos al rescate y pide investigar la vía suiza",
+   "x": 8.857,
+   "y": 47.794,
+   "w": 26.286,
+   "h": 8.95
+  },
+  {
+   "n": 6,
+   "title": "Un sondeo de Tezanos el fin de semana hundía al PSOE a 93/95 escaños y llevó el pánico a Moncloa",
+   "x": 8.857,
+   "y": 22.623,
+   "w": 54.286,
+   "h": 17.154
+  }
+ ]
+}
