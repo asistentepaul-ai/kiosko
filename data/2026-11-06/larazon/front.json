@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 5200,
+ "bytes": 437760,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "Los demócratas miran ya a 2028: una treintena de aspirantes y ninguna figura clara para la Casa Blanca",
+   "x": 14.286,
+   "y": 47.192,
+   "w": 35.143,
+   "h": 0.885
+  },
+  {
+   "n": 19,
+   "title": "Milei salva del anonimato una cumbre mínima en forma y fondo",
+   "x": 68.714,
+   "y": 42.904,
+   "w": 17,
+   "h": 2.635
+  },
+  {
+   "n": 9,
+   "title": "Tambores de más salidas en Adif tras la del presidente",
+   "x": 44.5,
+   "y": 17.308,
+   "w": 17,
+   "h": 2.981
+  },
+  {
+   "n": 10,
+   "title": "Feijóo envida a Sánchez con la corrupción que está por salir",
+   "x": 44.5,
+   "y": 24.038,
+   "w": 17,
+   "h": 2.981
+  },
+  {
+   "n": 17,
+   "title": "Las cumbres iberoamericanas: esplendor y decadencia",
+   "x": 50.571,
+   "y": 45.885,
+   "w": 17,
+   "h": 2.981
+  },
+  {
+   "n": 18,
+   "title": "Peña renuncia a presidencia de Paraguay tras la crisis bancaria provocada por la caída de Ueno Bank",
+   "x": 68.714,
+   "y": 38.327,
+   "w": 17,
+   "h": 3.788
+  },
+  {
+   "n": 16,
+   "title": "Google, Meta y TikTok demandan a California para frenar ley que restringe su uso a menores",
+   "x": 50.571,
+   "y": 38.327,
+   "w": 17,
+   "h": 3.808
+  },
+  {
+   "n": 11,
+   "title": "Sin sorpresas: Sánchez deja tiradas a las víctimas del accidente de Urda y no acudirá a la misa funeral en Toledo",
+   "x": 14.286,
+   "y": 30.769,
+   "w": 17,
+   "h": 3.808
+  },
+  {
+   "n": 12,
+   "title": "La primera reunión de Cuerpo con los maquinistas de Semaf acaba en otra huelga el 17 de noviembre para todo el sector",
+   "x": 32.429,
+   "y": 30.769,
+   "w": 17,
+   "h": 3.808
+  },
+  {
+   "n": 13,
+   "title": "El mando de Sánchez tras el 29N se tambalea",
+   "x": 68.714,
+   "y": 30.769,
+   "w": 17,
+   "h": 3.808
+  },
+  {
+   "n": 4,
+   "title": "Oferta alquiler hundida",
+   "x": 14.286,
+   "y": 96.019,
+   "w": 17,
+   "h": 3.808
+  },
+  {
+   "n": 20,
+   "title": "Precio de la luz hoy, viernes 6 de noviembre, por horas: el megavatio vuelve a subir y los consumidores se encontrarán con valores mínimos que rozan los 200 euros",
+   "x": 14.286,
+   "y": 61.058,
+   "w": 17,
+   "h": 5.038
+  },
+  {
+   "n": 14,
+   "title": "La derrota republicana desata una guerra interna por Irán y abre la batalla por suceder a Trump",
+   "x": 14.286,
+   "y": 35.365,
+   "w": 35.143,
+   "h": 5.404
+  },
+  {
+   "n": 5,
+   "title": "La UCO indaga los contratos de Adif y pone el foco en el blanqueo de las comisiones",
+   "x": 14.286,
+   "y": 0.788,
+   "w": 71.429,
+   "h": 2.788
+  },
+  {
+   "n": 7,
+   "title": "La novia de Ábalos tiene material protegido que Ábalos ocultaba a la UCO",
+   "x": 50,
+   "y": 7.942,
+   "w": 35.714,
+   "h": 5.615
+  },
+  {
+   "n": 8,
+   "title": "Trenes parados cada cinco días en la línea Madrid-Andalucía por las caídas en el sistema de seguridad LZB, que falló en Urda",
+   "x": 14.286,
+   "y": 19.154,
+   "w": 29.071,
+   "h": 7.885
+  }
+ ]
+}

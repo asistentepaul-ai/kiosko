@@ -1,0 +1,72 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2697,
+ "bytes": 220448,
+ "hotspots": [
+  {
+   "n": 20,
+   "title": "Los sindicatos policiales planean protestas más duras contra Marlaska en plena precampaña",
+   "x": 14.5,
+   "y": 92.176,
+   "w": 46.429,
+   "h": 3.374
+  },
+  {
+   "n": 16,
+   "title": "La última decisión de Óscar Puente: comprar trenes que supuestamente irán a 350 km/h",
+   "x": 14.5,
+   "y": 31.034,
+   "w": 22.714,
+   "h": 10.827
+  },
+  {
+   "n": 17,
+   "title": "La Eurocámara investiga si la ‘ley de nietos’ es incompatible con el derecho de la UE",
+   "x": 39.286,
+   "y": 31.034,
+   "w": 22.714,
+   "h": 10.827
+  },
+  {
+   "n": 18,
+   "title": "Leire y Serrano ignoraron un informe que pedía cambios en la gestión del voto del exterior",
+   "x": 14.5,
+   "y": 42.974,
+   "w": 22.714,
+   "h": 11.309
+  },
+  {
+   "n": 19,
+   "title": "El fin de la Verja dispara los precios de la vivienda en el Campo de Gibraltar",
+   "x": 39.286,
+   "y": 42.974,
+   "w": 22.714,
+   "h": 11.309
+  },
+  {
+   "n": 13,
+   "title": "La UCO indaga si los amaños de ADIF guardan relación con Urda y Adamuz",
+   "x": 14.5,
+   "y": 12.977,
+   "w": 71.071,
+   "h": 4.968
+  },
+  {
+   "n": 14,
+   "title": "La Guardia Civil sigue el rastro de un pago de 100.000 euros al exchófer de Sánchez",
+   "x": 14.5,
+   "y": 19.058,
+   "w": 34.786,
+   "h": 10.493
+  },
+  {
+   "n": 15,
+   "title": "Una juez investiga un contrato de baterías de ADIF durante la etapa de Pardo de Vera",
+   "x": 50.786,
+   "y": 19.058,
+   "w": 34.786,
+   "h": 10.493
+  }
+ ]
+}

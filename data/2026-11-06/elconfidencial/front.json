@@ -1,0 +1,80 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2596,
+ "bytes": 206526,
+ "hotspots": [
+  {
+   "n": 14,
+   "title": "Urda, 'nietos' y Ceuta: tres hitos que definen un gobierno",
+   "x": 64.857,
+   "y": 39.099,
+   "w": 26.286,
+   "h": 4.122
+  },
+  {
+   "n": 18,
+   "title": "Iryo y Ouigo estudian reclamaciones contra España por los sucesos en los trenes",
+   "x": 8.857,
+   "y": 86.749,
+   "w": 19.714,
+   "h": 5.701
+  },
+  {
+   "n": 13,
+   "title": "Gestión de catástrofes 'made in Spain': todo bien, pero…",
+   "x": 64.857,
+   "y": 32.627,
+   "w": 26.286,
+   "h": 5.2
+  },
+  {
+   "n": 15,
+   "title": "El crac del 29 y la burbuja de IA tienen más cosas en común de lo que parece",
+   "x": 8.857,
+   "y": 58.166,
+   "w": 26.286,
+   "h": 10.169
+  },
+  {
+   "n": 11,
+   "title": "El detenido Corvillo confirmó al juez sus relaciones con el exministro: \"Le he visitado muchas veces, muchas\"",
+   "x": 8.857,
+   "y": 36.017,
+   "w": 26.286,
+   "h": 12.018
+  },
+  {
+   "n": 9,
+   "title": "Colapso en el Nasdaq: las grietas de la IA se hacen cada vez más visibles para el mercado",
+   "x": 8.857,
+   "y": 22.304,
+   "w": 82.286,
+   "h": 4.314
+  },
+  {
+   "n": 17,
+   "title": "El centro que debe analizar los raíles rotos de Adamuz no los ha recibido aún: \"Estamos con los brazos cruzados\"",
+   "x": 8.857,
+   "y": 77.234,
+   "w": 19.714,
+   "h": 18.143
+  },
+  {
+   "n": 20,
+   "title": "Feijóo restaurará las indemnizaciones a los usuarios por los retrasos en Renfe",
+   "x": 64.857,
+   "y": 77.234,
+   "w": 26.286,
+   "h": 14.176
+  },
+  {
+   "n": 10,
+   "title": "La trama de Transportes usó a la novia de Ábalos para camuflar comisiones con un loft en Vallecas",
+   "x": 8.857,
+   "y": 28.043,
+   "w": 54.286,
+   "h": 21.263
+  }
+ ]
+}
