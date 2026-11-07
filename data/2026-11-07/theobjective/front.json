@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4607,
+ "bytes": 360916,
+ "hotspots": [
+  {
+   "n": 18,
+   "title": "De la dimisión de Puente a las menores prostituidas en Ceuta",
+   "x": 62.357,
+   "y": 65.943,
+   "w": 23.214,
+   "h": 2.344
+  },
+  {
+   "n": 17,
+   "title": "La Fiscalía Europea investiga el accidente de Urda",
+   "x": 62.357,
+   "y": 62.687,
+   "w": 23.214,
+   "h": 2.909
+  },
+  {
+   "n": 16,
+   "title": "Los sindicatos cuestionan ahora la versión de Puente sobre los dos trenes en un solo cantón",
+   "x": 14.5,
+   "y": 65.683,
+   "w": 46.429,
+   "h": 1.975
+  },
+  {
+   "n": 8,
+   "title": "La Justicia de Paraguay ordena detener al expresidente Peña tras su destitución",
+   "x": 14.5,
+   "y": 91.122,
+   "w": 22.286,
+   "h": 6.273
+  },
+  {
+   "n": 12,
+   "title": "Sánchez contraprogramará a Abascal y Broncano con una entrevista en La Séptima",
+   "x": 14.5,
+   "y": 26.894,
+   "w": 22.714,
+   "h": 6.403
+  },
+  {
+   "n": 13,
+   "title": "Escándalo por la campaña del Gobierno que anima a los ilegales a usar la sanidad",
+   "x": 39.286,
+   "y": 26.894,
+   "w": 22.714,
+   "h": 6.403
+  },
+  {
+   "n": 14,
+   "title": "La Justicia da la razón al padre que «voló» a 228 kilómetros por hora para salvar a su hija",
+   "x": 14.5,
+   "y": 33.948,
+   "w": 22.714,
+   "h": 6.403
+  },
+  {
+   "n": 15,
+   "title": "Sostiene Savater… sobre la política",
+   "x": 39.286,
+   "y": 33.948,
+   "w": 22.714,
+   "h": 6.403
+  },
+  {
+   "n": 20,
+   "title": "La nueva subida del salario mínimo pone en peligro a 20.000 empresas de limpieza",
+   "x": 39.286,
+   "y": 76.818,
+   "w": 22.714,
+   "h": 6.403
+  },
+  {
+   "n": 19,
+   "title": "El PP aprobará una ley nacional de cuidados paliativos alternativa a la eutanasia",
+   "x": 63.286,
+   "y": 69.156,
+   "w": 22.286,
+   "h": 6.794
+  },
+  {
+   "n": 9,
+   "title": "La tragedia de Urda frena al PSOE: PP y Vox podrían llegar hasta los 215 diputados",
+   "x": 14.5,
+   "y": 16.323,
+   "w": 71.071,
+   "h": 2.909
+  },
+  {
+   "n": 10,
+   "title": "La UE investiga a los directivos de ADIF que firmaron obras de Urda con fondos europeos",
+   "x": 14.5,
+   "y": 19.883,
+   "w": 34.786,
+   "h": 6.143
+  },
+  {
+   "n": 11,
+   "title": "Así destapó TO el oscuro papel del chófer de Sánchez en las tramas de corrupción",
+   "x": 50.786,
+   "y": 19.883,
+   "w": 34.786,
+   "h": 6.143
+  }
+ ]
+}

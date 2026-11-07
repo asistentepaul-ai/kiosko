@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3406,
+ "bytes": 250632,
+ "hotspots": [
+  {
+   "n": 7,
+   "title": "¿Me puede tocar ser mesa electoral el mismo día de las elecciones? Calendario de alegaciones y notificaciones",
+   "x": 62.143,
+   "y": 22.46,
+   "w": 21.429,
+   "h": 3.171
+  },
+  {
+   "n": 13,
+   "title": "Las 'midterms' en Estados Unidos: una derrota frecuente para quien gobierna",
+   "x": 16.429,
+   "y": 67.499,
+   "w": 21.429,
+   "h": 3.376
+  },
+  {
+   "n": 6,
+   "title": "El CIS marca el cálculo electoral de Sánchez: del ministro más odiado al mejor valorado",
+   "x": 62.143,
+   "y": 17.763,
+   "w": 21.429,
+   "h": 3.523
+  },
+  {
+   "n": 5,
+   "title": "Feijóo prohibirá indultar la corrupción y el terrorismo, derogará la ley de amnistía y reducirá los aforamientos",
+   "x": 39.143,
+   "y": 27.921,
+   "w": 21.643,
+   "h": 3.846
+  },
+  {
+   "n": 10,
+   "title": "Próxima parada: una auditoría a Renfe y Adif para saber qué ha ocurrido con el dinero de los fondos europeos",
+   "x": 39.143,
+   "y": 49.149,
+   "w": 21.643,
+   "h": 3.846
+  },
+  {
+   "n": 14,
+   "title": "El 58 % del incremento de la recaudación procede del IRPF de los trabajadores",
+   "x": 39.286,
+   "y": 67.499,
+   "w": 21.429,
+   "h": 4.786
+  },
+  {
+   "n": 9,
+   "title": "De la degeneración progresiva de Adif y Transportes al posible bluff de Carlos Cuerpo",
+   "x": 16.429,
+   "y": 49.149,
+   "w": 21.643,
+   "h": 5.314
+  },
+  {
+   "n": 4,
+   "title": "Ana Martín revela el «epicentro de la corrupción» que ha provocado el desmoronamiento de Sánchez",
+   "x": 16.429,
+   "y": 27.921,
+   "w": 21.643,
+   "h": 5.344
+  },
+  {
+   "n": 16,
+   "title": "¿Por qué el Gobierno ha intervenido el mercado del aceite de oliva?",
+   "x": 33.571,
+   "y": 73.488,
+   "w": 15.714,
+   "h": 8.221
+  },
+  {
+   "n": 18,
+   "title": "León XIV, sobre un posible viaje a Santiago de Compostela: «Querer, quiero»",
+   "x": 67.857,
+   "y": 73.488,
+   "w": 15.714,
+   "h": 8.955
+  },
+  {
+   "n": 17,
+   "title": "León XIV sitúa la defensa de la vida, la familia y la ética de la IA en el centro de su primer discurso en Montevideo",
+   "x": 50.714,
+   "y": 73.488,
+   "w": 15.714,
+   "h": 9.718
+  },
+  {
+   "n": 8,
+   "title": "El papel del exchófer de Sánchez al que la UCO investiga por cobrar comisiones ilegales",
+   "x": 16.429,
+   "y": 44.656,
+   "w": 44.286,
+   "h": 3.523
+  },
+  {
+   "n": 15,
+   "title": "La IA, una oportunidad para impulsar la competitividad de las pymes",
+   "x": 16.429,
+   "y": 73.488,
+   "w": 15.714,
+   "h": 11.186
+  },
+  {
+   "n": 3,
+   "title": "Caen la quita de la deuda a las comunidades y otras 49 leyes en el naufragio de la legislatura",
+   "x": 16.429,
+   "y": 22.695,
+   "w": 44.286,
+   "h": 4.257
+  },
+  {
+   "n": 20,
+   "title": "El problema que le ha nacido al Barça con Rodri y da la razón al Real Madrid",
+   "x": 39.286,
+   "y": 85.878,
+   "w": 21.429,
+   "h": 8.837
+  },
+  {
+   "n": 12,
+   "title": "Donald Trump no era la solución, pero... ¿ahora qué?",
+   "x": 39.286,
+   "y": 55.696,
+   "w": 21.429,
+   "h": 8.955
+  },
+  {
+   "n": 11,
+   "title": "Los controladores de Adif denuncian enchufismo y represalias: «Esto ha sido una finca privada y particular»",
+   "x": 16.429,
+   "y": 55.696,
+   "w": 21.429,
+   "h": 10.599
+  },
+  {
+   "n": 19,
+   "title": "Ratios, horas lectivas y salarios: así cambian las condiciones de los profesores según la comunidad autónoma",
+   "x": 16.429,
+   "y": 85.878,
+   "w": 21.429,
+   "h": 10.599
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4516,
+ "bytes": 406738,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "Es un \"ejemplo de dignidad\". Sánchez habla de la dimisión de Puente y se agarra a Brasil y EEUU",
+   "x": 8.857,
+   "y": 40.788,
+   "w": 26.286,
+   "h": 1.351
+  },
+  {
+   "n": 16,
+   "title": "Nos van a dar por la derecha",
+   "x": 64.857,
+   "y": 51.218,
+   "w": 26.286,
+   "h": 1.904
+  },
+  {
+   "n": 11,
+   "title": "¿No todos son iguales? De Marlaska, a la gerente del Partido Socialista y la SEPI: las doce dimisiones que nunca llegaron",
+   "x": 64.857,
+   "y": 24.69,
+   "w": 26.286,
+   "h": 2.281
+  },
+  {
+   "n": 18,
+   "title": "El creador de la frase 'Es la economía, estúpido' reniega de ella: ahora son más cosas",
+   "x": 8.857,
+   "y": 60.297,
+   "w": 19.714,
+   "h": 3.277
+  },
+  {
+   "n": 6,
+   "title": "La Policía de Paraguay detiene al ya expresidente Santiago Peña tras ser destituido por el Senado",
+   "x": 64.857,
+   "y": 92.936,
+   "w": 26.286,
+   "h": 4.407
+  },
+  {
+   "n": 13,
+   "title": "Vox sufre un hackeo que compromete datos bancarios de los simpatizantes que respaldan sus microcréditos",
+   "x": 8.857,
+   "y": 34.057,
+   "w": 26.286,
+   "h": 6.377
+  },
+  {
+   "n": 8,
+   "title": "El Gobierno incumple el 61% de las recomendaciones anuales de la CIAF para evitar accidentes de tren",
+   "x": 8.857,
+   "y": 21.435,
+   "w": 26.286,
+   "h": 6.909
+  },
+  {
+   "n": 17,
+   "title": "La brecha de salarios entre España y Europa se ensancha y alcanza su peor nivel histórico",
+   "x": 8.857,
+   "y": 56.112,
+   "w": 19.714,
+   "h": 10.186
+  },
+  {
+   "n": 20,
+   "title": "Los cien días de la avalancha en Ceuta, desde el otro lado de la frontera: \"Vi cruzar a todos mis hermanos\"",
+   "x": 8.857,
+   "y": 67.117,
+   "w": 19.714,
+   "h": 10.275
+  },
+  {
+   "n": 10,
+   "title": "\"La corrupción no dará tregua hasta el 29-N\". Sin ZP, sin Puente, sin bailes: ¿qué trucos le quedan a Sánchez?",
+   "x": 64.857,
+   "y": 16.12,
+   "w": 26.286,
+   "h": 7.839
+  },
+  {
+   "n": 7,
+   "title": "La Fiscalía de la UE investiga el fraude de casi 200 millones en ayudas para la seguridad de la vía de la tragedia de Urda",
+   "x": 8.857,
+   "y": 16.12,
+   "w": 54.286,
+   "h": 12.223
+  }
+ ]
+}

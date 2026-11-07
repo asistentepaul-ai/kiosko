@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4827,
+ "bytes": 537684,
+ "hotspots": [
+  {
+   "n": 13,
+   "title": "La 'invasión' desde Marruecos superó la población de Ceuta: más de 100.000 personas entraron en 24 horas",
+   "x": 53.357,
+   "y": 91.879,
+   "w": 16.214,
+   "h": 0.994
+  },
+  {
+   "n": 4,
+   "title": "Chaquetas efecto pelo",
+   "x": 53.357,
+   "y": 89.89,
+   "w": 16.214,
+   "h": 1.326
+  },
+  {
+   "n": 12,
+   "title": "El PNV confirma que salvará el 'decreto Maricarmen' pese a que la oferta de alquiler se hunde un 27% en el País Vasco: \"Protege a los que tienen dos viviendas o menos\"",
+   "x": 53.357,
+   "y": 93.536,
+   "w": 16.214,
+   "h": 1.657
+  },
+  {
+   "n": 8,
+   "title": "Los ferroviarios piden a la Agencia de Seguridad extender el doble control humano obligatorio a todos los procesos críticos que dependen de una sola persona",
+   "x": 53.357,
+   "y": 95.857,
+   "w": 16.214,
+   "h": 1.657
+  },
+  {
+   "n": 15,
+   "title": "El modelo fanático de Sánchez",
+   "x": 7.143,
+   "y": 26.227,
+   "w": 37.143,
+   "h": 0.953
+  },
+  {
+   "n": 7,
+   "title": "Adif blindó el bonus a su cúpula horas antes de dimitir su presidente",
+   "x": 7.143,
+   "y": 4.288,
+   "w": 19.5,
+   "h": 2.155
+  },
+  {
+   "n": 20,
+   "title": "El dorado latinoamericano se frena en seco: \"Los que tienen poder en Paraguay están acostumbrados a hacer las cosas mal y no sufrir consecuencias\"",
+   "x": 46.857,
+   "y": 22.416,
+   "w": 19.5,
+   "h": 2.548
+  },
+  {
+   "n": 19,
+   "title": "El Gobierno guarda bajo llave 188.000 toneladas de aceite por el excedente: alivio entre los olivareros y temor a que suba el precio de la botella",
+   "x": 46.857,
+   "y": 18.873,
+   "w": 19.5,
+   "h": 2.797
+  },
+  {
+   "n": 16,
+   "title": "Precampaña. El PSOE convierte a Valencia en el revulsivo de la campaña para confrontar con el PP de la dana tras Urda: \"No somos iguales\"",
+   "x": 7.143,
+   "y": 27.325,
+   "w": 37.143,
+   "h": 1.533
+  },
+  {
+   "n": 18,
+   "title": "Trump y Puente o los límites de la mentira",
+   "x": 7.143,
+   "y": 29.604,
+   "w": 37.143,
+   "h": 1.823
+  },
+  {
+   "n": 10,
+   "title": "El 'chao, pescao' de Isabel Díaz Ayuso a Alberto González Amador: \"La relación se convirtió en una montaña rusa de la que no lograron salir\"",
+   "x": 29.214,
+   "y": 12.492,
+   "w": 41.571,
+   "h": 1.947
+  },
+  {
+   "n": 9,
+   "title": "El PP prohibirá que la Abogacía del Estado defienda \"los intereses particulares\" de altos cargos tras el escándalo de García Ortiz",
+   "x": 7.143,
+   "y": 11.436,
+   "w": 19.5,
+   "h": 4.247
+  },
+  {
+   "n": 14,
+   "title": "José Ignacio García, líder de Adelante Andalucía: \"Para qué sirve la izquierda si vamos todos en la papeleta del PSOE\"",
+   "x": 73.357,
+   "y": 10.876,
+   "w": 19.5,
+   "h": 6.484
+  }
+ ]
+}

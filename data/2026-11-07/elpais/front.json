@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 5200,
+ "bytes": 467038,
+ "hotspots": [
+  {
+   "n": 5,
+   "title": "Trump, de aliado a rémora: los ultras europeos se alejan tras la debacle en las urnas",
+   "x": 72.286,
+   "y": 3.904,
+   "w": 19,
+   "h": 2.019
+  },
+  {
+   "n": 16,
+   "title": "El Consejo de Estado da vía libre al decreto de los centros de datos y podrá aprobarse antes del 29-N",
+   "x": 8.786,
+   "y": 70.981,
+   "w": 26,
+   "h": 1.577
+  },
+  {
+   "n": 2,
+   "title": "¿Se mueven las encuestas desde la convocatoria y tras el accidente de tren?",
+   "x": 8.786,
+   "y": 7.192,
+   "w": 40.143,
+   "h": 1.462
+  },
+  {
+   "n": 9,
+   "title": "Milo Quifes, revelación de ‘La bola negra’: “Estoy cansado de tener que salir del armario una y otra vez”",
+   "x": 37,
+   "y": 36.75,
+   "w": 26,
+   "h": 2.538
+  },
+  {
+   "n": 6,
+   "title": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
+   "x": 72.286,
+   "y": 6.942,
+   "w": 19,
+   "h": 3.538
+  },
+  {
+   "n": 10,
+   "title": "El debut teatral de Javier Bardem con su maestro: “Me estoy poniendo en un lugar de vulnerabilidad que me hace más fuerte”",
+   "x": 8.786,
+   "y": 44.904,
+   "w": 11.929,
+   "h": 5.788
+  },
+  {
+   "n": 12,
+   "title": "Medio siglo de los secretarios de Estado: el poder detrás del poder",
+   "x": 37,
+   "y": 44.904,
+   "w": 11.929,
+   "h": 5.788
+  },
+  {
+   "n": 11,
+   "title": "El inaudito caso de Los Romeos o la enrevesada batalla por el nombre del grupo español",
+   "x": 22.857,
+   "y": 44.904,
+   "w": 11.929,
+   "h": 5.788
+  },
+  {
+   "n": 13,
+   "title": "Ni Shakira ni Rosalía: ‘Delirium Pepitatorum’, la enfermedad del entusiasmo que desató la bailarina Pepita de Oliva",
+   "x": 51.071,
+   "y": 44.904,
+   "w": 11.929,
+   "h": 5.788
+  },
+  {
+   "n": 3,
+   "title": "La inflación diluye el impacto de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
+   "x": 51.143,
+   "y": 0.788,
+   "w": 19,
+   "h": 3.904
+  },
+  {
+   "n": 7,
+   "title": "Un juez indemniza con 5,7 millones a los padres de Oliver, un niño que se quedó tetrapléjico por errores en el parto",
+   "x": 15.5,
+   "y": 19.5,
+   "w": 40.714,
+   "h": 2.077
+  },
+  {
+   "n": 4,
+   "title": "Extremismo, burlas con IA e injerencias rusas: campañas tóxicas al servicio de los algoritmos",
+   "x": 51.143,
+   "y": 5.077,
+   "w": 19,
+   "h": 5.404
+  },
+  {
+   "n": 8,
+   "title": "Cómo acabar de una vez por todas con la nostalgia del franquismo",
+   "x": 51.143,
+   "y": 29,
+   "w": 40.143,
+   "h": 2.981
+  },
+  {
+   "n": 20,
+   "title": "El archivo suizo del nazi Mengele: pistas que no llevan a nada y un supuesto espía israelí",
+   "x": 8.786,
+   "y": 93.25,
+   "w": 26,
+   "h": 6.75
+  },
+  {
+   "n": 15,
+   "title": "La línea Madrid-Sevilla, a examen: dos juzgados y dos causas de la Fiscalía Europea siguen activas",
+   "x": 8.786,
+   "y": 57.904,
+   "w": 26,
+   "h": 8.077
+  },
+  {
+   "n": 19,
+   "title": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, elegimos lo menos malo”",
+   "x": 8.786,
+   "y": 84.788,
+   "w": 26,
+   "h": 8.077
+  },
+  {
+   "n": 18,
+   "title": "Trump elige al extremista Stephen Miller como nuevo jefe de gabinete tras la derrota en las ‘midterms’",
+   "x": 8.786,
+   "y": 75.846,
+   "w": 26,
+   "h": 8.558
+  },
+  {
+   "n": 14,
+   "title": "EL PAÍS alcanza los 500.000 suscriptores",
+   "x": 8.786,
+   "y": 52.865,
+   "w": 82.5,
+   "h": 2.865
+  }
+ ]
+}
