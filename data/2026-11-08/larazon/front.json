@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2729,
+ "bytes": 265032,
+ "hotspots": [
+  {
+   "n": 20,
+   "title": "La derrota tiene padre",
+   "x": 14.286,
+   "y": 93.074,
+   "w": 35.143,
+   "h": 2.528
+  },
+  {
+   "n": 10,
+   "title": "La España en llamas: diez años de infierno forestal",
+   "x": 14.286,
+   "y": 31.074,
+   "w": 17,
+   "h": 5.387
+  },
+  {
+   "n": 11,
+   "title": "El mantenimiento de infraestructuras de la red de carreteras tiene un déficit de casi 60.000 millones",
+   "x": 32.429,
+   "y": 31.074,
+   "w": 17,
+   "h": 5.387
+  },
+  {
+   "n": 12,
+   "title": "El Gobierno hunde la inversión hidráulica en plena ola de desastres climáticos",
+   "x": 50.571,
+   "y": 31.074,
+   "w": 17,
+   "h": 5.387
+  },
+  {
+   "n": 13,
+   "title": "Los puertos españoles, en desventaja con sus competidores por falta de inversión",
+   "x": 68.714,
+   "y": 31.074,
+   "w": 17,
+   "h": 5.387
+  },
+  {
+   "n": 15,
+   "title": "Sánchez tapa ahora a sus «Óscars» para camuflarse como gestor",
+   "x": 44.5,
+   "y": 43.606,
+   "w": 17,
+   "h": 5.68
+  },
+  {
+   "n": 6,
+   "title": "Sanidad: ocho años de deterioro y una legislatura marcada por la bronca política",
+   "x": 14.286,
+   "y": 23.415,
+   "w": 17,
+   "h": 6.156
+  },
+  {
+   "n": 7,
+   "title": "La vivienda pública con Sánchez: apenas un 1,5% del parque, a la cola de Europa, por una reforma de la Ley del Suelo bloqueada",
+   "x": 32.429,
+   "y": 23.415,
+   "w": 17,
+   "h": 6.156
+  },
+  {
+   "n": 8,
+   "title": "Ocho años de Sánchez en Educación: una ley que rebaja la exigencia, los peores resultados en PISA y promesas incumplidas a los profesores",
+   "x": 50.571,
+   "y": 23.415,
+   "w": 17,
+   "h": 6.156
+  },
+  {
+   "n": 9,
+   "title": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
+   "x": 68.714,
+   "y": 23.415,
+   "w": 17,
+   "h": 6.156
+  },
+  {
+   "n": 16,
+   "title": "Feijóo promete desterrar la era García Ortiz: fiscal general con el aval del Poder Judicial y comunicaciones públicas",
+   "x": 44.5,
+   "y": 56.468,
+   "w": 17,
+   "h": 7.255
+  },
+  {
+   "n": 17,
+   "title": "El PSOE registró por un céntimo un inmueble valorado en 230.000",
+   "x": 14.286,
+   "y": 72.591,
+   "w": 23.071,
+   "h": 8.062
+  },
+  {
+   "n": 18,
+   "title": "Kissy Chandiramani, vicepresidenta segunda de Ceuta: «El nuevo Gobierno debe asumir que Ceuta es una prioridad nacional»",
+   "x": 38.5,
+   "y": 72.591,
+   "w": 23.071,
+   "h": 8.062
+  },
+  {
+   "n": 19,
+   "title": "Carta a un socialista indeciso",
+   "x": 62.643,
+   "y": 72.591,
+   "w": 23.071,
+   "h": 8.062
+  },
+  {
+   "n": 14,
+   "title": "El fin de ciclo llega al Gobierno: los ministros de Sánchez ya preguntan por sus sustitutos",
+   "x": 14.286,
+   "y": 37.963,
+   "w": 29.071,
+   "h": 8.538
+  },
+  {
+   "n": 3,
+   "title": "La degradación del ferrocarril: el mantenimiento no da votos, pero su carencia provoca tragedias",
+   "x": 14.286,
+   "y": 4.617,
+   "w": 71.429,
+   "h": 3.994
+  }
+ ]
+}

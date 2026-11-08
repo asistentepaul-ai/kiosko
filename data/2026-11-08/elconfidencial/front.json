@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4951,
+ "bytes": 337782,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "El giro moderado de Santiago Abascal",
+   "x": 64.857,
+   "y": 45.748,
+   "w": 26.286,
+   "h": 2.161
+  },
+  {
+   "n": 7,
+   "title": "El Madrid baila en Mestalla al ritmo de Arda Güler y cierra el exilio del Bernabéu con pleno de victorias (0-3)",
+   "x": 8.857,
+   "y": 95.152,
+   "w": 26.286,
+   "h": 2.424
+  },
+  {
+   "n": 18,
+   "title": "El Gobierno consume los ingresos récord y deja sin margen fiscal al ejecutivo que salga tras el 29 de noviembre",
+   "x": 8.857,
+   "y": 58.008,
+   "w": 19.714,
+   "h": 3.474
+  },
+  {
+   "n": 10,
+   "title": "La jugada de Vox en 'La Revuelta': humanizar a Abascal y espantar el fantasma de la ultraderecha",
+   "x": 64.857,
+   "y": 22.319,
+   "w": 26.286,
+   "h": 2.646
+  },
+  {
+   "n": 11,
+   "title": "Las bases de ERC, contra Gabriel Rufián: le critican su afán por suceder a Junqueras y presidir la Generalitat",
+   "x": 64.857,
+   "y": 25.631,
+   "w": 26.286,
+   "h": 2.646
+  },
+  {
+   "n": 16,
+   "title": "La derecha radical europea empieza a decir que no conoce a Trump de nada",
+   "x": 64.857,
+   "y": 48.576,
+   "w": 26.286,
+   "h": 2.646
+  },
+  {
+   "n": 9,
+   "title": "Demasiados agujeros para una remontada",
+   "x": 64.857,
+   "y": 14.704,
+   "w": 26.286,
+   "h": 6.948
+  },
+  {
+   "n": 12,
+   "title": "General Ballesteros, exjefe de Seguridad Nacional: \"Marruecos tiene una estrategia para hacerse con Ceuta y Melilla y se está rearmando\"",
+   "x": 8.857,
+   "y": 29.671,
+   "w": 19.714,
+   "h": 9.291
+  },
+  {
+   "n": 14,
+   "title": "La 'tribu del odio' explicada a Pedro Sánchez",
+   "x": 8.857,
+   "y": 42.921,
+   "w": 19.714,
+   "h": 9.291
+  },
+  {
+   "n": 17,
+   "title": "La inmigración y la productividad mejorarán el examen de las pensiones de la Comisión Europea",
+   "x": 8.857,
+   "y": 53.605,
+   "w": 19.714,
+   "h": 9.291
+  },
+  {
+   "n": 20,
+   "title": "Los padres del AVE Madrid-Sevilla y la debacle de la joya de la corona: \"Ponías de pie un cigarro y no se caía\"",
+   "x": 8.857,
+   "y": 71.238,
+   "w": 19.714,
+   "h": 9.291
+  },
+  {
+   "n": 8,
+   "title": "La derecha recupera 6 escaños a la izquierda por el castigo al PSOE tras Urda y la dimisión de Puente",
+   "x": 8.857,
+   "y": 14.704,
+   "w": 54.286,
+   "h": 3.918
+  },
+  {
+   "n": 19,
+   "title": "Estos veinteañeros fans de la IA han encontrado el gran nicho del 29-N: \"En 24 horas pude conseguir 50.000 seguidores\"",
+   "x": 8.857,
+   "y": 63.644,
+   "w": 54.286,
+   "h": 6.201
+  }
+ ]
+}

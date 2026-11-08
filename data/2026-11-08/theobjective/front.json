@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4067,
+ "bytes": 294198,
+ "hotspots": [
+  {
+   "n": 14,
+   "title": "La Fiscalía Europea investiga el accidente de Urda",
+   "x": 62.357,
+   "y": 66.732,
+   "w": 23.214,
+   "h": 3.295
+  },
+  {
+   "n": 5,
+   "title": "El Real Madrid golea al Valencia en Mestalla y se asoma al liderato",
+   "x": 14.5,
+   "y": 90.976,
+   "w": 16.714,
+   "h": 6.073
+  },
+  {
+   "n": 18,
+   "title": "Las pizarras digitales están empezando a escuchar a profesores y alumnos",
+   "x": 32.571,
+   "y": 90.976,
+   "w": 16.714,
+   "h": 6.073
+  },
+  {
+   "n": 19,
+   "title": "De la dimisión de Puente a las menores prostituidas en Ceuta",
+   "x": 50.714,
+   "y": 90.976,
+   "w": 16.714,
+   "h": 6.073
+  },
+  {
+   "n": 20,
+   "title": "¿Quién fue el responsable de la matanza de Paracuellos?",
+   "x": 68.857,
+   "y": 90.976,
+   "w": 16.714,
+   "h": 6.073
+  },
+  {
+   "n": 13,
+   "title": "Las investigaciones en ADIF dan la puntilla a la campaña de Pedro Sánchez para el 29-N",
+   "x": 14.5,
+   "y": 70.814,
+   "w": 46.429,
+   "h": 2.238
+  },
+  {
+   "n": 9,
+   "title": "Albares coloca en Brasil a la alto cargo de Exteriores señalada por lucro personal",
+   "x": 14.5,
+   "y": 20.58,
+   "w": 22.714,
+   "h": 7.18
+  },
+  {
+   "n": 10,
+   "title": "Óscar Puente ha sido hasta su dimisión el ministro con menor actividad oficial en 2026",
+   "x": 39.286,
+   "y": 20.58,
+   "w": 22.714,
+   "h": 7.18
+  },
+  {
+   "n": 15,
+   "title": "El PP reforzará el control del voto por correo para garantizar la custodia y la entrega",
+   "x": 14.5,
+   "y": 74.035,
+   "w": 22.714,
+   "h": 7.18
+  },
+  {
+   "n": 16,
+   "title": "El exdelegado en Ceuta propuso comprar parcelas para efectuar triajes a inmigrantes",
+   "x": 39.286,
+   "y": 74.035,
+   "w": 22.714,
+   "h": 7.18
+  },
+  {
+   "n": 11,
+   "title": "Félix de Azúa: «La democracia se está terminando»",
+   "x": 14.5,
+   "y": 28.498,
+   "w": 22.714,
+   "h": 7.499
+  },
+  {
+   "n": 12,
+   "title": "Vox logra que ‘La revuelta’ acepte un público más plural en la entrevista con Abascal",
+   "x": 39.286,
+   "y": 28.498,
+   "w": 22.714,
+   "h": 7.499
+  },
+  {
+   "n": 17,
+   "title": "Los lectores de TO proponen las reformas necesarias para el 29-N",
+   "x": 39.286,
+   "y": 81.952,
+   "w": 22.714,
+   "h": 8.04
+  },
+  {
+   "n": 6,
+   "title": "Sánchez grabará un pódcast mientras los Reyes y Feijóo asisten al funeral por Urda",
+   "x": 14.5,
+   "y": 8.606,
+   "w": 71.071,
+   "h": 3.295
+  },
+  {
+   "n": 7,
+   "title": "El audio que demuestra los amaños en ADIF: «Lo tenemos que hacer, viene de arriba»",
+   "x": 14.5,
+   "y": 12.638,
+   "w": 34.786,
+   "h": 6.958
+  },
+  {
+   "n": 8,
+   "title": "Moncloa duplica el importe de los contratos a dedo hasta 4.000 millones en nueve meses",
+   "x": 50.786,
+   "y": 12.638,
+   "w": 34.786,
+   "h": 6.958
+  }
+ ]
+}
