@@ -1,0 +1,88 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4997,
+ "bytes": 389026,
+ "hotspots": [
+  {
+   "n": 19,
+   "title": "Más cerveza que champán en el béisbol para fastidiar a Trump",
+   "x": 62.357,
+   "y": 57.835,
+   "w": 7.571,
+   "h": 1.681
+  },
+  {
+   "n": 18,
+   "title": "Intxaurrundo se cuelga de Puente",
+   "x": 62.357,
+   "y": 52.972,
+   "w": 23.214,
+   "h": 1.681
+  },
+  {
+   "n": 17,
+   "title": "Un examen económico revela que tres de cada cuatro leyes lastran el PIB de España",
+   "x": 62.071,
+   "y": 95.537,
+   "w": 21.714,
+   "h": 2.061
+  },
+  {
+   "n": 12,
+   "title": "Zapatero ayudó a una empresa del exchófer de Sánchez que se ‘evaporó’ en meses",
+   "x": 50.786,
+   "y": 22.874,
+   "w": 34.786,
+   "h": 1.621
+  },
+  {
+   "n": 13,
+   "title": "La UDEF descubre seis inmuebles a la trama de visados del consulado en Argel",
+   "x": 14.5,
+   "y": 25.295,
+   "w": 22.714,
+   "h": 5.844
+  },
+  {
+   "n": 14,
+   "title": "Denuncian un sistema de dietas infladas en las oficinas de turismo de España",
+   "x": 39.286,
+   "y": 25.295,
+   "w": 22.714,
+   "h": 5.844
+  },
+  {
+   "n": 15,
+   "title": "Nervios en el PSOE de Andalucía por miedo al peor resultado de su historia",
+   "x": 14.5,
+   "y": 31.739,
+   "w": 22.714,
+   "h": 6.104
+  },
+  {
+   "n": 16,
+   "title": "El Gobierno oculta las puntuaciones con las que La Séptima ganó su licencia",
+   "x": 39.286,
+   "y": 31.739,
+   "w": 22.714,
+   "h": 6.104
+  },
+  {
+   "n": 20,
+   "title": "Un español prorruso recluta desde Moscú a compatriotas para que trabajen como espías",
+   "x": 14.5,
+   "y": 60.917,
+   "w": 22.286,
+   "h": 6.404
+  },
+  {
+   "n": 11,
+   "title": "Núñez Feijóo: «España tiene que reaccionar. Hay que iniciar una reconstrucción nacional»",
+   "x": 14.5,
+   "y": 15.549,
+   "w": 71.071,
+   "h": 2.081
+  }
+ ]
+}

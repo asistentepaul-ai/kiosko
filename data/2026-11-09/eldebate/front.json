@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3511,
+ "bytes": 328640,
+ "hotspots": [
+  {
+   "n": 11,
+   "title": "Si hubiéramos tenido balizas como los coches, no hubiera habido accidente en Urda",
+   "x": 33.571,
+   "y": 60.011,
+   "w": 15.714,
+   "h": 2.848
+  },
+  {
+   "n": 9,
+   "title": "Las tres semanas de Cuerpo para apagar el incendio ferroviario antes de las elecciones",
+   "x": 39.286,
+   "y": 48.932,
+   "w": 21.429,
+   "h": 3.019
+  },
+  {
+   "n": 8,
+   "title": "Cuerpo teme convertirse en escudo de Sánchez y que le abucheen en el funeral de Estado por las víctimas de Urda",
+   "x": 16.429,
+   "y": 48.932,
+   "w": 21.429,
+   "h": 3.731
+  },
+  {
+   "n": 12,
+   "title": "Entrambasaguas: «La Policía ha encontrado el rastro de Zapatero en la ‘offshore’ de Dubái»",
+   "x": 50.714,
+   "y": 53.859,
+   "w": 15.714,
+   "h": 8.687
+  },
+  {
+   "n": 17,
+   "title": "Las cuatro líneas rojas que pueden devolver a Netanyahu al poder en Israel",
+   "x": 16.429,
+   "y": 77.414,
+   "w": 15.714,
+   "h": 8.687
+  },
+  {
+   "n": 3,
+   "title": "La huelga general amenaza con dejar un agujero en la economía de hasta 4.560 millones",
+   "x": 16.429,
+   "y": 22.017,
+   "w": 44.286,
+   "h": 3.161
+  },
+  {
+   "n": 19,
+   "title": "Venezuela: vida sin electricidad, vida sin derechos humanos",
+   "x": 50.714,
+   "y": 77.414,
+   "w": 15.714,
+   "h": 8.943
+  },
+  {
+   "n": 18,
+   "title": "¿Qué pasará ahora con Cuba, Nicaragua y Venezuela tras la derrota republicana en la 'midterms'?",
+   "x": 33.571,
+   "y": 77.414,
+   "w": 15.714,
+   "h": 9.428
+  },
+  {
+   "n": 13,
+   "title": "El PP lleva a su programa una revolución en la relación con Hacienda: derecho al error y confiar «en el contribuyente que cumple»",
+   "x": 67.857,
+   "y": 53.859,
+   "w": 15.714,
+   "h": 10.14
+  },
+  {
+   "n": 10,
+   "title": "Colonoscopia: la prueba que permite detectar y eliminar pólipos en una misma exploración",
+   "x": 16.429,
+   "y": 53.859,
+   "w": 15.714,
+   "h": 10.367
+  },
+  {
+   "n": 14,
+   "title": "Último día de plazo para alegar excusas a la mesa electoral del 29N",
+   "x": 16.429,
+   "y": 65.394,
+   "w": 21.429,
+   "h": 8.573
+  },
+  {
+   "n": 20,
+   "title": "Bruselas respira expectativas de cambio en España tras las elecciones del 29-N",
+   "x": 16.429,
+   "y": 88.009,
+   "w": 21.429,
+   "h": 8.573
+  },
+  {
+   "n": 6,
+   "title": "Sánchez ya ríe como las hienas etarras enajenado de sus víctimas",
+   "x": 16.429,
+   "y": 37.482,
+   "w": 21.429,
+   "h": 9.541
+  },
+  {
+   "n": 4,
+   "title": "El día después del Sánchez más imprevisible y sin «sucesor designado» ha comenzado",
+   "x": 62.143,
+   "y": 12.105,
+   "w": 21.429,
+   "h": 10.026
+  },
+  {
+   "n": 7,
+   "title": "Transportes desmanteló la comisión de investigación de Adamuz sin comunicarlo a sus responsables para poner en marcha la suya",
+   "x": 39.286,
+   "y": 37.482,
+   "w": 21.429,
+   "h": 10.282
+  },
+  {
+   "n": 15,
+   "title": "Los españoles invierten un 36 % menos que los europeos a la espera de los incentivos fiscales que ultima el Gobierno",
+   "x": 39.286,
+   "y": 65.394,
+   "w": 21.429,
+   "h": 10.282
+  },
+  {
+   "n": 16,
+   "title": "El Gobierno deja atadas las Zonas de Bajas Emisiones antes de las elecciones para obligar a multar a más conductores",
+   "x": 62.143,
+   "y": 65.394,
+   "w": 21.429,
+   "h": 10.282
+  },
+  {
+   "n": 5,
+   "title": "El proyecto de Colau no arranca y el bloque de la izquierda parte con casi diez puntos menos que el 23-J",
+   "x": 16.429,
+   "y": 28.34,
+   "w": 44.286,
+   "h": 7.975
+  }
+ ]
+}

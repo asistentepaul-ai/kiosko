@@ -1,0 +1,120 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4460,
+ "bytes": 402940,
+ "hotspots": [
+  {
+   "n": 3,
+   "title": "Chaquetas efecto pelo",
+   "x": 53.357,
+   "y": 95.874,
+   "w": 16.214,
+   "h": 1.435
+  },
+  {
+   "n": 9,
+   "title": "Autohuelga contra las encuestas",
+   "x": 7.143,
+   "y": 15.516,
+   "w": 19.5,
+   "h": 2.13
+  },
+  {
+   "n": 19,
+   "title": "El Gobierno bate récords este año de manipulación presupuestaria al modificar ya 40.000 millones en las cuentas prorrogadas",
+   "x": 46.857,
+   "y": 24.305,
+   "w": 19.5,
+   "h": 2.287
+  },
+  {
+   "n": 18,
+   "title": "El Sindicato de Inquilinas exhibe músculo ante los sindicatos tradicionales y abre una nueva etapa: ¿Qué quiere ser de mayor?",
+   "x": 46.857,
+   "y": 21.188,
+   "w": 19.5,
+   "h": 2.309
+  },
+  {
+   "n": 7,
+   "title": "PP y Vox suman 199 diputados con un 50,4% votos y Sánchez no remonta la tragedia de los trenes",
+   "x": 7.143,
+   "y": 11.48,
+   "w": 19.5,
+   "h": 2.309
+  },
+  {
+   "n": 14,
+   "title": "El Tribunal de Cuentas inicia la instrucción para recuperar el dinero de concursos amañados de Adif",
+   "x": 73.357,
+   "y": 9.126,
+   "w": 19.5,
+   "h": 2.309
+  },
+  {
+   "n": 13,
+   "title": "La factura millonaria del último año de Puente: 100 millones menos en billetes, pérdidas históricas en Adif y un plan de seguridad sin presupuesto",
+   "x": 73.357,
+   "y": 5.538,
+   "w": 19.5,
+   "h": 2.758
+  },
+  {
+   "n": 10,
+   "title": "El corazón del 'sorpasso' de Vox al PSOE en Torre Pacheco: \"Hay que poner todo en su sitio\"",
+   "x": 29.214,
+   "y": 14.439,
+   "w": 41.571,
+   "h": 1.57
+  },
+  {
+   "n": 11,
+   "title": "Estrategia. Vox lanza su campaña con una imagen institucional de Abascal y tres ideas fuerza: \"Prioridad nacional, desregulación y remigración\"",
+   "x": 29.214,
+   "y": 16.166,
+   "w": 41.571,
+   "h": 1.659
+  },
+  {
+   "n": 17,
+   "title": "Los tres choques entre juez y fiscal en la investigación al ex presidente Zapatero",
+   "x": 7.143,
+   "y": 32.063,
+   "w": 37.143,
+   "h": 1.973
+  },
+  {
+   "n": 16,
+   "title": "Nvidia investigará a su propio director ejecutivo por haber mantenido una relación con una espía china",
+   "x": 7.143,
+   "y": 29.148,
+   "w": 37.143,
+   "h": 2.108
+  },
+  {
+   "n": 6,
+   "title": "El PP recuperará la presencia del Estado en el País Vasco y Cataluña en seis meses: funcionarios, comisarías, Seguridad Social...",
+   "x": 7.143,
+   "y": 5.538,
+   "w": 19.5,
+   "h": 4.552
+  },
+  {
+   "n": 20,
+   "title": "Miriam González: \"No debería haber 69 muertos para que Europa investigue Adif\"",
+   "x": 46.857,
+   "y": 27.399,
+   "w": 19.5,
+   "h": 6.121
+  },
+  {
+   "n": 15,
+   "title": "Primer gran debate de campaña: Albiol pide \"agrupar el voto\" para que Feijóo gobierne en solitario con una \"mayoría suficiente\" y el PSOE agita el miedo contra Vox",
+   "x": 73.357,
+   "y": 12.242,
+   "w": 19.5,
+   "h": 7.354
+  }
+ ]
+}

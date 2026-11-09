@@ -1,0 +1,96 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2677,
+ "bytes": 188514,
+ "hotspots": [
+  {
+   "n": 7,
+   "title": "Elecciones encuestas",
+   "x": 8.857,
+   "y": 42.286,
+   "w": 26.286,
+   "h": 3.063
+  },
+  {
+   "n": 15,
+   "title": "¿Se ha arrepentido Sánchez de adelantar las elecciones?",
+   "x": 64.857,
+   "y": 33.321,
+   "w": 26.286,
+   "h": 3.997
+  },
+  {
+   "n": 16,
+   "title": "¿Teme Sánchez un cara a cara con Feijóo?",
+   "x": 64.857,
+   "y": 38.551,
+   "w": 26.286,
+   "h": 3.997
+  },
+  {
+   "n": 17,
+   "title": "¿Es Feijóo un caballo de Troya de la ultraderecha?",
+   "x": 64.857,
+   "y": 43.78,
+   "w": 26.286,
+   "h": 3.997
+  },
+  {
+   "n": 14,
+   "title": "Voto por correo: el que parte y reparte se queda con la mejor parte",
+   "x": 64.857,
+   "y": 27.195,
+   "w": 26.286,
+   "h": 4.894
+  },
+  {
+   "n": 13,
+   "title": "El 52,6% de los españoles suspende al Gobierno y la percepción negativa sube un mes después del adelanto electoral",
+   "x": 8.857,
+   "y": 36.16,
+   "w": 26.286,
+   "h": 5.529
+  },
+  {
+   "n": 19,
+   "title": "La trastienda del adiós de Puente: un sacrificio medido, la guerra con el PSC por Renfe y un plan para volver",
+   "x": 8.857,
+   "y": 60.926,
+   "w": 26.286,
+   "h": 5.529
+  },
+  {
+   "n": 11,
+   "title": "Fermín, con un doblete, sentencia al Atlético del errático Julián Álvarez y el Barcelona sigue líder (1-2)",
+   "x": 8.857,
+   "y": 21.629,
+   "w": 82.286,
+   "h": 4.184
+  },
+  {
+   "n": 12,
+   "title": "El PP eleva nueve puntos la fidelidad de su electorado tras Urda y recupera 624.000 votos fugados a Vox",
+   "x": 8.857,
+   "y": 27.195,
+   "w": 54.286,
+   "h": 20.62
+  },
+  {
+   "n": 18,
+   "title": "Adif y la corrupción del PSOE dinamitan la 'marca España' y asestan un golpe millonario a las empresas españolas",
+   "x": 8.857,
+   "y": 50.392,
+   "w": 54.286,
+   "h": 20.62
+  },
+  {
+   "n": 20,
+   "title": "El plan anti-Pumpido de Feijóo: prohibirá que un magistrado del TC juzgue leyes en las que participó",
+   "x": 8.857,
+   "y": 74.897,
+   "w": 54.286,
+   "h": 20.62
+  }
+ ]
+}
