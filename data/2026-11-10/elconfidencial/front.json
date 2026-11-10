@@ -1,0 +1,120 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4651,
+ "bytes": 359000,
+ "hotspots": [
+  {
+   "n": 18,
+   "title": "Urda. No fue un accidente",
+   "x": 64.857,
+   "y": 49.946,
+   "w": 26.286,
+   "h": 1.849
+  },
+  {
+   "n": 8,
+   "title": "¿Qué dicen las encuestas? La carrera hacia la mayoría absoluta, en 6 gráficos",
+   "x": 8.857,
+   "y": 21.114,
+   "w": 26.286,
+   "h": 2.064
+  },
+  {
+   "n": 12,
+   "title": "El Partido Popular castigará por ley al Gobierno saliente si oculta información",
+   "x": 64.857,
+   "y": 24.575,
+   "w": 26.286,
+   "h": 2.301
+  },
+  {
+   "n": 17,
+   "title": "Así engañaron a la acampada",
+   "x": 64.857,
+   "y": 46.936,
+   "w": 26.286,
+   "h": 2.301
+  },
+  {
+   "n": 20,
+   "title": "'El estado del Estado': el libro del juez Enrique López que pide \"exigir máximos éticos a los responsables políticos\"",
+   "x": 8.857,
+   "y": 60.095,
+   "w": 19.714,
+   "h": 3.096
+  },
+  {
+   "n": 9,
+   "title": "Ley de nietos. El TS mantiene el veto a los 'nietos' pero no lo extiende a sus hijos por falta de tiempo",
+   "x": 8.857,
+   "y": 23.522,
+   "w": 26.286,
+   "h": 2.58
+  },
+  {
+   "n": 14,
+   "title": "Ayuso mantiene la subvención de 600.000 euros para la \"mafia\" y los \"caraduras\" de CCOO y UGT",
+   "x": 8.857,
+   "y": 34.337,
+   "w": 26.286,
+   "h": 2.58
+  },
+  {
+   "n": 16,
+   "title": "Saber por quién lloras, ignorar contra quién te manifiestas",
+   "x": 64.857,
+   "y": 43.41,
+   "w": 26.286,
+   "h": 2.817
+  },
+  {
+   "n": 7,
+   "title": "Límite 100 escaños: el objetivo de Sánchez para aguantar en el PSOE frente a un triple vía crucis en la oposición",
+   "x": 8.857,
+   "y": 15.954,
+   "w": 26.286,
+   "h": 7.224
+  },
+  {
+   "n": 15,
+   "title": "Todos los partidos quieren ser una secta. El PSOE lo está consiguiendo",
+   "x": 8.857,
+   "y": 43.41,
+   "w": 19.714,
+   "h": 9.89
+  },
+  {
+   "n": 19,
+   "title": "El vocal \"maldito\" del CGPJ: \"Los progresistas más afines a Bolaños siguen consignas directamente\"",
+   "x": 8.857,
+   "y": 54.784,
+   "w": 19.714,
+   "h": 9.89
+  },
+  {
+   "n": 6,
+   "title": "La gran infidelidad de Nvidia: claves de la crisis del gigante de la IA y un beneficiado inesperado (que no es Pekín)",
+   "x": 8.857,
+   "y": 87.53,
+   "w": 19.714,
+   "h": 9.89
+  },
+  {
+   "n": 11,
+   "title": "El tartamudeo de Broncano en la cita entre dos Españas que no se entienden",
+   "x": 64.857,
+   "y": 15.954,
+   "w": 26.286,
+   "h": 7.912
+  },
+  {
+   "n": 13,
+   "title": "Las izquierdas buscarán con la huelga general el voto de la extrema izquierda del CIS",
+   "x": 8.857,
+   "y": 29.306,
+   "w": 54.286,
+   "h": 11.868
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1400,
+ "bytes": 76640,
+ "hotspots": [
+  {
+   "n": 5,
+   "title": "El PP encabeza 31 circunscripciones y empata en nueve con el PSOE, que solo lidera dos",
+   "x": 71.357,
+   "y": 20.714,
+   "w": 18.143,
+   "h": 13.714
+  },
+  {
+   "n": 9,
+   "title": "Broncano, lo tuyo es la comedia: el bochornazo de entrevista a Abascal",
+   "x": 30.786,
+   "y": 56.643,
+   "w": 18.143,
+   "h": 22.643
+  }
+ ]
+}

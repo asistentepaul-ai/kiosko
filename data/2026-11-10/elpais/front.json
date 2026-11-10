@@ -1,0 +1,160 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4724,
+ "bytes": 485858,
+ "hotspots": [
+  {
+   "n": 6,
+   "title": "El público de Vox o la falta de “huevos”: cinco momentos del programa",
+   "x": 72.286,
+   "y": 10.415,
+   "w": 19,
+   "h": 2.011
+  },
+  {
+   "n": 10,
+   "title": "Todo el mundo pega el pelotazo en el número 57 de la calle de José Abascal de Madrid",
+   "x": 37,
+   "y": 29.191,
+   "w": 26,
+   "h": 2.159
+  },
+  {
+   "n": 2,
+   "title": "Defensa contrata 15 nuevos programas de armamento para cumplir con la OTAN",
+   "x": 8.786,
+   "y": 8.108,
+   "w": 19,
+   "h": 3.895
+  },
+  {
+   "n": 11,
+   "title": "La polémica biografía de Vargas Llosa que el grupo editorial del Nobel no quiso publicar",
+   "x": 8.786,
+   "y": 36.219,
+   "w": 11.929,
+   "h": 6.372
+  },
+  {
+   "n": 13,
+   "title": "Chimpancés, monos y cucarachas: los animales también votan y sus elecciones pueden ser manipuladas",
+   "x": 37,
+   "y": 36.219,
+   "w": 11.929,
+   "h": 6.372
+  },
+  {
+   "n": 12,
+   "title": "La investigación vaticana del Sodalicio revela extracciones de ovarios y fármacos para tratar la homosexualidad",
+   "x": 22.857,
+   "y": 36.219,
+   "w": 11.929,
+   "h": 6.372
+  },
+  {
+   "n": 14,
+   "title": "Adiós, tarima: ¿vuelven las casas con moqueta?",
+   "x": 51.071,
+   "y": 36.219,
+   "w": 11.929,
+   "h": 6.372
+  },
+  {
+   "n": 3,
+   "title": "Dos agentes y una ‘traición’ de casi 300 archivos en el CNI: culmina la investigación del caso que sacudió a los servicios secretos",
+   "x": 29.929,
+   "y": 8.637,
+   "w": 40.143,
+   "h": 2.159
+  },
+  {
+   "n": 7,
+   "title": "Así logró China engañar al empresario más poderoso de la inteligencia artificial con una operación de seducción",
+   "x": 8.786,
+   "y": 17.697,
+   "w": 19,
+   "h": 6.202
+  },
+  {
+   "n": 8,
+   "title": "Un escándalo de espías y seducción en el gigante tecnológico compromete a Donald Trump",
+   "x": 51.143,
+   "y": 17.697,
+   "w": 19,
+   "h": 6.202
+  },
+  {
+   "n": 9,
+   "title": "Quién es quién en el escándalo de Nvidia",
+   "x": 72.286,
+   "y": 17.697,
+   "w": 19,
+   "h": 6.202
+  },
+  {
+   "n": 1,
+   "title": "Militantes de Núcleo Nacional recibieron formación paramilitar en Ucrania con fusiles",
+   "x": 8.786,
+   "y": 0.868,
+   "w": 19,
+   "h": 6.816
+  },
+  {
+   "n": 4,
+   "title": "Broncano y Abascal, deconstrucción sin éxito",
+   "x": 72.286,
+   "y": 0.868,
+   "w": 19,
+   "h": 9.124
+  },
+  {
+   "n": 19,
+   "title": "Milei, el hombre a quien solo conmueven sus perros",
+   "x": 8.786,
+   "y": 89.86,
+   "w": 26,
+   "h": 7.599
+  },
+  {
+   "n": 15,
+   "title": "España registra una de las mayores subidas de la presión fiscal en la UE, pero sigue por debajo de la media",
+   "x": 8.786,
+   "y": 53.408,
+   "w": 26,
+   "h": 8.489
+  },
+  {
+   "n": 18,
+   "title": "El funeral por Urda reúne en la catedral de Toledo a las familias con los Reyes, el Gobierno y la oposición",
+   "x": 8.786,
+   "y": 80.948,
+   "w": 26,
+   "h": 8.489
+  },
+  {
+   "n": 16,
+   "title": "¿Tengo que avisar a mi jefe? ¿Y si trabajo de noche? Dudas sobre los derechos en la huelga del 11-N",
+   "x": 8.786,
+   "y": 62.32,
+   "w": 26,
+   "h": 8.87
+  },
+  {
+   "n": 17,
+   "title": "Las pruebas de Adamuz siguen bajo llave y sin analizarse 10 meses después del accidente",
+   "x": 8.786,
+   "y": 71.634,
+   "w": 26,
+   "h": 8.891
+  },
+  {
+   "n": 20,
+   "title": "Un joven con una crisis mental o un ultra con conexiones oscuras: la investigación busca determinar el móvil del terrorista de Cracovia",
+   "x": 37,
+   "y": 53.408,
+   "w": 26,
+   "h": 9.378
+  }
+ ]
+}

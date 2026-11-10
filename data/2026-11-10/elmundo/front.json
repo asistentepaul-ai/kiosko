@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4702,
+ "bytes": 528086,
+ "hotspots": [
+  {
+   "n": 1,
+   "title": "Chaquetas efecto pelo",
+   "x": 53.357,
+   "y": 96.087,
+   "w": 16.214,
+   "h": 1.361
+  },
+  {
+   "n": 18,
+   "title": "Seis de cada 10 españoles no harán huelga seguro frente al 19,5% que sí",
+   "x": 46.857,
+   "y": 19.353,
+   "w": 19.5,
+   "h": 1.765
+  },
+  {
+   "n": 19,
+   "title": "Unai Sordo (CCOO): \"Si el Partido Popular y Vox se sienten apelados por las reivindicaciones de la huelga, por algo será\"",
+   "x": 46.857,
+   "y": 21.863,
+   "w": 19.5,
+   "h": 2.191
+  },
+  {
+   "n": 20,
+   "title": "Pepe Álvarez (UGT): \"La CEOE ha coaccionado a mucha gente con sus acusaciones sobre la convocatoria de huelga ilegal\"",
+   "x": 46.857,
+   "y": 24.819,
+   "w": 19.5,
+   "h": 2.191
+  },
+  {
+   "n": 5,
+   "title": "La legislatura de los 490 muertos en 4 tragedias aleja del pueblo a Sánchez: tampoco asiste hoy al funeral por Urda",
+   "x": 7.143,
+   "y": 11.803,
+   "w": 19.5,
+   "h": 2.191
+  },
+  {
+   "n": 6,
+   "title": "La angustia de probar que Abascal no es un monstruo",
+   "x": 7.143,
+   "y": 15.291,
+   "w": 19.5,
+   "h": 2.191
+  },
+  {
+   "n": 10,
+   "title": "Las 18 provincias \"clave\" donde el Frente Amplio fija la remontada: \"Con un 10% del voto se multiplican los escaños\"",
+   "x": 73.357,
+   "y": 6.168,
+   "w": 19.5,
+   "h": 2.191
+  },
+  {
+   "n": 13,
+   "title": "Ofensiva. Una legión de amputados: la herida sangrante de la guerra de Ucrania",
+   "x": 7.143,
+   "y": 28.52,
+   "w": 37.143,
+   "h": 1.212
+  },
+  {
+   "n": 16,
+   "title": "EEUU. Trump defiende que Ucrania tendrá que ceder territorios para alcanzar la paz",
+   "x": 7.143,
+   "y": 32.539,
+   "w": 37.143,
+   "h": 1.212
+  },
+  {
+   "n": 11,
+   "title": "Los alumnos no podrán pasar de curso con suspensos en la ESO y habrá nota mínima para estudiar Magisterio: así es el programa de Feijóo en Educación",
+   "x": 73.357,
+   "y": 9.124,
+   "w": 19.5,
+   "h": 2.616
+  },
+  {
+   "n": 12,
+   "title": "Ucrania y su ejército canoso: \"No es justo no movilizar a los de 25 años\"",
+   "x": 7.143,
+   "y": 26.882,
+   "w": 37.143,
+   "h": 1.467
+  },
+  {
+   "n": 7,
+   "title": "26 escaños en liza en los duelos clave mientras medio país escapa al 'baile'",
+   "x": 29.214,
+   "y": 14.59,
+   "w": 41.571,
+   "h": 1.489
+  },
+  {
+   "n": 8,
+   "title": "Encuesta. PP y Vox suman 199 diputados con un 50,4% de los votos y Sánchez no remonta la tragedia de los trenes",
+   "x": 29.214,
+   "y": 16.248,
+   "w": 41.571,
+   "h": 1.574
+  },
+  {
+   "n": 15,
+   "title": "Serguei Sokolov, director de 'Novaya Gazeta': \"Los rusos leen en los medios sobre una Rusia que no existe, inventada por la propaganda\"",
+   "x": 7.143,
+   "y": 30.498,
+   "w": 37.143,
+   "h": 1.872
+  },
+  {
+   "n": 4,
+   "title": "La maquinista del Iryo alertó del riesgo para los pasajeros después de la colisión en Urda: \"Veo cable de la catenaria sobre la vía; ¡no salgan del tren!\"",
+   "x": 7.143,
+   "y": 6.168,
+   "w": 19.5,
+   "h": 4.424
+  }
+ ]
+}
