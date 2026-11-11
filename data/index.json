@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T05:31:00.940Z",
+ "updatedAt": "2026-11-11T13:23:54.934Z",
  "keepDays": 10,
  "days": [
   {
@@ -9,7 +9,7 @@
      "slug": "elmundo",
      "name": "El Mundo",
      "total": 20,
-     "ok": 20,
+     "ok": 18,
      "color": "#0f2942",
      "accent": "#b71234"
     },
@@ -25,7 +25,7 @@
      "slug": "abc",
      "name": "ABC",
      "total": 20,
-     "ok": 3,
+     "ok": 5,
      "color": "#00558c",
      "accent": "#00558c"
     },
@@ -41,7 +41,7 @@
      "slug": "eldebate",
      "name": "El Debate",
      "total": 20,
-     "ok": 20,
+     "ok": 19,
      "color": "#8f1d22",
      "accent": "#8f1d22"
     },

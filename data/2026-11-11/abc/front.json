@@ -2,15 +2,31 @@
  "img": "front.webp",
  "w": 1400,
  "h": 1400,
- "bytes": 114740,
+ "bytes": 138336,
  "hotspots": [
   {
-   "n": 10,
-   "title": "Broncano se disculpa tras la entrevista a Abascal: «No estuve a la altura de lo que merece la televisión pública»",
-   "x": 71.357,
-   "y": 67.857,
+   "n": 14,
+   "title": "El programa de Broncano se suma a la huelga general y no emite hoy",
+   "x": 51.071,
+   "y": 72.643,
    "w": 18.143,
-   "h": 15.143
+   "h": 13.714
+  },
+  {
+   "n": 16,
+   "title": "Audiencias Feijóo eleva al 'Horizonte' de Iker Jiménez a su máximo histórico",
+   "x": 71.357,
+   "y": 72.643,
+   "w": 18.143,
+   "h": 15
+  },
+  {
+   "n": 10,
+   "title": "Pantalla en negro o cambios de parrilla: la jornada trastoca las programaciones de las televisiones públicas",
+   "x": 76.429,
+   "y": 36.714,
+   "w": 13.071,
+   "h": 27.5
   }
  ]
 }

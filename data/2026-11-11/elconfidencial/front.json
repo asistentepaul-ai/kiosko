@@ -1,48 +1,88 @@
 {
  "img": "front.webp",
  "w": 1400,
- "h": 3614,
- "bytes": 248618,
+ "h": 4644,
+ "bytes": 367354,
  "hotspots": [
   {
-   "n": 18,
+   "n": 12,
+   "title": "Canal Sur se va a negro y obligan a cortar la emisión de Gemma Nierga en TVE",
+   "x": 64.857,
+   "y": 20.069,
+   "w": 26.286,
+   "h": 1.701
+  },
+  {
+   "n": 13,
    "title": "Las huelgas generales son defensivas u ofensivas, pero siempre son políticas",
    "x": 64.857,
-   "y": 20.144,
+   "y": 22.481,
    "w": 26.286,
-   "h": 2.961
+   "h": 2.304
   },
   {
    "n": 14,
-   "title": "La Audiencia Nacional frena la semilibertad de Anboto y revoca el tercer grado de Olarra Guridi y Aguirregabiria",
+   "title": "Paros. Colegios, médicos y supermercados: qué abre y qué cierra este miércoles",
+   "x": 64.857,
+   "y": 25.301,
+   "w": 26.286,
+   "h": 3.51
+  },
+  {
+   "n": 10,
+   "title": "11-N: la \"huelga política\" que se puso en marcha tras una llamada de Yolanda Díaz a los jefes de los sindicatos",
+   "x": 64.857,
+   "y": 15.676,
+   "w": 26.286,
+   "h": 3.682
+  },
+  {
+   "n": 17,
+   "title": "El paro recorta menos del 6% el consumo eléctrico, por debajo de las caídas de 2012",
    "x": 8.857,
-   "y": 92.695,
-   "w": 19.714,
-   "h": 3.985
+   "y": 29.565,
+   "w": 19.286,
+   "h": 7.041
+  },
+  {
+   "n": 18,
+   "title": "Así se vive un piquete desde dentro: \"Sin piernas, sin brazos, esquiroles a pedazos\"",
+   "x": 29.857,
+   "y": 29.565,
+   "w": 19.286,
+   "h": 7.041
+  },
+  {
+   "n": 19,
+   "title": "Los comercios del centro de Madrid pasan de la huelga: \"Abrimos sin problemas\"",
+   "x": 50.857,
+   "y": 29.565,
+   "w": 19.286,
+   "h": 7.041
   },
   {
    "n": 20,
-   "title": "El inicio del paro deja los primeros piquetes en Madrid y Barcelona",
-   "x": 64.857,
-   "y": 26.646,
-   "w": 26.286,
-   "h": 3.431
+   "title": "Moncloa teme al efecto rebote de una protesta \"preventiva\" que beneficie a PP y Vox",
+   "x": 71.857,
+   "y": 29.565,
+   "w": 19.286,
+   "h": 7.041
   },
   {
-   "n": 16,
-   "title": "11-N: el \"parón político\" que se puso en marcha tras una llamada de Yolanda Díaz a los jefes de los sindicatos",
+   "n": 8,
+   "title": "Evacúan miles de colegios en Italia, Reino Unido e Irlanda por falsas amenazas de bomba",
    "x": 8.857,
-   "y": 26.785,
-   "w": 26.286,
-   "h": 7.194
+   "y": 87.511,
+   "w": 19.714,
+   "h": 9.905
   },
   {
-   "n": 15,
-   "title": "El Gobierno teme a la lluvia y al efecto rebote de una huelga \"preventiva\" que beneficie a PP y Vox",
+   "n": 9,
+   "title": "Cientos de manifestantes cortan la Gran Vía de Madrid y los sindicatos apuntan a un seguimiento \"dispar\"",
    "x": 8.857,
-   "y": 20.144,
+   "y": 25.237,
    "w": 54.286,
-   "h": 15.274
+   "h": 3.833
   }
  ]
 }
