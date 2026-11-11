@@ -1,0 +1,48 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3614,
+ "bytes": 248618,
+ "hotspots": [
+  {
+   "n": 18,
+   "title": "Las huelgas generales son defensivas u ofensivas, pero siempre son políticas",
+   "x": 64.857,
+   "y": 20.144,
+   "w": 26.286,
+   "h": 2.961
+  },
+  {
+   "n": 14,
+   "title": "La Audiencia Nacional frena la semilibertad de Anboto y revoca el tercer grado de Olarra Guridi y Aguirregabiria",
+   "x": 8.857,
+   "y": 92.695,
+   "w": 19.714,
+   "h": 3.985
+  },
+  {
+   "n": 20,
+   "title": "El inicio del paro deja los primeros piquetes en Madrid y Barcelona",
+   "x": 64.857,
+   "y": 26.646,
+   "w": 26.286,
+   "h": 3.431
+  },
+  {
+   "n": 16,
+   "title": "11-N: el \"parón político\" que se puso en marcha tras una llamada de Yolanda Díaz a los jefes de los sindicatos",
+   "x": 8.857,
+   "y": 26.785,
+   "w": 26.286,
+   "h": 7.194
+  },
+  {
+   "n": 15,
+   "title": "El Gobierno teme a la lluvia y al efecto rebote de una huelga \"preventiva\" que beneficie a PP y Vox",
+   "x": 8.857,
+   "y": 20.144,
+   "w": 54.286,
+   "h": 15.274
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3396,
+ "bytes": 237412,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "Bluesky contra Broncano",
+   "x": 62.357,
+   "y": 66.048,
+   "w": 23.214,
+   "h": 2.473
+  },
+  {
+   "n": 16,
+   "title": "Cuatro inmigrantes admiten que invadieron Ceuta por la regularización del Gobierno",
+   "x": 14.5,
+   "y": 83.157,
+   "w": 22.286,
+   "h": 3.534
+  },
+  {
+   "n": 14,
+   "title": "El salario más habitual en España ha perdido un 18% de poder adquisitivo desde 2018",
+   "x": 14.5,
+   "y": 73.881,
+   "w": 46.429,
+   "h": 2.68
+  },
+  {
+   "n": 11,
+   "title": "El consulado en México dio papeles vía exprés a un alcalde denunciado por corrupción",
+   "x": 14.5,
+   "y": 24.647,
+   "w": 22.714,
+   "h": 8.598
+  },
+  {
+   "n": 19,
+   "title": "Miriam González: «No tenemos una TVE que garantice la independencia»",
+   "x": 14.5,
+   "y": 87.868,
+   "w": 22.714,
+   "h": 8.598
+  },
+  {
+   "n": 20,
+   "title": "El indulto de García Ortiz divide al Gobierno, que planea posponerlo a después del 29-N",
+   "x": 39.286,
+   "y": 87.868,
+   "w": 22.714,
+   "h": 8.598
+  },
+  {
+   "n": 18,
+   "title": "Correos supo en 2022 del descontrol en el voto CERA en países clave de la ‘ley de nietos’",
+   "x": 63.286,
+   "y": 77.739,
+   "w": 22.286,
+   "h": 8.952
+  },
+  {
+   "n": 17,
+   "title": "Cuerpo recupera en Transportes al cargo que no quiso gestionar los fondos UE",
+   "x": 38.857,
+   "y": 77.739,
+   "w": 22.286,
+   "h": 8.952
+  },
+  {
+   "n": 12,
+   "title": "Abascal tiene razón: la perspectiva de género sí condiciona la construcción",
+   "x": 14.5,
+   "y": 34.128,
+   "w": 22.714,
+   "h": 8.981
+  },
+  {
+   "n": 13,
+   "title": "Lotus Eletre X, un delirio con 1.000 kilómetros de autonomía",
+   "x": 39.286,
+   "y": 34.128,
+   "w": 22.714,
+   "h": 8.981
+  },
+  {
+   "n": 8,
+   "title": "Desaparecen de una web oficial los informes clave de la obra que habría evitado Urda",
+   "x": 14.5,
+   "y": 10.306,
+   "w": 71.071,
+   "h": 3.946
+  },
+  {
+   "n": 9,
+   "title": "ADIF sigue descabezado una semana después de la dimisión de su presidente",
+   "x": 14.5,
+   "y": 15.135,
+   "w": 34.786,
+   "h": 8.333
+  },
+  {
+   "n": 10,
+   "title": "Un informe de Renfe alerta de un ‘pufo’ de 480 millones por la filial de Mercancías",
+   "x": 50.786,
+   "y": 15.135,
+   "w": 34.786,
+   "h": 8.333
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3504,
+ "bytes": 281106,
+ "hotspots": [
+  {
+   "n": 14,
+   "title": "El Debate apuesta por Iberoamérica",
+   "x": 17.571,
+   "y": 65.582,
+   "w": 20.5,
+   "h": 2.568
+  },
+  {
+   "n": 7,
+   "title": "CCOO y UGT recibieron en 2025 más de 100 millones en subvenciones públicas",
+   "x": 62.143,
+   "y": 21.832,
+   "w": 21.429,
+   "h": 2.454
+  },
+  {
+   "n": 15,
+   "title": "Iberoamérica presenta bajo crecimiento y una inflación que no cede",
+   "x": 39.143,
+   "y": 65.582,
+   "w": 20.5,
+   "h": 3.025
+  },
+  {
+   "n": 6,
+   "title": "El declive de los sindicatos en España: una afiliación en caída libre y en la cola de OCDE",
+   "x": 62.143,
+   "y": 17.266,
+   "w": 21.429,
+   "h": 3.425
+  },
+  {
+   "n": 18,
+   "title": "El Supremo da 20 días para defenderse a los hijos de la ley de nietos a los que acaba de permitir votar el 29-N",
+   "x": 16.429,
+   "y": 81.963,
+   "w": 21.429,
+   "h": 3.739
+  },
+  {
+   "n": 4,
+   "title": "Cómo moverse en Madrid durante la huelga general: estos son los servicios mínimos garantizados durante el 11N",
+   "x": 16.429,
+   "y": 27.511,
+   "w": 44.286,
+   "h": 1.826
+  },
+  {
+   "n": 12,
+   "title": "Chile y España se relacionan a nivel de estados, más allá de las diferencias políticas",
+   "x": 17.571,
+   "y": 60.559,
+   "w": 42,
+   "h": 1.998
+  },
+  {
+   "n": 5,
+   "title": "«Lo de este miércoles es una huelga contra la alternancia en el poder»",
+   "x": 39.143,
+   "y": 30.28,
+   "w": 21.643,
+   "h": 5.194
+  },
+  {
+   "n": 10,
+   "title": "​CCOO y UGT calientan la huelga general del 11 de noviembre: «Mañana hay que tapar la calle»",
+   "x": 50.714,
+   "y": 36.644,
+   "w": 15.714,
+   "h": 8.704
+  },
+  {
+   "n": 3,
+   "title": "La huelga electoral llega con la izquierda peleando por no bajar de 120 escaños y riesgo de pinchazo",
+   "x": 16.429,
+   "y": 23.059,
+   "w": 44.286,
+   "h": 3.339
+  },
+  {
+   "n": 8,
+   "title": "La maniobra de los sindicatos para que la Justicia no tumbe la huelga por motivos políticos",
+   "x": 16.429,
+   "y": 36.644,
+   "w": 15.714,
+   "h": 9.446
+  },
+  {
+   "n": 11,
+   "title": "El incumplimiento de los servicios mínimos colapsa Madrid y Cataluña: las sanciones pueden llegar al despido",
+   "x": 67.857,
+   "y": 36.644,
+   "w": 15.714,
+   "h": 9.446
+  },
+  {
+   "n": 20,
+   "title": "De Carlos Alcaraz a la Selección Española: el universo deportivo de ElPozo Alimentación",
+   "x": 16.429,
+   "y": 86.901,
+   "w": 15.714,
+   "h": 9.675
+  },
+  {
+   "n": 9,
+   "title": "Hacer una huelga general en periodo electoral roza la injerencia política, y carece de objeto real",
+   "x": 33.571,
+   "y": 36.644,
+   "w": 15.714,
+   "h": 10.645
+  },
+  {
+   "n": 17,
+   "title": "El INE reconoce que el padrón conserva miles de fallecidos y no aclara si siguen en el censo electoral",
+   "x": 39.286,
+   "y": 70.234,
+   "w": 21.429,
+   "h": 9.703
+  },
+  {
+   "n": 16,
+   "title": "Koldo pide al TC que cancele su condena porque se apoyó en la «declaración incriminatoria» de Aldama, sin otros «datos externos»",
+   "x": 16.429,
+   "y": 70.234,
+   "w": 21.429,
+   "h": 10.559
+  }
+ ]
+}
