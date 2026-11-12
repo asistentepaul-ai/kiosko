@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2402,
+ "bytes": 233006,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "Un testaferro denunció ante Hacienda a la trama de hidrocarburos de Aldama",
+   "x": 44.5,
+   "y": 49.417,
+   "w": 17,
+   "h": 5.704
+  },
+  {
+   "n": 16,
+   "title": "Tardón «blinda» a los migrantes que colaboren en la investigación de la entrada masiva a Ceuta",
+   "x": 44.5,
+   "y": 64.863,
+   "w": 17,
+   "h": 5.704
+  },
+  {
+   "n": 10,
+   "title": "Nueve policías heridos en disturbios y enfrentamientos en Madrid durante la huelga",
+   "x": 14.286,
+   "y": 40.674,
+   "w": 17,
+   "h": 6.994
+  },
+  {
+   "n": 11,
+   "title": "El malestar de los padres por la huelga de profesores en Madrid: «Se sientan en una silla y dejan a los alumnos jugar a las cartas»",
+   "x": 32.429,
+   "y": 40.674,
+   "w": 17,
+   "h": 6.994
+  },
+  {
+   "n": 12,
+   "title": "El PP tacha la huelga de «fracaso» y se planta con los sindicatos a pesar de sus amenazas",
+   "x": 50.571,
+   "y": 40.674,
+   "w": 17,
+   "h": 6.994
+  },
+  {
+   "n": 13,
+   "title": "La izquierda, ante las movilizaciones por la huelga general: «La ciudadanía ha dicho que ya basta de excusas»",
+   "x": 68.714,
+   "y": 40.674,
+   "w": 17,
+   "h": 6.994
+  },
+  {
+   "n": 17,
+   "title": "El Supremo emplaza a los hijos de nacionalizados por la \"ley de nietos\": tienen 20 días para personarse como afectados",
+   "x": 14.286,
+   "y": 86.761,
+   "w": 17,
+   "h": 8.243
+  },
+  {
+   "n": 18,
+   "title": "Los GEO rodean una nave del polígono Espíritu Santo en busca de \"El Ruso\"",
+   "x": 32.429,
+   "y": 86.761,
+   "w": 17,
+   "h": 8.243
+  },
+  {
+   "n": 19,
+   "title": "Huelga «fake», sindicalismo apesebrado",
+   "x": 50.571,
+   "y": 86.761,
+   "w": 17,
+   "h": 8.243
+  },
+  {
+   "n": 20,
+   "title": "El miedo a perder el poder",
+   "x": 68.714,
+   "y": 86.761,
+   "w": 17,
+   "h": 8.243
+  },
+  {
+   "n": 14,
+   "title": "Plan del PP para acabar con el fraude de las ayudas: revisará 565.000 millones en prestaciones, subvenciones y subsidios",
+   "x": 14.286,
+   "y": 49.417,
+   "w": 29.071,
+   "h": 9.7
+  },
+  {
+   "n": 8,
+   "title": "La huelga general solo convence al 5% de los trabajadores",
+   "x": 14.286,
+   "y": 16.819,
+   "w": 35.714,
+   "h": 11.49
+  },
+  {
+   "n": 6,
+   "title": "Sánchez pierde: la huelga fracasa y tumba su relato social",
+   "x": 14.286,
+   "y": 1.707,
+   "w": 71.429,
+   "h": 6.411
+  }
+ ]
+}

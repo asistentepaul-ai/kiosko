@@ -1,0 +1,80 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2687,
+ "bytes": 182940,
+ "hotspots": [
+  {
+   "n": 12,
+   "title": "Directo. Las movilizaciones de Madrid y Barcelona finalizan con fuertes cargas policiales y altercados",
+   "x": 8.857,
+   "y": 46.446,
+   "w": 26.286,
+   "h": 2.27
+  },
+  {
+   "n": 16,
+   "title": "Del éxito con Broncano al patinazo con Jordi Wild: cara y cruz de la estrategia de Vox que irrita a sus huestes",
+   "x": 8.857,
+   "y": 55.713,
+   "w": 26.286,
+   "h": 4.243
+  },
+  {
+   "n": 20,
+   "title": "La huelga desaloja el sanchismo en clave de opereta",
+   "x": 64.857,
+   "y": 78.415,
+   "w": 26.286,
+   "h": 4.875
+  },
+  {
+   "n": 14,
+   "title": "El consumo eléctrico frena la guerra del relato: cae menos que en otras huelgas",
+   "x": 64.857,
+   "y": 42.91,
+   "w": 26.286,
+   "h": 6.513
+  },
+  {
+   "n": 10,
+   "title": "El paro nacional vs. Jordi Wild: una campaña de doble dirección",
+   "x": 8.857,
+   "y": 36.025,
+   "w": 26.286,
+   "h": 9.825
+  },
+  {
+   "n": 19,
+   "title": "El verdadero Carlos Cuerpo (la huelga y el sanchismo)",
+   "x": 8.857,
+   "y": 78.415,
+   "w": 19.714,
+   "h": 17.119
+  },
+  {
+   "n": 8,
+   "title": "El Gobierno prevé solo un 13% de nueva demanda eléctrica para hogares en plena crisis de vivienda",
+   "x": 8.857,
+   "y": 21.548,
+   "w": 82.286,
+   "h": 4.168
+  },
+  {
+   "n": 17,
+   "title": "Pablo Motos declara la guerra a Pedro durante la entrevista a Feijóo",
+   "x": 8.857,
+   "y": 61.705,
+   "w": 26.286,
+   "h": 13.993
+  },
+  {
+   "n": 13,
+   "title": "De la T4 de Barajas al Mercadona de tu barrio, la España que no ha parado: \"Absoluta normalidad, todo tranquilo\"",
+   "x": 64.857,
+   "y": 27.093,
+   "w": 26.286,
+   "h": 14.589
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1614,
+ "bytes": 111324,
+ "hotspots": [
+  {
+   "n": 20,
+   "title": "Dónde comer las tres mejores ‘pizzas’",
+   "x": 40.357,
+   "y": 86.741,
+   "w": 20.571,
+   "h": 4.895
+  },
+  {
+   "n": 13,
+   "title": "ADIF publica los expedientes clave sobre Urda tras denunciar TO su desaparición",
+   "x": 14.5,
+   "y": 44.362,
+   "w": 34.786,
+   "h": 5.019
+  },
+  {
+   "n": 15,
+   "title": "Robles evitó sentarse con los ministros en el funeral de Urda y estuvo junto a los militares",
+   "x": 50.786,
+   "y": 44.362,
+   "w": 34.786,
+   "h": 5.019
+  },
+  {
+   "n": 17,
+   "title": "El consulado en México nacionalizó a ‘nietos’ sin exigir los antecedentes penales",
+   "x": 14.5,
+   "y": 53.779,
+   "w": 22.714,
+   "h": 18.092
+  },
+  {
+   "n": 18,
+   "title": "El Gobierno desclasifica 12 informes del CNI sobre Ceuta y permite declarar a dos espías",
+   "x": 39.286,
+   "y": 53.779,
+   "w": 22.714,
+   "h": 18.092
+  },
+  {
+   "n": 19,
+   "title": "La tibieza de Ada Colau preocupa al Frente Amplio: «No quería ser candidata»",
+   "x": 14.5,
+   "y": 73.73,
+   "w": 22.714,
+   "h": 18.835
+  },
+  {
+   "n": 12,
+   "title": "Puente mintió: Alemania retiró por obsoleta en 2023 la versión del LZB que falló en Urda",
+   "x": 14.5,
+   "y": 21.685,
+   "w": 71.071,
+   "h": 8.302
+  }
+ ]
+}

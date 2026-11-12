@@ -1,0 +1,24 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3875,
+ "bytes": 299970,
+ "hotspots": [
+  {
+   "n": 19,
+   "title": "República Checa - España: a qué hora es el partido de la Nations League y dónde ver gratis en televisión y online hoy",
+   "x": 10.5,
+   "y": 95.535,
+   "w": 53.643,
+   "h": 1.368
+  },
+  {
+   "n": 12,
+   "title": "'Elecciones 29N': apúntate para recibir la newsletter de ABC sobre la campaña",
+   "x": 71.357,
+   "y": 25.187,
+   "w": 18.143,
+   "h": 5.316
+  }
+ ]
+}
