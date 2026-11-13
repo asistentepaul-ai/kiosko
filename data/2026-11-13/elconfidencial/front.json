@@ -1,0 +1,72 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2875,
+ "bytes": 225954,
+ "hotspots": [
+  {
+   "n": 16,
+   "title": "¿Es España más desigual?",
+   "x": 64.857,
+   "y": 48.07,
+   "w": 26.286,
+   "h": 2.991
+  },
+  {
+   "n": 15,
+   "title": "Igual es que la gente no quiere donar su sueldo a la campaña",
+   "x": 64.857,
+   "y": 38.087,
+   "w": 26.286,
+   "h": 4.696
+  },
+  {
+   "n": 13,
+   "title": "La UCO investiga el amaño de contratos de alta velocidad y carreteras por 36 millones en la nueva pieza del caso Koldo",
+   "x": 8.857,
+   "y": 41.843,
+   "w": 26.286,
+   "h": 10.017
+  },
+  {
+   "n": 17,
+   "title": "El hombre al que hasta la Moncloa consulta para descifrar a Jordi Wild sabe por qué ni Pedro Sánchez podía negarse a ir",
+   "x": 8.857,
+   "y": 55.096,
+   "w": 19.714,
+   "h": 16
+  },
+  {
+   "n": 10,
+   "title": "España sobrevive al invierno checo en Praga y buscará el pleno de triunfos ante Inglaterra (0-2)",
+   "x": 8.857,
+   "y": 20.139,
+   "w": 82.286,
+   "h": 3.896
+  },
+  {
+   "n": 20,
+   "title": "Ferraz vende \"remontada\" si moviliza la gran bolsa de indecisos pese a que Frente Amplio \"no llega al 10%\"",
+   "x": 8.857,
+   "y": 78.4,
+   "w": 26.286,
+   "h": 17.426
+  },
+  {
+   "n": 11,
+   "title": "La UCO descubre que el PSOE manejó dinero que no figura en su contabilidad oficial",
+   "x": 8.857,
+   "y": 25.322,
+   "w": 82.286,
+   "h": 7.339
+  },
+  {
+   "n": 12,
+   "title": "Nuevos 'whatsaps' acreditan que Aldama y Ábalos acudieron a Reyes Maroto para un negocio: \"Por ella sin problemas\"",
+   "x": 8.857,
+   "y": 33.496,
+   "w": 54.286,
+   "h": 19.2
+  }
+ ]
+}

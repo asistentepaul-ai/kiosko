@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3169,
+ "bytes": 296374,
+ "hotspots": [
+  {
+   "n": 8,
+   "title": "La Justicia abre la campaña electoral del PSOE",
+   "x": 14.286,
+   "y": 44.43,
+   "w": 29.071,
+   "h": 1.578
+  },
+  {
+   "n": 6,
+   "title": "Feijóo promete desde Cataluña una \"auditoría del saqueo\": \"Vengo a ofrecer un Gobierno que no robe\"",
+   "x": 50,
+   "y": 21.742,
+   "w": 35.714,
+   "h": 1.452
+  },
+  {
+   "n": 19,
+   "title": "Bombazo en NVIDIA: Jensen Huang dimite como CEO con efecto inmediato tras 33 años al frente de la compañía",
+   "x": 14.286,
+   "y": 94.004,
+   "w": 35.143,
+   "h": 2.209
+  },
+  {
+   "n": 9,
+   "title": "Begoña Gómez irrumpe en campaña: \"Me habéis dado la mano\"",
+   "x": 44.5,
+   "y": 31.303,
+   "w": 17,
+   "h": 4.891
+  },
+  {
+   "n": 14,
+   "title": "La Fiscalía Europea lleva meses investigando bajo secreto los contratos de las pulseras telemáticas",
+   "x": 14.286,
+   "y": 68.476,
+   "w": 17,
+   "h": 4.923
+  },
+  {
+   "n": 15,
+   "title": "La huelga general marca el fin de Pedro Sánchez: hacia la España de la centralidad",
+   "x": 32.429,
+   "y": 68.476,
+   "w": 17,
+   "h": 4.923
+  },
+  {
+   "n": 16,
+   "title": "Interior no es una pancarta",
+   "x": 50.571,
+   "y": 68.476,
+   "w": 17,
+   "h": 4.923
+  },
+  {
+   "n": 17,
+   "title": "«Decir que Puente es digno es insultar a los andaluces»",
+   "x": 68.714,
+   "y": 68.476,
+   "w": 17,
+   "h": 4.923
+  },
+  {
+   "n": 10,
+   "title": "Abascal encara las elecciones del 29N en máximos históricos y blindando su campaña",
+   "x": 44.5,
+   "y": 42.348,
+   "w": 17,
+   "h": 5.585
+  },
+  {
+   "n": 11,
+   "title": "La UCO desvela que Corvillo, con quien Sánchez no tenía \"nada que ver\", se reunió con él porque se lo pidió Óscar López",
+   "x": 14.286,
+   "y": 55.601,
+   "w": 23.071,
+   "h": 4.165
+  },
+  {
+   "n": 13,
+   "title": "Anticorrupción sitúa al exchofer de Sánchez como intermediario en el pago de mordidas de constructoras a Ábalos",
+   "x": 62.643,
+   "y": 55.601,
+   "w": 23.071,
+   "h": 4.165
+  },
+  {
+   "n": 4,
+   "title": "Policías Nacionales acusan a Marlaska de indigno y cobarde: investiga a los agentes y ni se preocupa de los heridos en la huelga",
+   "x": 14.286,
+   "y": 8.141,
+   "w": 71.429,
+   "h": 1.452
+  },
+  {
+   "n": 20,
+   "title": "Europa sigue buscando una voz común en las negociaciones de paz entre Rusia y Ucrania",
+   "x": 50.571,
+   "y": 79.52,
+   "w": 17,
+   "h": 6.343
+  },
+  {
+   "n": 7,
+   "title": "La gran preocupación de Sánchez: un millón de votos menos y la fuga socialista",
+   "x": 14.286,
+   "y": 34.333,
+   "w": 29.071,
+   "h": 4.355
+  },
+  {
+   "n": 12,
+   "title": "Sánchez estuvo en Córdoba el mismo día que Corvillo asegura haberse reunido con él allí",
+   "x": 38.5,
+   "y": 49.227,
+   "w": 23.071,
+   "h": 5.838
+  },
+  {
+   "n": 5,
+   "title": "Feijóo inicia la carrera de su vida a lomos del «cambio»: todo o nada",
+   "x": 14.286,
+   "y": 12.843,
+   "w": 35.714,
+   "h": 8.709
+  },
+  {
+   "n": 18,
+   "title": "Trump propone a Tim Cook como sustituto de Jensen Huang en Nvidia: \"Una leyenda reemplaza a una leyenda\"",
+   "x": 14.286,
+   "y": 74.661,
+   "w": 35.143,
+   "h": 8.867
+  },
+  {
+   "n": 3,
+   "title": "Marlaska gastó 71.000 euros en sprays de defensa para la Policía el día que se aprobó la huelga",
+   "x": 14.286,
+   "y": 1.294,
+   "w": 71.429,
+   "h": 10.256
+  }
+ ]
+}

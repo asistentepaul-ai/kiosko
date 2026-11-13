@@ -1,0 +1,160 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3385,
+ "bytes": 307844,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "¿Por qué no sonó el Himno Nacional en el funeral por las 69 víctimas de Urda?",
+   "x": 16.429,
+   "y": 80.591,
+   "w": 21.429,
+   "h": 3.87
+  },
+  {
+   "n": 16,
+   "title": "La tregua entre Ayuso y la Delegación tras la salida de Martín se afianza en plena polémica por las cargas policiales del 11N",
+   "x": 39.286,
+   "y": 80.591,
+   "w": 21.429,
+   "h": 3.87
+  },
+  {
+   "n": 11,
+   "title": "La UCO constata una reunión en 2023 de Sánchez y su exchófer aunque el presidente dijo que no tenían «nada que ver»",
+   "x": 16.429,
+   "y": 63.368,
+   "w": 21.643,
+   "h": 3.87
+  },
+  {
+   "n": 12,
+   "title": "El Tribunal de Cuentas busca más de 3.500 millones de Loterías que Hacienda ingresó por premios no repartidos",
+   "x": 39.143,
+   "y": 63.368,
+   "w": 21.643,
+   "h": 3.87
+  },
+  {
+   "n": 2,
+   "title": "Empieza el asalto final entre Sánchez y Feijóo con casi todo a favor del cambio",
+   "x": 16.429,
+   "y": 23.161,
+   "w": 44.286,
+   "h": 2.304
+  },
+  {
+   "n": 3,
+   "title": "«Sánchez tiene tantos imputados como escaños le pronostica Tezanos»",
+   "x": 39.143,
+   "y": 29.247,
+   "w": 21.643,
+   "h": 5.377
+  },
+  {
+   "n": 6,
+   "title": "Feijóo amenaza a Sánchez con una auditoría y promete liderar «un Gobierno que no robe»",
+   "x": 16.429,
+   "y": 35.805,
+   "w": 15.714,
+   "h": 9.01
+  },
+  {
+   "n": 7,
+   "title": "Abascal señala al Gobierno como «el enemigo número uno de lo público» y defiende la prioridad nacional",
+   "x": 33.571,
+   "y": 35.805,
+   "w": 15.714,
+   "h": 9.778
+  },
+  {
+   "n": 8,
+   "title": "Sánchez recurre a su esposa en busca del voto femenino en el inicio de campaña del PSOE: «Somos zurdas»",
+   "x": 50.714,
+   "y": 35.805,
+   "w": 15.714,
+   "h": 9.778
+  },
+  {
+   "n": 17,
+   "title": "El edificio de casi 30.000 m2 del Estado que ocupa gratis UGT mientras alquila su antigua sede a un hotel de lujo",
+   "x": 16.429,
+   "y": 85.702,
+   "w": 15.714,
+   "h": 9.778
+  },
+  {
+   "n": 18,
+   "title": "Vox quiere suprimir las subvenciones a sindicatos y acordó con el PP reducirlas al 50 % en las regiones",
+   "x": 33.571,
+   "y": 85.702,
+   "w": 15.714,
+   "h": 9.778
+  },
+  {
+   "n": 20,
+   "title": "«Es una oportunidad de reincidencia»: el posible fraude de las pulseras antimaltrato reabre las críticas hacia Igualdad",
+   "x": 67.857,
+   "y": 85.702,
+   "w": 15.714,
+   "h": 9.778
+  },
+  {
+   "n": 9,
+   "title": "Ayuso se burla de la intervención de Begoña Gómez en un mitin del PSOE: «Puede dar clases de gestión de saunas con final feliz»",
+   "x": 67.857,
+   "y": 35.805,
+   "w": 15.714,
+   "h": 10.517
+  },
+  {
+   "n": 19,
+   "title": "Las sentencias que prueban las absoluciones por fallos en las pulseras: «El acusado estuvo ilocalizable por falta de señal»",
+   "x": 50.714,
+   "y": 85.702,
+   "w": 15.714,
+   "h": 10.753
+  },
+  {
+   "n": 10,
+   "title": "La Guardia Civil identifica los «hitos» de la corrupción socialista entre 2018 y 2024 vinculados a las 'mordidas' de Transportes",
+   "x": 16.429,
+   "y": 57.814,
+   "w": 44.286,
+   "h": 4.579
+  },
+  {
+   "n": 5,
+   "title": "Así inician los partidos la campaña: las encuestas golpean a Sánchez mientras PP y Vox suman 195 escaños",
+   "x": 62.143,
+   "y": 23.811,
+   "w": 21.429,
+   "h": 10.044
+  },
+  {
+   "n": 14,
+   "title": "Sánchez saca a paseo su victimismo en TVE: 'El perro andaluz' lame y no muerde la mano que le da de comer",
+   "x": 39.286,
+   "y": 68.449,
+   "w": 21.429,
+   "h": 10.044
+  },
+  {
+   "n": 4,
+   "title": "Una revisión del CIS resta más de 20 escaños al PSOE y coloca a Vox muy por encima de su máximo histórico",
+   "x": 62.143,
+   "y": 12.555,
+   "w": 21.429,
+   "h": 10.665
+  },
+  {
+   "n": 13,
+   "title": "La responsable de ciberseguridad electoral engañó a la JEC sobre MiDNI y el Supremo examina ahora su seguridad",
+   "x": 16.429,
+   "y": 68.449,
+   "w": 21.429,
+   "h": 10.931
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3107,
+ "bytes": 235932,
+ "hotspots": [
+  {
+   "n": 17,
+   "title": "Dr. Cabrera: «La extrema izquierda no ha demostrado valía fuera de la política»",
+   "x": 40.357,
+   "y": 45.864,
+   "w": 20.571,
+   "h": 3.379
+  },
+  {
+   "n": 15,
+   "title": "El Gobierno premió a UGT y CCOO el día de la huelga con un nuevo decreto de ayudas",
+   "x": 39.286,
+   "y": 33.762,
+   "w": 22.714,
+   "h": 3.379
+  },
+  {
+   "n": 19,
+   "title": "De la huelga general a la explosión en Oviedo",
+   "x": 62.357,
+   "y": 74.059,
+   "w": 23.214,
+   "h": 3.476
+  },
+  {
+   "n": 18,
+   "title": "El Tribunal de Cuentas obliga a 106.000 autónomos a devolver 127 millones de la covid",
+   "x": 14.5,
+   "y": 82.62,
+   "w": 46.429,
+   "h": 2.929
+  },
+  {
+   "n": 20,
+   "title": "Leire asegura que un ministro actual destruyó «a martillazos» pruebas de delitos",
+   "x": 14.5,
+   "y": 86.836,
+   "w": 22.286,
+   "h": 9.302
+  },
+  {
+   "n": 14,
+   "title": "Podemos denuncia que el PSOE intenta colar a Alvise en los debates electorales",
+   "x": 14.5,
+   "y": 27.744,
+   "w": 22.714,
+   "h": 10.396
+  },
+  {
+   "n": 16,
+   "title": "Un sindicato señala a UGT y CCOO por la violencia de la huelga: «Agredían a vigilantes»",
+   "x": 14.5,
+   "y": 39.105,
+   "w": 22.714,
+   "h": 10.621
+  },
+  {
+   "n": 12,
+   "title": "Los ‘nietos’ reciben las papeletas con el aviso de que solo podrán votar si acreditan el exilio",
+   "x": 14.5,
+   "y": 17.348,
+   "w": 34.786,
+   "h": 9.108
+  },
+  {
+   "n": 13,
+   "title": "La Justicia europea ya condenó en 2025 la laxitud en la concesión de nacionalidades",
+   "x": 50.786,
+   "y": 17.348,
+   "w": 34.786,
+   "h": 9.108
+  },
+  {
+   "n": 11,
+   "title": "El voto por correo en Argentina y otros 15 países no contempla ni recibo ni firma",
+   "x": 14.5,
+   "y": 11.265,
+   "w": 71.071,
+   "h": 5.117
+  }
+ ]
+}
