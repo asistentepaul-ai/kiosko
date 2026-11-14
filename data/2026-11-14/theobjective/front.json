@@ -1,0 +1,80 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3243,
+ "bytes": 210872,
+ "hotspots": [
+  {
+   "n": 18,
+   "title": "Encuesta | ¿Quién ha salido mejor parado de las entrevistas con Jordi Wild?",
+   "x": 39.286,
+   "y": 45.853,
+   "w": 22.714,
+   "h": 1.542
+  },
+  {
+   "n": 14,
+   "title": "Juan Jesús Vivas: «El Gobierno tiene más interés por la ‘ley de nietos’ que por Ceuta»",
+   "x": 40.571,
+   "y": 21.4,
+   "w": 43.571,
+   "h": 1.973
+  },
+  {
+   "n": 17,
+   "title": "Los responsables de economía pasan de puntillas por el problema de las pensiones",
+   "x": 14.5,
+   "y": 42.43,
+   "w": 22.714,
+   "h": 3.978
+  },
+  {
+   "n": 13,
+   "title": "El exchófer de Sánchez canalizaba fondos a Ábalos a través de una sociedad portuguesa",
+   "x": 14.5,
+   "y": 20.413,
+   "w": 22.357,
+   "h": 4.409
+  },
+  {
+   "n": 20,
+   "title": "La UCO se topó con dos estadounidenses al ir a registrar una vivienda de la pareja de Ábalos",
+   "x": 14.5,
+   "y": 93.494,
+   "w": 46.429,
+   "h": 2.806
+  },
+  {
+   "n": 12,
+   "title": "Hallan muerto en un trastero de Madrid al abogado del Pollo Carvajal, figura clave contra el chavismo",
+   "x": 14.5,
+   "y": 10.792,
+   "w": 22.357,
+   "h": 9.127
+  },
+  {
+   "n": 19,
+   "title": "Un documental expone las mentiras sobre Gaza que le hemos comprado a Hamás",
+   "x": 14.5,
+   "y": 48.813,
+   "w": 22.714,
+   "h": 9.374
+  },
+  {
+   "n": 15,
+   "title": "Malestar en la cúpula policial por el gas lacrimógeno: «En Ferraz sí, pero ahora no»",
+   "x": 14.5,
+   "y": 26.704,
+   "w": 34.786,
+   "h": 8.726
+  },
+  {
+   "n": 16,
+   "title": "Sectores del PSOE acusan de «complot» a la Policía para proteger a Marlaska",
+   "x": 50.786,
+   "y": 26.704,
+   "w": 34.786,
+   "h": 8.726
+  }
+ ]
+}

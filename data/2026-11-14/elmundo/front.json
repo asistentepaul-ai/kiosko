@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4564,
+ "bytes": 519130,
+ "hotspots": [
+  {
+   "n": 7,
+   "title": "Los barones celebran el \"momento dulce\" de Feijóo y su giro \"gestor\": \"Nos diferencia de Vox\"",
+   "x": 53.357,
+   "y": 94.216,
+   "w": 16.214,
+   "h": 1.052
+  },
+  {
+   "n": 11,
+   "title": "Vox también se quiere parecer al PP: modera sus metas en aborto, eutanasia, autonomías y LGTBI",
+   "x": 53.357,
+   "y": 95.968,
+   "w": 16.214,
+   "h": 1.402
+  },
+  {
+   "n": 17,
+   "title": "Cuerpo entierra la herencia de Puente en Renfe y Adif",
+   "x": 46.857,
+   "y": 33.238,
+   "w": 19.5,
+   "h": 1.358
+  },
+  {
+   "n": 12,
+   "title": "La radiografía de la precampaña en RTVE: 131 entrevistas, ¿pero a quién?",
+   "x": 73.357,
+   "y": 16.608,
+   "w": 19.5,
+   "h": 1.819
+  },
+  {
+   "n": 6,
+   "title": "Últimos fusibles de Sánchez",
+   "x": 7.143,
+   "y": 11.372,
+   "w": 19.5,
+   "h": 1.928
+  },
+  {
+   "n": 16,
+   "title": "En busca del chivo: tensión en la administración Trump por la crisis de Nvidia y la exportación de chips",
+   "x": 46.857,
+   "y": 30.215,
+   "w": 19.5,
+   "h": 2.235
+  },
+  {
+   "n": 14,
+   "title": "El puesto europeo de mayor poder en la historia de España: la semana clave para que Hernández de Cos sea presidente del BCE",
+   "x": 46.857,
+   "y": 19.982,
+   "w": 19.5,
+   "h": 2.673
+  },
+  {
+   "n": 4,
+   "title": "Sánchez favoreció la reactivación de la trama corrupta en el PSOE",
+   "x": 7.143,
+   "y": 6.354,
+   "w": 19.5,
+   "h": 2.848
+  },
+  {
+   "n": 13,
+   "title": "Estados Unidos reabre sus aeropuertos cinco horas después tras cancelar miles de vuelos por un fallo en los sistemas de control",
+   "x": 7.143,
+   "y": 27.761,
+   "w": 37.143,
+   "h": 2.06
+  },
+  {
+   "n": 9,
+   "title": "El Pedro Sánchez de Albacete votará a Feijóo: \"Estos socialistas no son de fiar; tienen una forma de ser que ven lo blanco negro\"",
+   "x": 29.214,
+   "y": 15.009,
+   "w": 41.571,
+   "h": 2.06
+  },
+  {
+   "n": 15,
+   "title": "Emilio Delgado: \"Debemos volver a ser un paraguas para cuando caen chuzos de punta\"",
+   "x": 46.857,
+   "y": 23.466,
+   "w": 19.5,
+   "h": 5.96
+  },
+  {
+   "n": 20,
+   "title": "El juego de alcobas y las trampas de miel de los espías de Xi Jinping",
+   "x": 73.357,
+   "y": 42.572,
+   "w": 19.5,
+   "h": 6.157
+  },
+  {
+   "n": 10,
+   "title": "El otro Alberto Feijóo no sabe a quién votará: \"Hasta última hora no lo decidiré, pero tampoco es una cosa que me preocupe\"",
+   "x": 73.357,
+   "y": 6.354,
+   "w": 19.5,
+   "h": 6.42
+  },
+  {
+   "n": 19,
+   "title": "Mario Vargas Llosa: prostitutas, dos mujeres, varios misterios... sus amantes siempre acabaron siendo \"carne muerta\"",
+   "x": 7.143,
+   "y": 42.572,
+   "w": 19.5,
+   "h": 8.501
+  },
+  {
+   "n": 18,
+   "title": "Del trabajo a la jubilación, sin perder la protección por el camino",
+   "x": 7.143,
+   "y": 36.109,
+   "w": 85.714,
+   "h": 4.886
+  }
+ ]
+}
