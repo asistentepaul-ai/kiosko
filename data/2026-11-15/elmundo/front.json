@@ -1,0 +1,144 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4450,
+ "bytes": 537556,
+ "hotspots": [
+  {
+   "n": 8,
+   "title": "Alma Ezcurra: \"España necesita un PP fuerte para que el país vuelva a funcionar\"",
+   "x": 53.357,
+   "y": 91.91,
+   "w": 16.214,
+   "h": 1.079
+  },
+  {
+   "n": 6,
+   "title": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
+   "x": 53.357,
+   "y": 96.225,
+   "w": 16.214,
+   "h": 1.079
+  },
+  {
+   "n": 12,
+   "title": "La guerra invisible contra Occidente",
+   "x": 46.857,
+   "y": 22.135,
+   "w": 19.5,
+   "h": 1.371
+  },
+  {
+   "n": 5,
+   "title": "Frente Amplio, \"sobrevivir para empezar a reconstruir\"",
+   "x": 7.143,
+   "y": 10.854,
+   "w": 19.5,
+   "h": 1.393
+  },
+  {
+   "n": 7,
+   "title": "Por qué estos 12 fieles votantes de Pedro Sánchez le darán la espalda el 29-N: \"Traicionó mi confianza. Me ha mentido una y otra vez. Constantemente\"",
+   "x": 53.357,
+   "y": 93.708,
+   "w": 16.214,
+   "h": 1.798
+  },
+  {
+   "n": 19,
+   "title": "El coste de legislar mal: Hacienda reserva 13.618 millones para indemnizar por litigios perdidos",
+   "x": 46.857,
+   "y": 50.382,
+   "w": 19.5,
+   "h": 1.843
+  },
+  {
+   "n": 20,
+   "title": "La \"fatiga\" y la violencia desinflan las protestas sociales en Francia",
+   "x": 46.857,
+   "y": 53.034,
+   "w": 19.5,
+   "h": 1.843
+  },
+  {
+   "n": 11,
+   "title": "La mesa nuclear de Shenzhen: Trump, Putin y Xi buscan evitar que la IA tenga el poder de lanzar bombas atómicas",
+   "x": 46.857,
+   "y": 19.011,
+   "w": 19.5,
+   "h": 2.315
+  },
+  {
+   "n": 9,
+   "title": "Nogueras admite que estas elecciones \"van de impedir la coalición entre PP y Vox\", aunque sigue con sus ataques al PSOE y manda un recado a Jordi Wild",
+   "x": 73.357,
+   "y": 14.607,
+   "w": 19.5,
+   "h": 2.764
+  },
+  {
+   "n": 17,
+   "title": "La larga sombra de Lamine: \"Claro que no es uno más\"",
+   "x": 7.143,
+   "y": 58.18,
+   "w": 37.143,
+   "h": 1.551
+  },
+  {
+   "n": 14,
+   "title": "¡Doping para tu pelo! El champú anticaída que arrasa en Amazon y que causa furor entre los usuarios",
+   "x": 8.286,
+   "y": 33.775,
+   "w": 59.5,
+   "h": 1.079
+  },
+  {
+   "n": 18,
+   "title": "De Stourbridge al Metropolitano, el sueño de los Bellingham: \"Estaban todo el día con el balón\"",
+   "x": 7.143,
+   "y": 60.539,
+   "w": 37.143,
+   "h": 1.978
+  },
+  {
+   "n": 4,
+   "title": "Sánchez busca ahora el voto de centro tras dejar a sus socios en los huesos: \"No podemos crecer sólo a costa de nuestra izquierda\"",
+   "x": 7.143,
+   "y": 5.483,
+   "w": 19.5,
+   "h": 4.09
+  },
+  {
+   "n": 10,
+   "title": "Federico Linares (EY): \"Las ganancias de la IA deben redistribuirse de forma justa; las clases medias no pueden perder poder adquisitivo\"",
+   "x": 7.143,
+   "y": 28.876,
+   "w": 37.143,
+   "h": 2.315
+  },
+  {
+   "n": 16,
+   "title": "La universidad desconectada del mercado laboral: las carreras con más paro producen casi tantos graduados como las que tienen más empleo",
+   "x": 73.357,
+   "y": 40.045,
+   "w": 19.5,
+   "h": 7.506
+  },
+  {
+   "n": 13,
+   "title": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
+   "x": 46.857,
+   "y": 24.315,
+   "w": 19.5,
+   "h": 7.551
+  },
+  {
+   "n": 15,
+   "title": "El club de la élite de Shanghái donde la amante del fundador de Nvidia (y su marido) se ganaban a los magnates de la IA",
+   "x": 7.143,
+   "y": 40.045,
+   "w": 19.5,
+   "h": 8.719
+  }
+ ]
+}

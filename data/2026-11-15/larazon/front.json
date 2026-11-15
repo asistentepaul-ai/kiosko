@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2932,
+ "bytes": 253770,
+ "hotspots": [
+  {
+   "n": 16,
+   "title": "El eslabón más débil",
+   "x": 14.286,
+   "y": 70.771,
+   "w": 35.143,
+   "h": 2.353
+  },
+  {
+   "n": 17,
+   "title": "La Mata-Hari de los chips le hace la cama a Silicon Valley",
+   "x": 50.571,
+   "y": 65.859,
+   "w": 17,
+   "h": 5.286
+  },
+  {
+   "n": 18,
+   "title": "El petróleo saudí vuelve a fluir bajo los misiles hutíes",
+   "x": 68.714,
+   "y": 65.859,
+   "w": 17,
+   "h": 5.286
+  },
+  {
+   "n": 19,
+   "title": "Mónica García y las mansiones de los magnates sanitarios",
+   "x": 68.714,
+   "y": 77.797,
+   "w": 17,
+   "h": 5.286
+  },
+  {
+   "n": 12,
+   "title": "Los jueces detectaron los primeros fallos de las pulseras antimaltrato a principios de 2024",
+   "x": 14.286,
+   "y": 53.888,
+   "w": 17,
+   "h": 5.321
+  },
+  {
+   "n": 13,
+   "title": "El futuro de la defensa: qué harán los partidos tras el 29N",
+   "x": 32.429,
+   "y": 53.888,
+   "w": 17,
+   "h": 5.321
+  },
+  {
+   "n": 14,
+   "title": "La pista de la compra masiva de aguafuerte en Ceuta que desinfló la Policía",
+   "x": 50.571,
+   "y": 53.888,
+   "w": 17,
+   "h": 5.321
+  },
+  {
+   "n": 15,
+   "title": "La economía va bien. ¿Y usted?",
+   "x": 68.714,
+   "y": 53.888,
+   "w": 17,
+   "h": 5.321
+  },
+  {
+   "n": 11,
+   "title": "Los sindicatos, subvencionados y callados ante el fracaso de las políticas de empleo de Sánchez",
+   "x": 44.5,
+   "y": 40.518,
+   "w": 17,
+   "h": 6.753
+  },
+  {
+   "n": 10,
+   "title": "Sánchez lo fía todo a una simulación electoral y recupera su campaña del amor",
+   "x": 14.286,
+   "y": 24.045,
+   "w": 29.071,
+   "h": 7.947
+  },
+  {
+   "n": 9,
+   "title": "\"Mi hijo me ha enseñado lo que es tener miedo\"",
+   "x": 50,
+   "y": 13.199,
+   "w": 35.714,
+   "h": 9.413
+  },
+  {
+   "n": 20,
+   "title": "David Summers se sincera como nunca en su nueva biografía: «Si no tienes amor estás jodido»",
+   "x": 50,
+   "y": 84.482,
+   "w": 35.714,
+   "h": 11.426
+  },
+  {
+   "n": 7,
+   "title": "Feijóo: \"Pido a los españoles un apoyo amplio para derogar lo más rápido posible el sanchismo\"",
+   "x": 14.286,
+   "y": 1.398,
+   "w": 71.429,
+   "h": 10.402
+  }
+ ]
+}

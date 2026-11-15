@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3270,
+ "bytes": 250840,
+ "hotspots": [
+  {
+   "n": 19,
+   "title": "¿Cómo afectan las elecciones del 29-N a la Familia Real?",
+   "x": 50.714,
+   "y": 90.489,
+   "w": 15.714,
+   "h": 3.823
+  },
+  {
+   "n": 11,
+   "title": "Más de la mitad de los españoles cuestiona la huelga del 11-N y un 42 % cree que fue un fracaso",
+   "x": 17.571,
+   "y": 59.327,
+   "w": 20.5,
+   "h": 3.242
+  },
+  {
+   "n": 15,
+   "title": "Musk y miles de empleados y accionistas de Nvidia piden la vuelta de Jensen Huang",
+   "x": 16.429,
+   "y": 78.135,
+   "w": 21.429,
+   "h": 3.242
+  },
+  {
+   "n": 7,
+   "title": "El PP reconoce una campaña menos «clásica»: varias entrevistas con youtubers y conquistar las redes",
+   "x": 62,
+   "y": 33.7,
+   "w": 21.643,
+   "h": 3.517
+  },
+  {
+   "n": 12,
+   "title": "Solo tres de cada diez españoles querría al PSOE en el Gobierno, incluso contando una gran coalición con el PP",
+   "x": 39.143,
+   "y": 59.327,
+   "w": 20.5,
+   "h": 4.006
+  },
+  {
+   "n": 6,
+   "title": "Irene y Ione, dos piqueteras con sueldo de seis cifras",
+   "x": 39.286,
+   "y": 33.7,
+   "w": 21.643,
+   "h": 4.281
+  },
+  {
+   "n": 16,
+   "title": "Sánchez usa a Tezanos para vengarse de Junts y el CIS lo deja a las puertas de ser extraparlamentario",
+   "x": 39.286,
+   "y": 78.135,
+   "w": 21.429,
+   "h": 5.046
+  },
+  {
+   "n": 20,
+   "title": "El AVE entre Andalucía y Portugal entra por fin en los planes de Europa tras años de lucha compartida",
+   "x": 67.857,
+   "y": 84.434,
+   "w": 15.714,
+   "h": 9.327
+  },
+  {
+   "n": 18,
+   "title": "De los 1.800 millones en medidas sociales anunciados por el Gobierno al regalito marroquí que le dejan al que venga",
+   "x": 33.571,
+   "y": 84.434,
+   "w": 15.714,
+   "h": 11.896
+  },
+  {
+   "n": 17,
+   "title": "Europa busca autonomía estratégica: la apuesta tecnológica e industrial de Indra Group",
+   "x": 16.429,
+   "y": 84.434,
+   "w": 15.714,
+   "h": 11.896
+  },
+  {
+   "n": 5,
+   "title": "El voto útil de la extrema izquierda a Sánchez tiene efectos adversos y mal remedio",
+   "x": 39.286,
+   "y": 28.043,
+   "w": 44.286,
+   "h": 4.648
+  },
+  {
+   "n": 9,
+   "title": "¿A quién beneficia el caos de los nietos y del sistema electoral de Sánchez?",
+   "x": 16.429,
+   "y": 30.734,
+   "w": 21.429,
+   "h": 10.245
+  },
+  {
+   "n": 10,
+   "title": "El 67 % de los españoles cree que los accidentes ferroviarios y la salida de Puente perjudicarán al PSOE el 29-N",
+   "x": 17.571,
+   "y": 52.813,
+   "w": 42,
+   "h": 5.505
+  },
+  {
+   "n": 13,
+   "title": "El nuevo presidente de Adif, hijo de un histórico de Esquerra y casado con la secretaria de Estado de Comercio",
+   "x": 16.429,
+   "y": 65.076,
+   "w": 21.429,
+   "h": 11.315
+  },
+  {
+   "n": 14,
+   "title": "Jamardo y Entrambasaguas retratan al Gobierno tras las últimas revelaciones: «Destroza una bandera de Sánchez»",
+   "x": 39.286,
+   "y": 65.076,
+   "w": 21.429,
+   "h": 11.804
+  },
+  {
+   "n": 8,
+   "title": "Los trenes que Sánchez financió a Marruecos incluyen un sistema de seguridad que habría evitado el accidente de Urda",
+   "x": 16.429,
+   "y": 17.401,
+   "w": 21.429,
+   "h": 12.722
+  }
+ ]
+}
