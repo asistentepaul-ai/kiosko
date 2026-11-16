@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4311,
+ "bytes": 370112,
+ "hotspots": [
+  {
+   "n": 3,
+   "title": "Feijóo obtiene un 4,3 y Sánchez y Abascal empatan en el suspenso",
+   "x": 50,
+   "y": 9,
+   "w": 35.714,
+   "h": 1.067
+  },
+  {
+   "n": 6,
+   "title": "Tardón apunta a un sabotaje de Marruecos en las comunicaciones",
+   "x": 44.5,
+   "y": 16.655,
+   "w": 17,
+   "h": 3.595
+  },
+  {
+   "n": 7,
+   "title": "Gibraltar abre una nueva brecha entre el Gobierno y la Junta de Andalucía",
+   "x": 44.5,
+   "y": 24.774,
+   "w": 17,
+   "h": 3.595
+  },
+  {
+   "n": 11,
+   "title": "Trump, Putin y Xi ante su \"cumbre de Yalta\": las claves de una cita histórica que ningunea a Europa",
+   "x": 14.286,
+   "y": 44.236,
+   "w": 17,
+   "h": 4.106
+  },
+  {
+   "n": 12,
+   "title": "Irán y EE UU retoman los ataques tras la pausa de las «midterms»",
+   "x": 32.429,
+   "y": 44.236,
+   "w": 17,
+   "h": 4.106
+  },
+  {
+   "n": 13,
+   "title": "Estonia cerrará su frontera con Rusia el 1 de diciembre tras un presunto acto de sabotaje",
+   "x": 50.571,
+   "y": 44.236,
+   "w": 17,
+   "h": 4.106
+  },
+  {
+   "n": 14,
+   "title": "Rumanía denuncia ataques con drones contra buques comerciales en el mar Negro",
+   "x": 68.714,
+   "y": 44.236,
+   "w": 17,
+   "h": 4.106
+  },
+  {
+   "n": 15,
+   "title": "Precio de la luz, lunes 16 de noviembre, por horas: segunda bajada consecutiva del MWh que, posiblemente, dará algo de respiro a los consumidores a final de mes",
+   "x": 14.286,
+   "y": 62.051,
+   "w": 17,
+   "h": 6.077
+  },
+  {
+   "n": 16,
+   "title": "Viento de más de 100 km/h y temperaturas de hasta 21 grados: así será el lunes en el País Vasco",
+   "x": 32.429,
+   "y": 62.051,
+   "w": 17,
+   "h": 6.077
+  },
+  {
+   "n": 17,
+   "title": "Un alemán acaba pagando casi 6.000 euros por dar patadas a unas papeleras en Guipúzcoa",
+   "x": 50.571,
+   "y": 62.051,
+   "w": 17,
+   "h": 6.077
+  },
+  {
+   "n": 18,
+   "title": "Muere un joven de entre 25 y 30 años tras una posible agresión con arma blanca en Muriedas",
+   "x": 68.714,
+   "y": 62.051,
+   "w": 17,
+   "h": 6.077
+  },
+  {
+   "n": 8,
+   "title": "El Gobierno no aprueba ninguna medida para mejorar las condiciones de los controladores de Adif pese a señalarlos por el accidente de Urda",
+   "x": 14.286,
+   "y": 34.006,
+   "w": 23.071,
+   "h": 5.683
+  },
+  {
+   "n": 9,
+   "title": "La francesa Le Train confía en el problemático Avril de Talgo para su flota, pero no sabe cuándo los recibirá",
+   "x": 38.5,
+   "y": 34.006,
+   "w": 23.071,
+   "h": 5.683
+  },
+  {
+   "n": 10,
+   "title": "La autoridad democrática también se defiende",
+   "x": 62.643,
+   "y": 34.006,
+   "w": 23.071,
+   "h": 5.683
+  },
+  {
+   "n": 2,
+   "title": "La mayoría de PP y Vox resiste en el arranque de campaña con hasta 205 diputados",
+   "x": 50,
+   "y": 0.951,
+   "w": 35.714,
+   "h": 5.312
+  },
+  {
+   "n": 19,
+   "title": "Logran reducir de tres meses a seis días el tratamiento antibiótico en infecciones óseas",
+   "x": 14.286,
+   "y": 72.698,
+   "w": 35.714,
+   "h": 6.402
+  },
+  {
+   "n": 5,
+   "title": "El registro en Adif impulsa investigación de la Fiscalía Europea por fraude en la alta velocidad",
+   "x": 14.286,
+   "y": 18.882,
+   "w": 29.071,
+   "h": 9.511
+  },
+  {
+   "n": 20,
+   "title": "Una red nacional combate las recaídas de los casos más graves de leucemia en niños",
+   "x": 14.286,
+   "y": 87.706,
+   "w": 29.071,
+   "h": 9.511
+  }
+ ]
+}
