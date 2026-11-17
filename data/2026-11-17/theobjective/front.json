@@ -1,0 +1,80 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2932,
+ "bytes": 207588,
+ "hotspots": [
+  {
+   "n": 13,
+   "title": "Una constructora ligada a los Corvillo arrasó en una obra de ADIF frente a otras diez rivales",
+   "x": 14.5,
+   "y": 35.982,
+   "w": 22.714,
+   "h": 3.581
+  },
+  {
+   "n": 10,
+   "title": "El Ejército temió que Marruecos exigiese una cosoberanía en Ceuta y Melilla tras el asalto",
+   "x": 14.5,
+   "y": 24.42,
+   "w": 34.786,
+   "h": 2.763
+  },
+  {
+   "n": 20,
+   "title": "Sánchez se abraza a la bandera de España",
+   "x": 62.357,
+   "y": 86.085,
+   "w": 23.214,
+   "h": 4.57
+  },
+  {
+   "n": 18,
+   "title": "Sánchez llama a la desesperada a Senegal tras semanas de crisis migratoria en Canarias",
+   "x": 14.5,
+   "y": 91.746,
+   "w": 46.429,
+   "h": 4.161
+  },
+  {
+   "n": 16,
+   "title": "Una tecnológica española detecta la huella de Irán tras las protestas en Francia",
+   "x": 14.5,
+   "y": 42.224,
+   "w": 22.714,
+   "h": 10.402
+  },
+  {
+   "n": 17,
+   "title": "Más de la mitad de la Generación Z tiene deudas impagadas antes de los 25",
+   "x": 39.286,
+   "y": 42.224,
+   "w": 22.714,
+   "h": 10.402
+  },
+  {
+   "n": 15,
+   "title": "Montero adjudicó las pulseras antimaltrato por la vía de urgencia y en sus últimos días",
+   "x": 39.286,
+   "y": 29.604,
+   "w": 22.714,
+   "h": 11.596
+  },
+  {
+   "n": 9,
+   "title": "La Ertzaintza comunica al PP que no puede garantizar su seguridad en el País Vasco",
+   "x": 14.5,
+   "y": 11.937,
+   "w": 71.071,
+   "h": 4.57
+  },
+  {
+   "n": 12,
+   "title": "Rabat negocia con Francia la compra de submarinos para igualar a España en el mar",
+   "x": 50.786,
+   "y": 17.531,
+   "w": 34.786,
+   "h": 10.709
+  }
+ ]
+}
