@@ -1,0 +1,80 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3717,
+ "bytes": 301706,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "El Ejecutivo adelanta hasta un año las medidas de gasto para hacer campaña",
+   "x": 64.857,
+   "y": 30.751,
+   "w": 26.286,
+   "h": 2.879
+  },
+  {
+   "n": 20,
+   "title": "Europa y la externalización de su mala conciencia",
+   "x": 64.857,
+   "y": 58.192,
+   "w": 26.286,
+   "h": 2.879
+  },
+  {
+   "n": 19,
+   "title": "¿Cómo competir con China?",
+   "x": 64.857,
+   "y": 54.318,
+   "w": 26.286,
+   "h": 2.986
+  },
+  {
+   "n": 12,
+   "title": "El calendario judicial sacude a Ferraz: una ministra, el asesor económico de Moncloa y altos cargos, ante los jueces",
+   "x": 8.857,
+   "y": 25.531,
+   "w": 26.286,
+   "h": 6.995
+  },
+  {
+   "n": 17,
+   "title": "No hay paz para Cuerpo: Renfe y los maquinistas se enzarzan por el caos de los servicios mínimos en la huelga",
+   "x": 8.857,
+   "y": 41.404,
+   "w": 26.286,
+   "h": 7.748
+  },
+  {
+   "n": 10,
+   "title": "Nvidia bate las expectativas del mercado y mejora resultados en plena tormenta por la salida de Jensen Huang",
+   "x": 8.857,
+   "y": 84.396,
+   "w": 19.714,
+   "h": 12.376
+  },
+  {
+   "n": 14,
+   "title": "La peligrosa ley de medios de la que habló Pedro delante de Alba Carrillo",
+   "x": 64.857,
+   "y": 19.962,
+   "w": 26.286,
+   "h": 9.9
+  },
+  {
+   "n": 11,
+   "title": "La foto fija de los sondeos reabre el debate sobre la sucesión de Sánchez y sitúa a Illa como favorito",
+   "x": 8.857,
+   "y": 19.962,
+   "w": 54.286,
+   "h": 14.851
+  },
+  {
+   "n": 16,
+   "title": "Otra bomba de relojería para el nuevo Gobierno: 1.000 km de autovías con peaje en sombra sin conservación",
+   "x": 8.857,
+   "y": 36.32,
+   "w": 54.286,
+   "h": 14.851
+  }
+ ]
+}

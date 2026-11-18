@@ -1,0 +1,88 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3220,
+ "bytes": 221774,
+ "hotspots": [
+  {
+   "n": 19,
+   "title": "ETA muerta y la «ultraderecha» en auge",
+   "x": 62.357,
+   "y": 74.969,
+   "w": 23.214,
+   "h": 2.609
+  },
+  {
+   "n": 15,
+   "title": "El agujero de Plus Ultra asciende a 55 millones y supera ya la cifra de su rescate",
+   "x": 14.5,
+   "y": 42.578,
+   "w": 22.714,
+   "h": 3.261
+  },
+  {
+   "n": 18,
+   "title": "La firma vasca que pagó a Servinabar figura en el macrocontrato de Defensa investigado",
+   "x": 14.5,
+   "y": 83.23,
+   "w": 46.429,
+   "h": 2.826
+  },
+  {
+   "n": 20,
+   "title": "Dimite una secretaria de Igualdad de UGT entre denuncias de acoso a su jefa",
+   "x": 14.5,
+   "y": 87.298,
+   "w": 22.286,
+   "h": 8.975
+  },
+  {
+   "n": 13,
+   "title": "Moncloa frena las medidas estrella de Yolanda Díaz pero el PSOE las lleva en su programa",
+   "x": 14.5,
+   "y": 26.77,
+   "w": 22.714,
+   "h": 9.068
+  },
+  {
+   "n": 14,
+   "title": "Radiografía de un estrepitoso fracaso: por qué Díaz no logró ni el apoyo sindical en la OIT",
+   "x": 39.286,
+   "y": 26.77,
+   "w": 22.714,
+   "h": 9.068
+  },
+  {
+   "n": 17,
+   "title": "Un cambio en internet tumbará miles de webs y amenaza con otro apagón",
+   "x": 39.286,
+   "y": 36.77,
+   "w": 22.714,
+   "h": 10.559
+  },
+  {
+   "n": 11,
+   "title": "El hermano del presidente de Asturias se jacta de haber sido enchufado en Renfe",
+   "x": 14.5,
+   "y": 16.739,
+   "w": 34.786,
+   "h": 8.789
+  },
+  {
+   "n": 12,
+   "title": "Marlaska deja en manos de la Ertzaintza el refuerzo de la seguridad del PP vasco",
+   "x": 50.786,
+   "y": 16.739,
+   "w": 34.786,
+   "h": 8.789
+  },
+  {
+   "n": 10,
+   "title": "Irene Montero alteró el contrato investigado por la UE y lo hizo inviable para Telefónica",
+   "x": 14.5,
+   "y": 10.87,
+   "w": 71.071,
+   "h": 4.938
+  }
+ ]
+}
