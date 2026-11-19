@@ -1,0 +1,88 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2785,
+ "bytes": 203812,
+ "hotspots": [
+  {
+   "n": 13,
+   "title": "Tres miembros de la cúpula de Núcleo Nacional tienen vínculos con instituciones rusas",
+   "x": 14.5,
+   "y": 37.882,
+   "w": 22.714,
+   "h": 3.77
+  },
+  {
+   "n": 9,
+   "title": "El hombre que amenazó a Jon Echeverría es un habitual de los mítines de Sánchez",
+   "x": 14.5,
+   "y": 25.709,
+   "w": 34.786,
+   "h": 2.908
+  },
+  {
+   "n": 11,
+   "title": "Rabat se niega a readmitir a 170 menores de Ceuta que la Policía tiene listos para retornar",
+   "x": 50.786,
+   "y": 25.709,
+   "w": 34.786,
+   "h": 2.908
+  },
+  {
+   "n": 20,
+   "title": "La violencia en el País Vasco marca la campaña",
+   "x": 62.357,
+   "y": 86.463,
+   "w": 23.214,
+   "h": 4.811
+  },
+  {
+   "n": 19,
+   "title": "Igualdad prorroga irregularmente y al precio máximo el contrato con su empresa de eventos",
+   "x": 14.5,
+   "y": 92.424,
+   "w": 46.429,
+   "h": 3.268
+  },
+  {
+   "n": 18,
+   "title": "Sánchez y las urnas embarazadas",
+   "x": 14.5,
+   "y": 58.169,
+   "w": 23.714,
+   "h": 8.51
+  },
+  {
+   "n": 16,
+   "title": "JP Morgan cree que un nuevo Gobierno beneficiará a bancos, eléctricas y constructoras",
+   "x": 14.5,
+   "y": 44.452,
+   "w": 22.714,
+   "h": 10.485
+  },
+  {
+   "n": 17,
+   "title": "Cullell, Freire, De Lora y Rico se incorporan al Consejo Editorial de TO",
+   "x": 39.286,
+   "y": 44.452,
+   "w": 22.714,
+   "h": 10.485
+  },
+  {
+   "n": 15,
+   "title": "Sigilosa destitución en Red Eléctrica tras el apagón: cae su jefe de programación",
+   "x": 39.286,
+   "y": 31.167,
+   "w": 22.714,
+   "h": 12.208
+  },
+  {
+   "n": 8,
+   "title": "Correos ignora informes internos con medidas para mejorar la seguridad del voto",
+   "x": 14.5,
+   "y": 12.567,
+   "w": 71.071,
+   "h": 4.811
+  }
+ ]
+}

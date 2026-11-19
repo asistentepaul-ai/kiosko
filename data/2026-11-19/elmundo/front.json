@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4959,
+ "bytes": 484688,
+ "hotspots": [
+  {
+   "n": 9,
+   "title": "El PSOE quiso dejar fuera del debate el bloque de la corrupción y el PP se plantó: \"Sin eso, no vamos\"",
+   "x": 53.357,
+   "y": 94.676,
+   "w": 16.214,
+   "h": 0.968
+  },
+  {
+   "n": 10,
+   "title": "El plan de Sánchez para no repetir \"los errores\" de 2023: \"tranquilidad\", porque \"va a haber barro\" y los debates \"los carga el diablo\"",
+   "x": 53.357,
+   "y": 96.29,
+   "w": 16.214,
+   "h": 1.291
+  },
+  {
+   "n": 17,
+   "title": "La justicia tumba el desalojo inmediato de dos 'okupas' de una gasolinera de Repsol cerrada desde hace seis años",
+   "x": 46.857,
+   "y": 34.584,
+   "w": 19.5,
+   "h": 2.057
+  },
+  {
+   "n": 16,
+   "title": "La factura del caso del hermano de Sánchez sube a 700.000 euros: el Tribunal de Cuentas incluye las óperas en su investigación",
+   "x": 46.857,
+   "y": 31.781,
+   "w": 19.5,
+   "h": 2.077
+  },
+  {
+   "n": 14,
+   "title": "Anthropic protagoniza hoy la mayor salida a bolsa de la historia con el desafío de poner en valor el sueño de 'crear la inteligencia'",
+   "x": 46.857,
+   "y": 22.384,
+   "w": 19.5,
+   "h": 2.48
+  },
+  {
+   "n": 8,
+   "title": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
+   "x": 73.357,
+   "y": 10.788,
+   "w": 19.5,
+   "h": 2.48
+  },
+  {
+   "n": 11,
+   "title": "Xi Jinping reúne a un Trump debilitado y a un Putin aislado para exhibir el poder de China",
+   "x": 7.143,
+   "y": 29.522,
+   "w": 37.143,
+   "h": 1.412
+  },
+  {
+   "n": 7,
+   "title": "Puigdemont: \"Aproveché la ambición desmedida de Sánchez para derrotar a España\"",
+   "x": 7.143,
+   "y": 10.728,
+   "w": 19.5,
+   "h": 3.549
+  },
+  {
+   "n": 13,
+   "title": "La desigualdad de ingresos abre una brecha en la esperanza de vida en España: los hombres más ricos viven ocho años más que los de menor renta y las mujeres cinco",
+   "x": 7.143,
+   "y": 32.486,
+   "w": 37.143,
+   "h": 2.077
+  },
+  {
+   "n": 20,
+   "title": "La última crónica de Julio Fuentes: 'El búnker químico de Al Qaeda'",
+   "x": 60.143,
+   "y": 43.981,
+   "w": 15.071,
+   "h": 5.465
+  },
+  {
+   "n": 15,
+   "title": "Los siete fundadores de Anthropic que están a punto de convertirse en multimillonarios",
+   "x": 46.857,
+   "y": 25.59,
+   "w": 19.5,
+   "h": 5.465
+  },
+  {
+   "n": 19,
+   "title": "\"Soy Julio Fuentes, chavales. Una leyenda\"",
+   "x": 7.143,
+   "y": 43.981,
+   "w": 50.429,
+   "h": 5.324
+  },
+  {
+   "n": 18,
+   "title": "Por qué las refinerías se han convertido en un activo estratégico para España",
+   "x": 7.143,
+   "y": 38.032,
+   "w": 85.714,
+   "h": 4.497
+  }
+ ]
+}

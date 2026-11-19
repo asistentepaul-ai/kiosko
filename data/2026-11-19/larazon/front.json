@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3118,
+ "bytes": 290114,
+ "hotspots": [
+  {
+   "n": 18,
+   "title": "Europa observa desde fuera la histórica reunión entre Trump, Xi y Putin",
+   "x": 14.286,
+   "y": 90.924,
+   "w": 35.143,
+   "h": 1.475
+  },
+  {
+   "n": 19,
+   "title": "Witkoff y Kushner participarán en la cumbre de Berlín tras la reunión de Trump con Putin y Xi",
+   "x": 14.286,
+   "y": 92.431,
+   "w": 35.143,
+   "h": 1.475
+  },
+  {
+   "n": 14,
+   "title": "Mucho debate, pocos votos",
+   "x": 14.286,
+   "y": 67.704,
+   "w": 17,
+   "h": 4.298
+  },
+  {
+   "n": 15,
+   "title": "La política del cuaderno y el servicio frente al espectáculo",
+   "x": 32.429,
+   "y": 67.704,
+   "w": 17,
+   "h": 4.298
+  },
+  {
+   "n": 16,
+   "title": "Desactivando a Tolón",
+   "x": 50.571,
+   "y": 67.704,
+   "w": 17,
+   "h": 4.298
+  },
+  {
+   "n": 10,
+   "title": "Los móviles \"abandonados\" por los inmigrantes dieron la pista sobre la \"pasividad\" de los agentes marroquíes",
+   "x": 14.286,
+   "y": 50.225,
+   "w": 17,
+   "h": 4.394
+  },
+  {
+   "n": 13,
+   "title": "El hermano de Sánchez mete prisa para que se revise su condena",
+   "x": 68.714,
+   "y": 50.225,
+   "w": 17,
+   "h": 4.394
+  },
+  {
+   "n": 20,
+   "title": "Lawrence C. Reardon, profesor de ciencias políticas, sobre la cumbre de Shenzhen: \"Xi espera ser percibido como un líder más poderoso que Putin\"",
+   "x": 14.286,
+   "y": 93.906,
+   "w": 35.143,
+   "h": 2.245
+  },
+  {
+   "n": 8,
+   "title": "Las políticas de Ayuso que Feijóo quiere llevarse a La Moncloa",
+   "x": 44.5,
+   "y": 30.661,
+   "w": 17,
+   "h": 4.971
+  },
+  {
+   "n": 11,
+   "title": "El traslado de inmigrantes enciende la campaña electoral",
+   "x": 32.429,
+   "y": 55.164,
+   "w": 17,
+   "h": 6.286
+  },
+  {
+   "n": 12,
+   "title": "El PSOE cumple con el juez pero consigue proteger su estrategia de defensa en plena campaña",
+   "x": 50.571,
+   "y": 55.164,
+   "w": 17,
+   "h": 6.286
+  },
+  {
+   "n": 9,
+   "title": "«¿Por qué su sensibilidad solo llega cuando hay elecciones?»: Vox replica a la convalidación de los siete decretos del Gobierno",
+   "x": 44.5,
+   "y": 41.886,
+   "w": 17,
+   "h": 7.024
+  },
+  {
+   "n": 17,
+   "title": "Xi agasaja a Trump a pie de pista y apuntala su entente con Putin para abanderar una globalización sin tutelas",
+   "x": 14.286,
+   "y": 82.874,
+   "w": 35.143,
+   "h": 5.292
+  },
+  {
+   "n": 5,
+   "title": "Feijóo plantea el cara a cara como su moción de censura a Sánchez",
+   "x": 50,
+   "y": 12.508,
+   "w": 35.714,
+   "h": 5.965
+  },
+  {
+   "n": 7,
+   "title": "Veto a la campaña del PP en las estaciones de Málaga y Sevilla: «Nosotros sin trenes y ellos a todo tren»",
+   "x": 14.286,
+   "y": 25.722,
+   "w": 29.071,
+   "h": 7.473
+  },
+  {
+   "n": 3,
+   "title": "García-Page maniobra para impulsar a los críticos con Pedro Sánchez",
+   "x": 14.286,
+   "y": 1.315,
+   "w": 71.429,
+   "h": 9.878
+  }
+ ]
+}

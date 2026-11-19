@@ -1,0 +1,160 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3768,
+ "bytes": 325082,
+ "hotspots": [
+  {
+   "n": 13,
+   "title": "Rosario Sánchez se compara con Begoña Gómez y se declara víctima del «machismo» del PP",
+   "x": 16.429,
+   "y": 63.933,
+   "w": 12.357,
+   "h": 3.317
+  },
+  {
+   "n": 14,
+   "title": "El PSOE tarda 25 horas en confirmar el rentismo de la pareja de Rosario Sánchez tras la exclusiva de El Debate",
+   "x": 39.143,
+   "y": 63.933,
+   "w": 21.643,
+   "h": 2.654
+  },
+  {
+   "n": 18,
+   "title": "Sánchez explota en campaña su papel de víctima por el «me gusta la fruta» de Ayuso",
+   "x": 39.286,
+   "y": 81.237,
+   "w": 21.429,
+   "h": 2.813
+  },
+  {
+   "n": 5,
+   "title": "Las diez preguntas de El Debate a los expertos en ciberseguridad sobre los móviles que el Gobierno quiere meter en las mesas electorales",
+   "x": 62.143,
+   "y": 21.762,
+   "w": 21.429,
+   "h": 2.866
+  },
+  {
+   "n": 6,
+   "title": "¿Para qué quiere Sánchez un móvil en cada mesa electoral con conexión a internet, geolocalización, memoria gigantesca y control remoto?",
+   "x": 62.143,
+   "y": 24.628,
+   "w": 21.429,
+   "h": 3.45
+  },
+  {
+   "n": 3,
+   "title": "El PP prevé un cara a cara marcado por las mentiras de Sánchez: «Solo sabe mentir. Habrá que estar atentos a todo»",
+   "x": 16.429,
+   "y": 26.937,
+   "w": 21.643,
+   "h": 3.477
+  },
+  {
+   "n": 2,
+   "title": "Sánchez y Feijóo se miden en un debate de alto voltaje que cambiará el clima de la campaña",
+   "x": 16.429,
+   "y": 21.444,
+   "w": 44.286,
+   "h": 1.858
+  },
+  {
+   "n": 4,
+   "title": "El Gobierno quiere poner en las mesas del 29-N 61.603 móviles de máxima potencia y con control remoto",
+   "x": 62.143,
+   "y": 16.056,
+   "w": 21.429,
+   "h": 4.644
+  },
+  {
+   "n": 17,
+   "title": "Un expresidente de la Junta Electoral denuncia carencias en la identificación de los votantes del CERA",
+   "x": 16.429,
+   "y": 81.237,
+   "w": 21.429,
+   "h": 4.83
+  },
+  {
+   "n": 8,
+   "title": "Los ganadores de los debates cara a cara: 4 victorias del PP, 2 del PSOE y 1 empate",
+   "x": 16.429,
+   "y": 40.074,
+   "w": 15.714,
+   "h": 7.378
+  },
+  {
+   "n": 12,
+   "title": "La pareja de Rosario Sánchez alquila en plataformas turísticas una villa «ideal para familias» por 300 euros al día",
+   "x": 16.429,
+   "y": 59.448,
+   "w": 44.286,
+   "h": 2.787
+  },
+  {
+   "n": 20,
+   "title": "con Target Point... ¿Es posible una remontada del PSOE antes del 29-N?",
+   "x": 33.571,
+   "y": 87.155,
+   "w": 15.714,
+   "h": 8.094
+  },
+  {
+   "n": 9,
+   "title": "Puigdemont reconoce que le sorprendió lo fácil que le 'sacó' la amnistía a Sánchez: «Me aproveché de su ambición»",
+   "x": 33.571,
+   "y": 40.074,
+   "w": 15.714,
+   "h": 8.785
+  },
+  {
+   "n": 10,
+   "title": "¿De izquierdas o de derechas? La respuesta de María Casado, la moderadora del debate entre Sánchez y Feijóo",
+   "x": 50.714,
+   "y": 40.074,
+   "w": 15.714,
+   "h": 8.785
+  },
+  {
+   "n": 11,
+   "title": "Sánchez llega al debate con Feijóo con la cara pintada por Franganillo y Griso y sus lecciones de periodismo",
+   "x": 67.857,
+   "y": 40.074,
+   "w": 15.714,
+   "h": 8.785
+  },
+  {
+   "n": 19,
+   "title": "Qué hacer en Aragón en el puente de la Inmaculada: cuatro experiencias para una escapada diferente",
+   "x": 16.429,
+   "y": 87.155,
+   "w": 15.714,
+   "h": 9.66
+  },
+  {
+   "n": 7,
+   "title": "Vox denuncia a Correos ante la Junta Electoral por usar recursos públicos para instalar propaganda del PSOE",
+   "x": 62.143,
+   "y": 29.167,
+   "w": 21.429,
+   "h": 9.82
+  },
+  {
+   "n": 16,
+   "title": "El marido de la portavoz del PSOE en la Asamblea de Madrid usó una instrumental para facturar 1,7 millones y así pagar menos impuestos",
+   "x": 39.286,
+   "y": 69.666,
+   "w": 21.429,
+   "h": 10.244
+  },
+  {
+   "n": 15,
+   "title": "Los padres de Sánchez declaran a Hacienda ingresos de 645.000 € por alquilar su fábrica de plásticos a la que el Gobierno dio 15 ayudas",
+   "x": 16.429,
+   "y": 69.666,
+   "w": 21.429,
+   "h": 10.483
+  }
+ ]
+}

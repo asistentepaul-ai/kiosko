@@ -1,0 +1,104 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2626,
+ "bytes": 223700,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "Una isla socialista 'resiste' desde 1986 en Pozuelo, el municipio más rico del país",
+   "x": 43.857,
+   "y": 51.409,
+   "w": 19.286,
+   "h": 4.989
+  },
+  {
+   "n": 16,
+   "title": "¿El próximo Gobierno hallará facturas en el cajón? Lo que le diría Montoro a Feijóo",
+   "x": 43.857,
+   "y": 57.654,
+   "w": 19.286,
+   "h": 4.989
+  },
+  {
+   "n": 17,
+   "title": "Madrid se adelanta al 29-N: la ley del suelo que el PP quiere llevar a Moncloa",
+   "x": 43.857,
+   "y": 63.899,
+   "w": 19.286,
+   "h": 4.989
+  },
+  {
+   "n": 8,
+   "title": "Obesidad, eutanasia y aborto: tres preguntas incómodas para quienes te piden el voto el 29-N",
+   "x": 43.857,
+   "y": 70.145,
+   "w": 19.286,
+   "h": 4.989
+  },
+  {
+   "n": 19,
+   "title": "Santiago Abascal y la xenofobia total",
+   "x": 64.857,
+   "y": 77.913,
+   "w": 26.286,
+   "h": 4.075
+  },
+  {
+   "n": 20,
+   "title": "El penalti de Feijóo en las elecciones",
+   "x": 64.857,
+   "y": 87.776,
+   "w": 26.286,
+   "h": 4.075
+  },
+  {
+   "n": 13,
+   "title": "¿Está el PSOE captando a las mujeres con IA? Perfiles falsos sobre moda y anuncios pirata en TikTok",
+   "x": 64.857,
+   "y": 41.927,
+   "w": 26.286,
+   "h": 4.989
+  },
+  {
+   "n": 14,
+   "title": "El mapa de todas las elecciones generales en España: así han votado tus vecinos desde 1977 hasta hoy",
+   "x": 8.857,
+   "y": 69.764,
+   "w": 33.286,
+   "h": 5.522
+  },
+  {
+   "n": 10,
+   "title": "El lío de la Academia para organizar la 'Super Bowl' de la campaña: desde cero, a contrarreloj y sin suficientes medios",
+   "x": 8.857,
+   "y": 37.395,
+   "w": 26.286,
+   "h": 10.967
+  },
+  {
+   "n": 12,
+   "title": "Miriam González: \"No soy equidistante entre PP y PSOE, soy distante de los dos; sus gobiernos han sido desastrosos\"",
+   "x": 64.857,
+   "y": 28.256,
+   "w": 26.286,
+   "h": 12.414
+  },
+  {
+   "n": 18,
+   "title": "Un inútil cara a cara",
+   "x": 8.857,
+   "y": 77.913,
+   "w": 19.714,
+   "h": 17.517
+  },
+  {
+   "n": 9,
+   "title": "Sánchez se prepara para un debate \"embarrado\" y Feijóo lo trabaja desde hace días para intentar reeditar el éxito del 23-J",
+   "x": 8.857,
+   "y": 28.256,
+   "w": 54.286,
+   "h": 21.021
+  }
+ ]
+}
