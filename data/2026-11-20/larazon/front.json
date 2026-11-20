@@ -1,0 +1,160 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2639,
+ "bytes": 236334,
+ "hotspots": [
+  {
+   "n": 1,
+   "title": "Encuesta cara a cara",
+   "x": 50,
+   "y": 13.035,
+   "w": 35.714,
+   "h": 1.743
+  },
+  {
+   "n": 16,
+   "title": "La Policía eleva a 125.000 el número de migrantes de la entrada masiva a Ceuta",
+   "x": 44.5,
+   "y": 52.255,
+   "w": 17,
+   "h": 5.191
+  },
+  {
+   "n": 11,
+   "title": "Sánchez reconoce que ha fracasado con la vivienda y Feijóo le pone cifras a su descalabro: \"Prometió 184.000 y ha entregado 540\"",
+   "x": 14.286,
+   "y": 43.577,
+   "w": 17,
+   "h": 7.086
+  },
+  {
+   "n": 12,
+   "title": "Sánchez agita el fantasma de los recortes y Feijóo promete más médicos y una educación más exigente",
+   "x": 32.429,
+   "y": 43.577,
+   "w": 17,
+   "h": 7.086
+  },
+  {
+   "n": 13,
+   "title": "La comunicación no verbal de Feijóo: firmeza y determinación",
+   "x": 50.571,
+   "y": 43.577,
+   "w": 17,
+   "h": 7.086
+  },
+  {
+   "n": 14,
+   "title": "La comunicación no verbal de Pedro Sánchez: la mirada como recurso",
+   "x": 68.714,
+   "y": 43.577,
+   "w": 17,
+   "h": 7.086
+  },
+  {
+   "n": 18,
+   "title": "Los españoles que han dejado de votar: dónde crece la abstención y a qué grupos afecta",
+   "x": 14.286,
+   "y": 87.836,
+   "w": 17,
+   "h": 7.617
+  },
+  {
+   "n": 19,
+   "title": "La alternativa frente al muro",
+   "x": 32.429,
+   "y": 87.836,
+   "w": 17,
+   "h": 7.617
+  },
+  {
+   "n": 20,
+   "title": "«No me derogue esa ley, es una buena ley»",
+   "x": 50.571,
+   "y": 87.836,
+   "w": 17,
+   "h": 7.617
+  },
+  {
+   "n": 7,
+   "title": "«Ha aplastado a Sánchez»: euforia en el PP con el papel de Feijóo en el cara a cara",
+   "x": 14.286,
+   "y": 34.104,
+   "w": 17,
+   "h": 7.92
+  },
+  {
+   "n": 8,
+   "title": "Feijóo acorrala a Sánchez con la invasión de Ceuta y el agujero migratorio",
+   "x": 32.429,
+   "y": 34.104,
+   "w": 17,
+   "h": 7.92
+  },
+  {
+   "n": 9,
+   "title": "Del \"somos la economía que más crece de Europa\" de Sánchez al \"baje del cohete, acabemos con el infierno fiscal y deje de usar a los mayores en su beneficio\" de Feijóo",
+   "x": 50.571,
+   "y": 34.104,
+   "w": 17,
+   "h": 7.92
+  },
+  {
+   "n": 10,
+   "title": "Feijoó pide a Sánchez que \"deje de meter miedo a los pensionistas\" pero avisa de que el \"sistema está a punto de estallar\"",
+   "x": 68.714,
+   "y": 34.104,
+   "w": 17,
+   "h": 7.92
+  },
+  {
+   "n": 4,
+   "title": "Sánchez, a Feijóó en el cara a cara: «Mi gobierno es uno de los más limpios de la historia de la democracia»",
+   "x": 14.286,
+   "y": 26.336,
+   "w": 23.071,
+   "h": 6.214
+  },
+  {
+   "n": 5,
+   "title": "Feijóo a Sánchez, sobre la corrupción: \"Su Gobierno ha hecho todo tipo de guarradas. Un bochorno\"",
+   "x": 38.5,
+   "y": 26.336,
+   "w": 23.071,
+   "h": 6.214
+  },
+  {
+   "n": 6,
+   "title": "Abucheos, papeles subrayados y miradas esquivas: todo lo que no se vio en el cara a cara entre Feijóo y Sánchez",
+   "x": 62.643,
+   "y": 26.336,
+   "w": 23.071,
+   "h": 6.214
+  },
+  {
+   "n": 17,
+   "title": "La UE expedienta al Gobierno de Sánchez por no aplicar la directiva contra la malversación, poner barreras fiscales y trabas a la circulación de capitales",
+   "x": 44.5,
+   "y": 71.353,
+   "w": 17,
+   "h": 9.094
+  },
+  {
+   "n": 3,
+   "title": "Cara a cara: Feijóo noquea a Pedro Sánchez con datos y preguntas",
+   "x": 50,
+   "y": 1.554,
+   "w": 35.714,
+   "h": 5.798
+  },
+  {
+   "n": 15,
+   "title": "Puigdemont desvela que se benefició de la \"ambición desmedida\" de Sánchez para obtener la amnistía: \"Es una persona amoral\"",
+   "x": 14.286,
+   "y": 52.255,
+   "w": 29.071,
+   "h": 8.829
+  }
+ ]
+}

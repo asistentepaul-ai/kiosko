@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1835,
+ "bytes": 176066,
+ "hotspots": [
+  {
+   "n": 20,
+   "title": "Shenzhen no ha sido la cumbre de Yalta",
+   "x": 46.857,
+   "y": 78.91,
+   "w": 19.5,
+   "h": 3.324
+  },
+  {
+   "n": 18,
+   "title": "Anthropic vs OpenAI: las cifras financieras detrás de la batalla por la inteligencia artificial",
+   "x": 46.857,
+   "y": 64.959,
+   "w": 19.5,
+   "h": 4.469
+  },
+  {
+   "n": 10,
+   "title": "En busca de la redención y desbordado por Feijóo: ¿Dónde estaba 'Perro Sanxe'?",
+   "x": 73.357,
+   "y": 17.984,
+   "w": 19.5,
+   "h": 4.523
+  },
+  {
+   "n": 12,
+   "title": "El PP coge fuerza a costa de Vox; Sánchez, a cuatro puntos de Feijóo",
+   "x": 73.357,
+   "y": 31.935,
+   "w": 19.5,
+   "h": 4.523
+  },
+  {
+   "n": 7,
+   "title": "El hombre que acabó con Pedro Sánchez",
+   "x": 7.143,
+   "y": 34.278,
+   "w": 19.5,
+   "h": 4.796
+  },
+  {
+   "n": 5,
+   "title": "Euforia total en Génova: \"Ha sido un meneo, esto se acabó\"",
+   "x": 7.143,
+   "y": 17.984,
+   "w": 19.5,
+   "h": 5.395
+  },
+  {
+   "n": 14,
+   "title": "La osadía de Sánchez con las cuentas públicas",
+   "x": 55.714,
+   "y": 55.313,
+   "w": 19.5,
+   "h": 5.559
+  },
+  {
+   "n": 19,
+   "title": "Michael Short, experto nuclear del MIT: \"Cerrar antes de tiempo las centrales de España sería un error colosal\"",
+   "x": 46.857,
+   "y": 71.39,
+   "w": 19.5,
+   "h": 5.559
+  },
+  {
+   "n": 11,
+   "title": "Piano, desayuno en tupper y banderas de España en Barcelona para el tour de Ayuso: \"Soy optimista\"",
+   "x": 73.357,
+   "y": 24.414,
+   "w": 19.5,
+   "h": 5.559
+  },
+  {
+   "n": 6,
+   "title": "Un Sánchez \"contenido\" busca inspiración en Obama para hacer un control de daños en el cara a cara con Feijóo",
+   "x": 7.143,
+   "y": 26.703,
+   "w": 19.5,
+   "h": 5.613
+  },
+  {
+   "n": 16,
+   "title": "\"Si Vox llama a la puerta de Junts el portazo lo recordarán toda su vida\"",
+   "x": 7.143,
+   "y": 90.082,
+   "w": 37.143,
+   "h": 3.379
+  },
+  {
+   "n": 13,
+   "title": "Pedro Sánchez apareció a bordo de un traje mal escogido",
+   "x": 55.714,
+   "y": 46.649,
+   "w": 19.5,
+   "h": 6.703
+  },
+  {
+   "n": 15,
+   "title": "\"El PSOE me propuso una foto con Sánchez en los pasillos del Parlamento Europeo\"",
+   "x": 7.143,
+   "y": 84.305,
+   "w": 37.143,
+   "h": 3.815
+  },
+  {
+   "n": 8,
+   "title": "Los 13 momentos que deciden el cara a cara: del silencio total de Sánchez sobre Puigdemont al temor al AVE de Feijóo",
+   "x": 29.214,
+   "y": 36.24,
+   "w": 41.571,
+   "h": 3.978
+  },
+  {
+   "n": 4,
+   "title": "Feijóo abruma hasta dejar mudo a un Sánchez que pide perdón tres veces",
+   "x": 7.143,
+   "y": 9.428,
+   "w": 85.714,
+   "h": 7.956
+  }
+ ]
+}

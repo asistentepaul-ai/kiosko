@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3625,
+ "bytes": 256294,
+ "hotspots": [
+  {
+   "n": 8,
+   "title": "¿Quién ha ganado el cara a cara?",
+   "x": 14.5,
+   "y": 28.414,
+   "w": 22.714,
+   "h": 2.097
+  },
+  {
+   "n": 14,
+   "title": "Macarena Gómez: «No soporto a la gente que intenta destruir España»",
+   "x": 40.357,
+   "y": 38.924,
+   "w": 20.571,
+   "h": 2.897
+  },
+  {
+   "n": 16,
+   "title": "Del contrato de las pulseras antimaltrato a la violencia política en el País Vasco",
+   "x": 62.357,
+   "y": 67.559,
+   "w": 23.214,
+   "h": 2.979
+  },
+  {
+   "n": 15,
+   "title": "El Gobierno presionó a Escribano para que Indra instalase fábricas militares en Cataluña",
+   "x": 14.5,
+   "y": 74.897,
+   "w": 46.429,
+   "h": 2.51
+  },
+  {
+   "n": 10,
+   "title": "Euforia en el PP: «Sánchez ya solo puede agarrarse a una tabla y aguantar el naufragio»",
+   "x": 14.5,
+   "y": 14.179,
+   "w": 22.286,
+   "h": 7.972
+  },
+  {
+   "n": 11,
+   "title": "De las pensiones a la vivienda: las 19 mentiras del cara a cara",
+   "x": 63.286,
+   "y": 14.179,
+   "w": 22.286,
+   "h": 7.972
+  },
+  {
+   "n": 17,
+   "title": "La economía española pierde cada día 46 millones de euros por la burocracia fiscal",
+   "x": 14.5,
+   "y": 78.51,
+   "w": 22.286,
+   "h": 7.972
+  },
+  {
+   "n": 19,
+   "title": "Cuatro capitales con zonas declaradas tensionadas, entre las 10 con menos alquiler",
+   "x": 63.286,
+   "y": 78.51,
+   "w": 22.286,
+   "h": 7.972
+  },
+  {
+   "n": 18,
+   "title": "La factura del sanchismo: 12.000 euros más por cabeza en impuestos y deuda pública",
+   "x": 38.857,
+   "y": 78.51,
+   "w": 22.286,
+   "h": 7.972
+  },
+  {
+   "n": 12,
+   "title": "El Gobierno aparta a la Policía del proceso para retornar a los menores de Ceuta a Marruecos",
+   "x": 39.286,
+   "y": 23.255,
+   "w": 22.714,
+   "h": 9.048
+  },
+  {
+   "n": 13,
+   "title": "Los menores marroquíes delinquen más que los españoles; los chinos, la mitad",
+   "x": 14.5,
+   "y": 33.131,
+   "w": 22.714,
+   "h": 9.103
+  },
+  {
+   "n": 20,
+   "title": "Un militar marroquí vendió flotadores a una inmigrante y «sus amigas» para el asalto",
+   "x": 14.5,
+   "y": 87.586,
+   "w": 22.714,
+   "h": 9.103
+  },
+  {
+   "n": 9,
+   "title": "Desconcierto en el PSOE por el tono de Sánchez en el debate: «Le faltó pegada»",
+   "x": 14.5,
+   "y": 9.655,
+   "w": 71.071,
+   "h": 3.697
+  }
+ ]
+}

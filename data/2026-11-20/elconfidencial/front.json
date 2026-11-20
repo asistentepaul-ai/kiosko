@@ -1,0 +1,80 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1624,
+ "bytes": 90408,
+ "hotspots": [
+  {
+   "n": 8,
+   "title": "Sánchez, pistolero sin pistola",
+   "x": 64.857,
+   "y": 44.828,
+   "w": 26.286,
+   "h": 5.296
+  },
+  {
+   "n": 11,
+   "title": "Sánchez se ahoga en un encorsetado papel moderado: \"Fue una decisión suya\"",
+   "x": 8.857,
+   "y": 84.544,
+   "w": 19.286,
+   "h": 8.067
+  },
+  {
+   "n": 12,
+   "title": "\"Sigue así, estás mejor que en 2023\": Feijóo, la Virgen de Ceuta y la euforia en el PP",
+   "x": 29.857,
+   "y": 84.544,
+   "w": 19.286,
+   "h": 8.067
+  },
+  {
+   "n": 13,
+   "title": "De Redondo a Gonzalo Miró: vuelvan a 'congelar' a Campo Vidal hasta dentro de 4 años",
+   "x": 50.857,
+   "y": 84.544,
+   "w": 19.286,
+   "h": 8.067
+  },
+  {
+   "n": 14,
+   "title": "\"Menos Trump y más trenes\" y \"aproveche y pida perdón\": los 10 mejores momentos",
+   "x": 71.857,
+   "y": 84.544,
+   "w": 19.286,
+   "h": 8.067
+  },
+  {
+   "n": 9,
+   "title": "No fue un debate, fue una masacre",
+   "x": 64.857,
+   "y": 52.155,
+   "w": 26.286,
+   "h": 6.589
+  },
+  {
+   "n": 10,
+   "title": "El cara a cara se ganó a los puños, no con propuestas",
+   "x": 64.857,
+   "y": 60.776,
+   "w": 26.286,
+   "h": 6.589
+  },
+  {
+   "n": 1,
+   "title": "Debate Feijóo Sánchez",
+   "x": 8.857,
+   "y": 35.653,
+   "w": 82.286,
+   "h": 6.897
+  },
+  {
+   "n": 7,
+   "title": "Feijóo apabulla con gestión, Ceuta y corrupción a un Sánchez sonado e incapaz de reaccionar en el debate",
+   "x": 8.857,
+   "y": 72.167,
+   "w": 54.286,
+   "h": 10.961
+  }
+ ]
+}
