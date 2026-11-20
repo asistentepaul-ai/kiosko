@@ -148,7 +148,7 @@
    "thumb": "",
    "pdf": "elconfidencial/02-supervivientes-ganador.pdf",
    "ok": true,
-   "bytes": 146668,
+   "bytes": 145947,
    "author": "Alvaro Roldán",
    "date": "2026-11-13T01:56:00+01:00",
    "imgs": 2,
@@ -244,7 +244,7 @@
    "thumb": "",
    "pdf": "elconfidencial/08-felix-bolanos-evita-pronunciarse-sobre-la-acusacion-de-dar-consignas-d.pdf",
    "ok": true,
-   "bytes": 157238,
+   "bytes": 156271,
    "author": "Ana Sánchez",
    "date": "2026-11-14T05:00:00+01:00",
    "imgs": 3,
@@ -276,11 +276,11 @@
    "thumb": "",
    "pdf": "elconfidencial/10-inda-broncano-y-abascal-a-la-plancha-por-que-la-television-ha-cambiado.pdf",
    "ok": true,
-   "bytes": 212798,
+   "bytes": 211363,
    "author": "Carlos Prieto",
    "date": "2026-11-14T05:00:00+01:00",
    "imgs": 5,
-   "chars": 10700
+   "chars": 10704
   },
   {
    "n": 11,
@@ -292,7 +292,7 @@
    "thumb": "mini/11.jpg",
    "pdf": "elconfidencial/11-feijoo-se-lanza-a-farmear-aura-en-busca-del-voto-joven-del-anotop-at-a.pdf",
    "ok": true,
-   "bytes": 168835,
+   "bytes": 167484,
    "author": "Ana Belén Ramos",
    "date": "2026-11-14T05:00:00+01:00",
    "imgs": 1,
@@ -340,7 +340,7 @@
    "thumb": "",
    "pdf": "elconfidencial/14-el-verificador-de-jordi-wild-me-prepare-mas-a-pedro-sanchez-porque-ven.pdf",
    "ok": true,
-   "bytes": 120866,
+   "bytes": 120545,
    "author": "Eliona Rakipaj",
    "date": "2026-11-13T17:09:00+01:00",
    "imgs": 2,
@@ -372,7 +372,7 @@
    "thumb": "",
    "pdf": "elconfidencial/16-el-evangelismo-en-espana-me-sorprenderia-que-parte-de-lo-que-pasa-en-e.pdf",
    "ok": true,
-   "bytes": 202780,
+   "bytes": 202805,
    "author": "Ramón González Férriz",
    "date": "2026-11-14T05:00:00+01:00",
    "imgs": 6,
@@ -436,11 +436,11 @@
    "thumb": "mini/20.jpg",
    "pdf": "elconfidencial/20-la-vendetta-del-psc-y-moncloa-a-los-puente-boys-en-renfe-y-adif.pdf",
    "ok": true,
-   "bytes": 180291,
+   "bytes": 179917,
    "author": "Alberto Sanz",
    "date": "2026-11-14T05:00:00+01:00",
    "imgs": 4,
-   "chars": 8857
+   "chars": 8973
   }
  ]
 }

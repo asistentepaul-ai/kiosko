@@ -164,11 +164,11 @@
    "thumb": "mini/01.jpg",
    "pdf": "elmundo/01-elecciones-generales.pdf",
    "ok": true,
-   "bytes": 254345,
-   "author": "Carlos Garcés y Alejandro Bonilla",
-   "date": "2026-11-17T06:30:51Z",
-   "imgs": 0,
-   "chars": 41859
+   "bytes": 252005,
+   "author": "Ana Carrasco",
+   "date": "2026-11-20T06:33:27Z",
+   "imgs": 1,
+   "chars": 41038
   },
   {
    "n": 2,
@@ -180,11 +180,11 @@
    "thumb": "",
    "pdf": "elmundo/02-un-dia-de-campana-con-feijoo-tras-las-agresiones-a-cargos-del-pp-en-el.pdf",
    "ok": true,
-   "bytes": 539291,
+   "bytes": 448181,
    "author": "Juanma Lamet",
    "date": "2026-11-17T21:53:49Z",
-   "imgs": 3,
-   "chars": 12259
+   "imgs": 2,
+   "chars": 12257
   },
   {
    "n": 3,
@@ -196,11 +196,11 @@
    "thumb": "",
    "pdf": "elmundo/03-el-pp-apoya-deportar-inmigrantes-a-paises-como-ruanda-en-aplicacion-de.pdf",
    "ok": true,
-   "bytes": 119474,
+   "bytes": 116431,
    "author": "Paloma H. Matellano y Juanma Lamet",
    "date": "2026-11-18T00:53:10Z",
    "imgs": 1,
-   "chars": 4169
+   "chars": 3624
   },
   {
    "n": 4,
@@ -228,7 +228,7 @@
    "thumb": "mini/05.jpg",
    "pdf": "elmundo/05-la-derecha-espanola-busca-al-votante-huerfano-de-orriols-en-ripoll-pp-.pdf",
    "ok": true,
-   "bytes": 385488,
+   "bytes": 384650,
    "author": "Víctor Mondelo",
    "date": "2026-11-17T21:51:03Z",
    "imgs": 3,
@@ -292,11 +292,11 @@
    "thumb": "mini/09.jpg",
    "pdf": "elmundo/09-con-la-unidad-de-elite-que-ataca-las-refinerias-rusas-cuando-las-vemos.pdf",
    "ok": true,
-   "bytes": 239490,
+   "bytes": 240832,
    "author": "Javier Espinosa",
    "date": "2026-11-17T21:50:33Z",
    "imgs": 2,
-   "chars": 10190
+   "chars": 10795
   },
   {
    "n": 10,
@@ -308,7 +308,7 @@
    "thumb": "mini/10.jpg",
    "pdf": "elmundo/10-conflicto-belico-magyar-brovdi-el-hombre-que-cambio-la-forma-de-hacer-.pdf",
    "ok": true,
-   "bytes": 240800,
+   "bytes": 239595,
    "author": "Javier Espinosa",
    "date": "2026-11-15T21:04:48Z",
    "imgs": 2,
@@ -324,7 +324,7 @@
    "thumb": "mini/11.jpg",
    "pdf": "elmundo/11-el-comisario-de-economia-de-la-ue-pide-al-proximo-gobierno-unos-presup.pdf",
    "ok": true,
-   "bytes": 127616,
+   "bytes": 127473,
    "author": "Daniel Viaña",
    "date": "2026-11-18T00:53:10Z",
    "imgs": 1,
@@ -340,11 +340,11 @@
    "thumb": "",
    "pdf": "elmundo/12-los-guinos-electorales-de-sanchez-a-15-millones-de-votantes-endosaran-.pdf",
    "ok": true,
-   "bytes": 117781,
+   "bytes": 115743,
    "author": "Daniela Saltos",
    "date": "2026-11-17T21:50:15Z",
    "imgs": 0,
-   "chars": 4914
+   "chars": 4324
   },
   {
    "n": 13,
@@ -356,7 +356,7 @@
    "thumb": "",
    "pdf": "elmundo/13-revolucion-judicial-en-el-programa-del-pp-para-rectificar-los-excesos-.pdf",
    "ok": true,
-   "bytes": 112305,
+   "bytes": 111679,
    "author": "Ángela Martialay",
    "date": "2026-11-18T00:53:11Z",
    "imgs": 0,
@@ -372,7 +372,7 @@
    "thumb": "",
    "pdf": "elmundo/14-el-conflicto-ferroviario-se-enquista-pese-a-los-movimientos-de-cuerpo-.pdf",
    "ok": true,
-   "bytes": 114807,
+   "bytes": 114258,
    "author": "Gabriela Galarza",
    "date": "2026-11-18T00:53:12Z",
    "imgs": 0,
@@ -388,7 +388,7 @@
    "thumb": "mini/15.jpg",
    "pdf": "elmundo/15-el-pp-propone-una-ley-beckham-para-profesionales-tecnologicos-y-un-che.pdf",
    "ok": true,
-   "bytes": 121378,
+   "bytes": 119702,
    "author": "José M. Rodríguez Silva",
    "date": "2026-11-17T21:49:40Z",
    "imgs": 1,
@@ -420,11 +420,11 @@
    "thumb": "mini/17.jpg",
    "pdf": "elmundo/17-el-mejor-colegio-de-reino-unido-aterriza-en-madrid-con-una-educacion-t.pdf",
    "ok": true,
-   "bytes": 593569,
+   "bytes": 591272,
    "author": "Olga R. Sanmartín",
    "date": "2026-11-17T21:48:42Z",
    "imgs": 4,
-   "chars": 8205
+   "chars": 7600
   },
   {
    "n": 18,
@@ -468,7 +468,7 @@
    "thumb": "mini/20.jpg",
    "pdf": "elmundo/20-jodar-y-el-misterio-de-su-equipo-el-ano-proximo-no-hay-nada-cerrado.pdf",
    "ok": true,
-   "bytes": 166110,
+   "bytes": 165925,
    "author": "Javier Sánchez",
    "date": "2026-11-17T22:41:53Z",
    "imgs": 1,

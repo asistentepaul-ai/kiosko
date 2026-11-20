@@ -148,11 +148,11 @@
    "thumb": "",
    "pdf": "elmundo/01-sindicato-de-inquilinas.pdf",
    "ok": true,
-   "bytes": 117239,
+   "bytes": 114285,
    "author": "Raúl Piña",
    "date": "2026-11-11T21:56:12Z",
    "imgs": 0,
-   "chars": 4756
+   "chars": 3980
   },
   {
    "n": 2,
@@ -196,10 +196,10 @@
    "thumb": "",
    "pdf": "elmundo/04-carlos-bertin-osborne.pdf",
    "ok": true,
-   "bytes": 112493,
+   "bytes": 169685,
    "author": "Borja Ruiz",
    "date": "2026-11-11T18:12:30Z",
-   "imgs": 0,
+   "imgs": 1,
    "chars": 3198
   },
   {
@@ -212,7 +212,7 @@
    "thumb": "",
    "pdf": "elmundo/05-acuerdo-rusia-ucrania.pdf",
    "ok": true,
-   "bytes": 111639,
+   "bytes": 110922,
    "author": "Lara Villalón",
    "date": "2026-11-11T16:58:34Z",
    "imgs": 0,
@@ -228,10 +228,10 @@
    "thumb": "",
    "pdf": "elmundo/06-la-preocupacion-de-los-jovenes-que-desborda-las-calles-la-izquierda-no.pdf",
    "ok": true,
-   "bytes": 475589,
+   "bytes": 426502,
    "author": "María Santamaría",
    "date": "2026-11-11T21:55:54Z",
-   "imgs": 7,
+   "imgs": 6,
    "chars": 4048
   },
   {
@@ -272,7 +272,7 @@
    "thumb": "",
    "pdf": "elmundo/09-alberto-nadal-responsable-economico-del-pp-los-trabajadores-con-hijos-.pdf",
    "ok": true,
-   "bytes": 205063,
+   "bytes": 204432,
    "author": "Carlos Segovia",
    "date": "2026-11-11T21:55:46Z",
    "imgs": 2,
@@ -304,7 +304,7 @@
    "thumb": "mini/11.jpg",
    "pdf": "elmundo/11-la-clave-de-la-mochila-letal-del-ruso-en-oviedo-la-dejo-sobre-los-buzo.pdf",
    "ok": true,
-   "bytes": 114952,
+   "bytes": 113817,
    "author": "Quico Alsedo",
    "date": "2026-11-11T21:55:22Z",
    "imgs": 0,
@@ -320,7 +320,7 @@
    "thumb": "mini/12.jpg",
    "pdf": "elmundo/12-duelo-oviedo-despide-al-subinspector-jota-y-a-su-perro-deny-muertos-en.pdf",
    "ok": true,
-   "bytes": 180721,
+   "bytes": 180342,
    "author": "Juan B. Cañellas",
    "date": "2026-11-11T13:51:09Z",
    "imgs": 1,
@@ -336,7 +336,7 @@
    "thumb": "mini/13.jpg",
    "pdf": "elmundo/13-entre-falsas-alarmas-una-huelga-general-y-el-duelo-por-jota-la-jornada.pdf",
    "ok": true,
-   "bytes": 211928,
+   "bytes": 211366,
    "author": "Juan B. Cañellas",
    "date": "2026-11-12T00:00:21Z",
    "imgs": 1,
@@ -384,7 +384,7 @@
    "thumb": "",
    "pdf": "elmundo/16-el-calvario-de-los-familiares-de-las-victimas-de-komyshuavakha-para-re.pdf",
    "ok": true,
-   "bytes": 127080,
+   "bytes": 126764,
    "author": "Javier Espinosa",
    "date": "2026-11-11T21:55:14Z",
    "imgs": 0,
@@ -416,11 +416,11 @@
    "thumb": "mini/18.jpg",
    "pdf": "elmundo/18-la-lucha-de-carmen-para-salvar-a-su-hija-de-la-enfermedad-que-mato-a-s.pdf",
    "ok": true,
-   "bytes": 124485,
-   "author": "Cristina G. Lucio",
+   "bytes": 128633,
+   "author": "Cristina G. Lucio y Victòria Rovira (Araba Press)",
    "date": "2026-11-11T21:55:05Z",
    "imgs": 0,
-   "chars": 9465
+   "chars": 9879
   },
   {
    "n": 19,
@@ -448,10 +448,10 @@
    "thumb": "",
    "pdf": "elmundo/20-nico-williams-el-problema-de-la-vivienda-me-toca-muy-de-cerca-mis-padr.pdf",
    "ok": true,
-   "bytes": 145950,
+   "bytes": 558594,
    "author": "Eduardo J. Castelao",
    "date": "2026-11-11T20:44:21Z",
-   "imgs": 1,
+   "imgs": 5,
    "chars": 11479
   }
  ]

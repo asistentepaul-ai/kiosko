@@ -212,7 +212,7 @@
    "thumb": "",
    "pdf": "elmundo/04-sanchez-busca-ahora-el-voto-de-centro-tras-dejar-a-sus-socios-en-los-h.pdf",
    "ok": true,
-   "bytes": 118419,
+   "bytes": 118230,
    "author": "Raúl Piña y Marta Belver",
    "date": "2026-11-14T21:33:51Z",
    "imgs": 0,
@@ -228,7 +228,7 @@
    "thumb": "",
    "pdf": "elmundo/05-frente-amplio-sobrevivir-para-empezar-a-reconstruir.pdf",
    "ok": true,
-   "bytes": 119333,
+   "bytes": 118533,
    "author": "Lucía Méndez",
    "date": "2026-11-14T23:00:02Z",
    "imgs": 1,
@@ -260,10 +260,10 @@
    "thumb": "mini/07.jpg",
    "pdf": "elmundo/07-por-que-estos-12-fieles-votantes-de-pedro-sanchez-le-daran-la-espalda-.pdf",
    "ok": true,
-   "bytes": 150603,
+   "bytes": 894501,
    "author": "Gonzalo Suárez",
    "date": "2026-11-15T00:10:47Z",
-   "imgs": 1,
+   "imgs": 10,
    "chars": 13134
   },
   {
@@ -276,7 +276,7 @@
    "thumb": "mini/08.jpg",
    "pdf": "elmundo/08-alma-ezcurra-espana-necesita-un-pp-fuerte-para-que-el-pais-vuelva-a-fu.pdf",
    "ok": true,
-   "bytes": 133046,
+   "bytes": 132564,
    "author": "Leyre Iglesias",
    "date": "2026-11-15T00:10:48Z",
    "imgs": 0,
@@ -292,11 +292,11 @@
    "thumb": "",
    "pdf": "elmundo/09-nogueras-admite-que-estas-elecciones-van-de-impedir-la-coalicion-entre.pdf",
    "ok": true,
-   "bytes": 114180,
+   "bytes": 111676,
    "author": "Cristina Rubio",
    "date": "2026-11-14T12:55:37Z",
    "imgs": 0,
-   "chars": 2862
+   "chars": 2352
   },
   {
    "n": 10,
@@ -308,7 +308,7 @@
    "thumb": "mini/10.jpg",
    "pdf": "elmundo/10-federico-linares-ey-las-ganancias-de-la-ia-deben-redistribuirse-de-for.pdf",
    "ok": true,
-   "bytes": 443321,
+   "bytes": 443020,
    "author": "Francisco Pascual y Alberto di Lolli",
    "date": "2026-11-14T21:25:47Z",
    "imgs": 3,
@@ -340,11 +340,11 @@
    "thumb": "",
    "pdf": "elmundo/12-la-guerra-invisible-contra-occidente.pdf",
    "ok": true,
-   "bytes": 113014,
+   "bytes": 110236,
    "author": "Silvia Román",
    "date": "2026-11-15T00:01:28Z",
    "imgs": 1,
-   "chars": 4880
+   "chars": 4211
   },
   {
    "n": 13,
@@ -356,11 +356,11 @@
    "thumb": "mini/13.jpg",
    "pdf": "elmundo/13-los-ultras-de-nucleo-nacional-isabel-peralta-como-cara-bonita-pero-sin.pdf",
    "ok": true,
-   "bytes": 193966,
+   "bytes": 191462,
    "author": "Quico Alsedo",
    "date": "2026-11-14T21:26:52Z",
    "imgs": 1,
-   "chars": 5566
+   "chars": 5080
   },
   {
    "n": 14,
@@ -420,7 +420,7 @@
    "thumb": "mini/17.jpg",
    "pdf": "elmundo/17-la-larga-sombra-de-lamine-claro-que-no-es-uno-mas.pdf",
    "ok": true,
-   "bytes": 201151,
+   "bytes": 199811,
    "author": "Eduardo J. Castelao",
    "date": "2026-11-14T21:26:41Z",
    "imgs": 2,
@@ -436,7 +436,7 @@
    "thumb": "mini/18.jpg",
    "pdf": "elmundo/18-de-stourbridge-al-metropolitano-el-sueno-de-los-bellingham-estaban-tod.pdf",
    "ok": true,
-   "bytes": 227463,
+   "bytes": 226741,
    "author": "Abraham Romero",
    "date": "2026-11-14T20:49:56Z",
    "imgs": 2,
@@ -468,11 +468,11 @@
    "thumb": "",
    "pdf": "elmundo/20-la-fatiga-y-la-violencia-desinflan-las-protestas-sociales-en-francia.pdf",
    "ok": true,
-   "bytes": 118649,
+   "bytes": 116210,
    "author": "Carlos Fresneda",
    "date": "2026-11-14T12:48:06Z",
    "imgs": 1,
-   "chars": 5214
+   "chars": 4731
   }
  ]
 }

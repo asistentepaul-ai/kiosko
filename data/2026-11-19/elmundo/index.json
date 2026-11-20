@@ -180,11 +180,11 @@
    "thumb": "",
    "pdf": "elmundo/04-gh-vip-9-concursantes.pdf",
    "ok": true,
-   "bytes": 121846,
+   "bytes": 122007,
    "author": "PABLO MATEOS / N.M.",
    "date": "2026-11-18T10:32:48Z",
    "imgs": 0,
-   "chars": 6709
+   "chars": 7300
   },
   {
    "n": 5,
@@ -196,7 +196,7 @@
    "thumb": "",
    "pdf": "elmundo/05-gabriel-garcia-marquez.pdf",
    "ok": true,
-   "bytes": 252634,
+   "bytes": 252140,
    "author": "PABLO MATEOS",
    "date": "2026-11-18T19:53:42Z",
    "imgs": 3,
@@ -228,11 +228,11 @@
    "thumb": "",
    "pdf": "elmundo/07-puigdemont-aproveche-la-ambicion-desmedida-de-sanchez-para-derrotar-a-.pdf",
    "ok": true,
-   "bytes": 495003,
+   "bytes": 494030,
    "author": "Esteban Urreiztieta y Carlos García Pozo (Fotografías)",
    "date": "2026-11-18T21:52:05Z",
    "imgs": 4,
-   "chars": 19569
+   "chars": 19568
   },
   {
    "n": 8,
@@ -260,7 +260,7 @@
    "thumb": "mini/09.jpg",
    "pdf": "elmundo/09-el-psoe-quiso-dejar-fuera-del-debate-el-bloque-de-la-corrupcion-y-el-p.pdf",
    "ok": true,
-   "bytes": 121532,
+   "bytes": 121056,
    "author": "Juanma Lamet",
    "date": "2026-11-19T00:11:17Z",
    "imgs": 0,
@@ -276,7 +276,7 @@
    "thumb": "",
    "pdf": "elmundo/10-el-plan-de-sanchez-para-no-repetir-los-errores-de-2023-tranquilidad-po.pdf",
    "ok": true,
-   "bytes": 112999,
+   "bytes": 111843,
    "author": "Raúl Piña y Marta Belver",
    "date": "2026-11-19T00:11:17Z",
    "imgs": 0,
@@ -340,11 +340,11 @@
    "thumb": "",
    "pdf": "elmundo/14-anthropic-protagoniza-hoy-la-mayor-salida-a-bolsa-de-la-historia-con-e.pdf",
    "ok": true,
-   "bytes": 124530,
+   "bytes": 125391,
    "author": "Laura de la Quintana",
    "date": "2026-11-18T22:02:06Z",
    "imgs": 1,
-   "chars": 5747
+   "chars": 6372
   },
   {
    "n": 15,
@@ -388,7 +388,7 @@
    "thumb": "",
    "pdf": "elmundo/17-la-justicia-tumba-el-desalojo-inmediato-de-dos-okupas-de-una-gasoliner.pdf",
    "ok": true,
-   "bytes": 111025,
+   "bytes": 110391,
    "author": "Paula María",
    "date": "2026-11-19T00:03:42Z",
    "imgs": 0,
@@ -420,10 +420,10 @@
    "thumb": "mini/19.jpg",
    "pdf": "elmundo/19-soy-julio-fuentes-chavales-una-leyenda.pdf",
    "ok": true,
-   "bytes": 307586,
+   "bytes": 738676,
    "author": "Alberto Rojas",
    "date": "2026-11-18T21:39:16Z",
-   "imgs": 2,
+   "imgs": 4,
    "chars": 6560
   },
   {
@@ -436,10 +436,10 @@
    "thumb": "mini/20.jpg",
    "pdf": "elmundo/20-la-ultima-cronica-de-julio-fuentes-el-bunker-quimico-de-al-qaeda.pdf",
    "ok": true,
-   "bytes": 115674,
+   "bytes": 561240,
    "author": "Julio Fuentes",
    "date": "2026-11-18T21:51:11Z",
-   "imgs": 0,
+   "imgs": 2,
    "chars": 4869
   }
  ]
