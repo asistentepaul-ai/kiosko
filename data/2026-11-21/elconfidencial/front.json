@@ -1,0 +1,104 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3789,
+ "bytes": 287220,
+ "hotspots": [
+  {
+   "n": 17,
+   "title": "Sospechas de desvío a China. La Comisión de Valores de EEUU examina la contabilidad de Nvidia en su investigación sobre el fabricante de chips",
+   "x": 8.857,
+   "y": 61.969,
+   "w": 26.286,
+   "h": 2.164
+  },
+  {
+   "n": 11,
+   "title": "Sánchez y Puigdemont: del abrazo a la puñalada",
+   "x": 64.857,
+   "y": 26.683,
+   "w": 26.286,
+   "h": 2.824
+  },
+  {
+   "n": 19,
+   "title": "El misterio de las prisas de Aagesen: un decreto contra reloj, inversores en pie de guerra y Bruselas de fondo",
+   "x": 64.857,
+   "y": 63.869,
+   "w": 26.286,
+   "h": 3.457
+  },
+  {
+   "n": 16,
+   "title": "Grietas en el paraíso de la IA (y no esperen que Anthropic las resuelva): tres claves que movieron el mercado",
+   "x": 8.857,
+   "y": 57.641,
+   "w": 26.286,
+   "h": 3.906
+  },
+  {
+   "n": 13,
+   "title": "El poder de lo cursi. Todos los votos que mueve la campaña del amor de Sánchez",
+   "x": 8.857,
+   "y": 39.984,
+   "w": 26.286,
+   "h": 6.968
+  },
+  {
+   "n": 9,
+   "title": "Guerra de 'spin doctors', el otro cara a cara: Marta Varela y Sanmartín contra Diego Rubio y los hombres de Salazar",
+   "x": 8.857,
+   "y": 25.284,
+   "w": 26.286,
+   "h": 7.601
+  },
+  {
+   "n": 7,
+   "title": "El nombramiento de De Cos al BCE se retrasa por la insistencia del candidato neerlandés y podría forzar la votación",
+   "x": 8.857,
+   "y": 84.693,
+   "w": 19.714,
+   "h": 12.14
+  },
+  {
+   "n": 18,
+   "title": "Este genio del 'marketing' explica a quién no dejaría la IA: \"A los terroristas y a los directores financieros\"",
+   "x": 64.857,
+   "y": 52.652,
+   "w": 26.286,
+   "h": 10.346
+  },
+  {
+   "n": 12,
+   "title": "Santiago Abascal: \"El PP apela al voto útil, pero si algo garantiza la alternativa es el crecimiento de Vox\"",
+   "x": 8.857,
+   "y": 34.996,
+   "w": 54.286,
+   "h": 12.959
+  },
+  {
+   "n": 8,
+   "title": "Alarma policial el 29-N: la oleada de falsos avisos de bomba amenaza con provocar el caos en los colegios electorales",
+   "x": 8.857,
+   "y": 18.95,
+   "w": 54.286,
+   "h": 14.568
+  },
+  {
+   "n": 15,
+   "title": "Los españoles que han hecho caja en la mayor salida a Bolsa de la historia: \"Anthropic vio antes dónde estaba el dinero\"",
+   "x": 8.857,
+   "y": 52.652,
+   "w": 54.286,
+   "h": 14.568
+  },
+  {
+   "n": 20,
+   "title": "\"Dejen de citar leyes ante hombres con espadas\": ¿qué le ha pasado a Marco Rubio?",
+   "x": 8.857,
+   "y": 69.148,
+   "w": 54.286,
+   "h": 14.568
+  }
+ ]
+}

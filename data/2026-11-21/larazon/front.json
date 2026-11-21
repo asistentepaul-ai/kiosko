@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3551,
+ "bytes": 287138,
+ "hotspots": [
+  {
+   "n": 8,
+   "title": "Rabat, ante un Gobierno del PP: «Es hora de recuperar la calma»",
+   "x": 44.5,
+   "y": 26.95,
+   "w": 17,
+   "h": 4.365
+  },
+  {
+   "n": 9,
+   "title": "La batalla electoral se sube al tren en plena semana negra de Cercanías en Madrid",
+   "x": 44.5,
+   "y": 36.807,
+   "w": 17,
+   "h": 4.985
+  },
+  {
+   "n": 18,
+   "title": "EE UU lanzó sobre Irán misiles Tomahawk caducados después de reprogramar su software",
+   "x": 68.714,
+   "y": 68.798,
+   "w": 17,
+   "h": 4.985
+  },
+  {
+   "n": 10,
+   "title": "El Supremo ignora al Gobierno y mantiene sin voto a 162.454 nacionalizados por la \"ley de nietos\"",
+   "x": 14.286,
+   "y": 47.282,
+   "w": 17,
+   "h": 4.985
+  },
+  {
+   "n": 11,
+   "title": "El comandante del \"caso Koldo\" ficha como abogada a Macarena Olona, a dos días de su declaración",
+   "x": 32.429,
+   "y": 47.282,
+   "w": 17,
+   "h": 4.985
+  },
+  {
+   "n": 12,
+   "title": "La compra de drones por Marruecos obliga a España a estudiar nuevas defensas",
+   "x": 50.571,
+   "y": 47.282,
+   "w": 17,
+   "h": 4.985
+  },
+  {
+   "n": 13,
+   "title": "Al galope del debate electoral de Gish",
+   "x": 68.714,
+   "y": 47.282,
+   "w": 17,
+   "h": 4.985
+  },
+  {
+   "n": 15,
+   "title": "Trump admite que reducir el arsenal nuclear es \"sumamente difícil\" pese al acuerdo con Rusia y China",
+   "x": 50.571,
+   "y": 57.73,
+   "w": 17,
+   "h": 5.576
+  },
+  {
+   "n": 16,
+   "title": "La justicia allana el camino de la reelección a Erdogan al bloquear la candidatura del ex alcalde de Estambul",
+   "x": 50.571,
+   "y": 68.798,
+   "w": 17,
+   "h": 5.576
+  },
+  {
+   "n": 17,
+   "title": "Hubertus Heil desafía a Klingbeil y abre la batalla por liderar a los socialdemócratas alemanes",
+   "x": 68.714,
+   "y": 57.73,
+   "w": 17,
+   "h": 5.576
+  },
+  {
+   "n": 19,
+   "title": "El Topo de San Sebastián cambia desde este sábado: tres nuevas estaciones y trenes cada 7,5 minutos",
+   "x": 14.286,
+   "y": 91.045,
+   "w": 17,
+   "h": 5.576
+  },
+  {
+   "n": 20,
+   "title": "San Sebastián dará la bienvenida a la Navidad con un espectáculo de 1.000 drones sobre La Concha",
+   "x": 32.429,
+   "y": 91.045,
+   "w": 17,
+   "h": 5.576
+  },
+  {
+   "n": 7,
+   "title": "El juez bloquea el piso de la novia de Ábalos bajo sospecha de blanqueo",
+   "x": 14.286,
+   "y": 22.613,
+   "w": 29.071,
+   "h": 6.562
+  },
+  {
+   "n": 6,
+   "title": "Feijóo no se conforma con el cara a cara: «Arrasó, pero queremos más»",
+   "x": 14.286,
+   "y": 11.659,
+   "w": 35.714,
+   "h": 7.772
+  },
+  {
+   "n": 14,
+   "title": "El Nasdaq se despeña: cae un 5,3% en un \"viernes negro\" para las tecnológicas por los desplomes de Nvidia (-14%) y Anthropic (-8,5%)",
+   "x": 14.286,
+   "y": 53.393,
+   "w": 35.143,
+   "h": 7.913
+  },
+  {
+   "n": 5,
+   "title": "Moncloa explica el «derrumbe» de Sánchez: no sabe de estrategia electoral",
+   "x": 14.286,
+   "y": 1.155,
+   "w": 71.429,
+   "h": 3.999
+  }
+ ]
+}

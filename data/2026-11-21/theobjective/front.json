@@ -1,0 +1,80 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3233,
+ "bytes": 227574,
+ "hotspots": [
+  {
+   "n": 19,
+   "title": "Del contrato de las pulseras antimaltrato a la violencia política en el País Vasco",
+   "x": 62.357,
+   "y": 82.771,
+   "w": 23.214,
+   "h": 3.341
+  },
+  {
+   "n": 18,
+   "title": "Feijóo arrolla a Sánchez en el debate",
+   "x": 62.357,
+   "y": 74.204,
+   "w": 23.214,
+   "h": 4.145
+  },
+  {
+   "n": 17,
+   "title": "La inmigración irregular se dispara ya un 39,4% sin que el Gobierno cuente la crisis de Ceuta",
+   "x": 14.5,
+   "y": 82.431,
+   "w": 46.429,
+   "h": 2.815
+  },
+  {
+   "n": 20,
+   "title": "Así se elegirá a los nuevos miembros del Constitucional tras las elecciones",
+   "x": 14.5,
+   "y": 87.349,
+   "w": 22.286,
+   "h": 8.939
+  },
+  {
+   "n": 15,
+   "title": "Los votos a Alvise podrían dejar a PP y Vox sin el último escaño en cuatro circunscripciones",
+   "x": 39.286,
+   "y": 27.807,
+   "w": 22.714,
+   "h": 9.125
+  },
+  {
+   "n": 16,
+   "title": "La cara oculta del debate: de la maquilladora personal de Sánchez a la astucia del PP",
+   "x": 14.5,
+   "y": 37.86,
+   "w": 22.714,
+   "h": 9.125
+  },
+  {
+   "n": 13,
+   "title": "Desarticulada la primera célula prorrusa en España: «Querían atentar contra agentes»",
+   "x": 14.5,
+   "y": 17.816,
+   "w": 34.786,
+   "h": 8.753
+  },
+  {
+   "n": 14,
+   "title": "Alarma en el Frente Amplio por la apatía de Sánchez: «Su dejadez nos afecta a todos»",
+   "x": 50.786,
+   "y": 17.816,
+   "w": 34.786,
+   "h": 8.753
+  },
+  {
+   "n": 12,
+   "title": "El Gobierno desafía al Supremo y ordena a los consulados admitir el voto de los ‘nietos’",
+   "x": 14.5,
+   "y": 10.826,
+   "w": 71.071,
+   "h": 6.062
+  }
+ ]
+}
