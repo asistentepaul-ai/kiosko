@@ -1,0 +1,104 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3601,
+ "bytes": 279794,
+ "hotspots": [
+  {
+   "n": 12,
+   "title": "El fin de la burguesía bohemia y la clave de la izquierda que viene",
+   "x": 64.857,
+   "y": 31.741,
+   "w": 26.286,
+   "h": 2.971
+  },
+  {
+   "n": 18,
+   "title": "Del asco profundo que suscita Bildu",
+   "x": 64.857,
+   "y": 63.288,
+   "w": 26.286,
+   "h": 2.971
+  },
+  {
+   "n": 17,
+   "title": "Candidato AliExpress",
+   "x": 64.857,
+   "y": 59.289,
+   "w": 26.286,
+   "h": 3.082
+  },
+  {
+   "n": 20,
+   "title": "Europa 'suspende' en migración: una filtración cuestiona el control de los acuerdos de la Comisión",
+   "x": 8.857,
+   "y": 90.753,
+   "w": 19.714,
+   "h": 4.776
+  },
+  {
+   "n": 10,
+   "title": "Correos admite ahora a la Junta Electoral que enviaba a diario datos esenciales del voto solo al Gobierno",
+   "x": 8.857,
+   "y": 28.27,
+   "w": 26.286,
+   "h": 4.11
+  },
+  {
+   "n": 14,
+   "title": "La guerra por el último escaño en la recta final: Feijóo pelea por 28 diputados, Sánchez por 22 y Abascal por 16",
+   "x": 8.857,
+   "y": 42.072,
+   "w": 26.286,
+   "h": 7.998
+  },
+  {
+   "n": 16,
+   "title": "Cuando Yolanda Díaz iba a ser presidenta del Gobierno",
+   "x": 8.857,
+   "y": 55.401,
+   "w": 19.714,
+   "h": 12.774
+  },
+  {
+   "n": 19,
+   "title": "El 'boomerang' de las sanciones a Rusia: Europa (y EEUU) paga la factura de los superyates de los oligarcas rusos",
+   "x": 8.857,
+   "y": 83.893,
+   "w": 19.714,
+   "h": 12.774
+  },
+  {
+   "n": 8,
+   "title": "Carlos Espí salva al Real Madrid contra el Celta de Vigo y pone en pie al Santiago Bernabéu (2-1)",
+   "x": 8.857,
+   "y": 16.079,
+   "w": 82.286,
+   "h": 3.11
+  },
+  {
+   "n": 11,
+   "title": "Dentro del mitin más pequeño de las elecciones generales. Por qué la España vaciada ha vuelto a no importar a nadie",
+   "x": 64.857,
+   "y": 19.939,
+   "w": 26.286,
+   "h": 10.886
+  },
+  {
+   "n": 13,
+   "title": "Ignacio Varela, experto en elecciones: \"Sánchez ha sido Al Capone estos ocho años y ahora quiere ir de Mandela\"",
+   "x": 8.857,
+   "y": 36.823,
+   "w": 54.286,
+   "h": 13.635
+  },
+  {
+   "n": 9,
+   "title": "Cuatro de cada cinco españoles llegan al 29-N con una pérdida de renta por la política fiscal",
+   "x": 8.857,
+   "y": 19.939,
+   "w": 54.286,
+   "h": 15.329
+  }
+ ]
+}
