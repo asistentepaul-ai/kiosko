@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4861,
+ "bytes": 469564,
+ "hotspots": [
+  {
+   "n": 12,
+   "title": "Así trabajó Hernández de Cos la presidencia del BCE con Sánchez y Feijóo: \"No hay que decir nada aún\"",
+   "x": 53.357,
+   "y": 94.569,
+   "w": 16.214,
+   "h": 0.987
+  },
+  {
+   "n": 6,
+   "title": "Zapatero, en la sombra de la campaña de Sánchez y la inspiración de 2008: \"Es un activo\", \"aconseja\" y \"ayuda\"",
+   "x": 53.357,
+   "y": 92.594,
+   "w": 16.214,
+   "h": 1.317
+  },
+  {
+   "n": 13,
+   "title": "La batalla soterrada detrás de las papeletas del Senado: el control del Tribunal Constitucional",
+   "x": 53.357,
+   "y": 96.215,
+   "w": 16.214,
+   "h": 1.317
+  },
+  {
+   "n": 7,
+   "title": "El oscuro deseo de Pedro Sánchez",
+   "x": 73.357,
+   "y": 8.908,
+   "w": 19.5,
+   "h": 1.275
+  },
+  {
+   "n": 4,
+   "title": "Cinco datos y una razón contra la profecía de la remontada de Sánchez",
+   "x": 7.143,
+   "y": 14.153,
+   "w": 19.5,
+   "h": 1.707
+  },
+  {
+   "n": 20,
+   "title": "¿Cómo pueden influir las urnas en el deporte? Las guerras de Tebas, los apetitos de Vox y la final del Mundial",
+   "x": 46.857,
+   "y": 52.499,
+   "w": 19.5,
+   "h": 2.098
+  },
+  {
+   "n": 3,
+   "title": "Batalla al límite en 23 provincias: menos de 10.000 votos decidirán el último escaño, pero PP y Vox amarran su mayoría",
+   "x": 7.143,
+   "y": 11.294,
+   "w": 19.5,
+   "h": 2.119
+  },
+  {
+   "n": 19,
+   "title": "El Atlético sigue la estela de la cabeza con una victoria fácil en Getafe",
+   "x": 7.143,
+   "y": 61.942,
+   "w": 37.143,
+   "h": 1.81
+  },
+  {
+   "n": 2,
+   "title": "Los jefes políticos de la Guardia Civil boicotearon y recortaron el informe sobre la entrada masiva en Ceuta",
+   "x": 7.143,
+   "y": 6.048,
+   "w": 19.5,
+   "h": 3.641
+  },
+  {
+   "n": 5,
+   "title": "La España del empleo barato, ante la nueva ola tecnológica: \"La IA no aumenta los salarios por sí sola\"",
+   "x": 29.214,
+   "y": 14.153,
+   "w": 41.571,
+   "h": 1.934
+  },
+  {
+   "n": 9,
+   "title": "Finlandia, el país del servicio militar obligatorio, la sombra eterna de Rusia y búnkeres \"amables\" para los niños: \"Sólo en Helsinki hay 5.500 refugios\"",
+   "x": 7.143,
+   "y": 25.735,
+   "w": 37.143,
+   "h": 2.407
+  },
+  {
+   "n": 18,
+   "title": "Nativel Preciado: \"El gran secreto de la Transición es que no la hicieron los políticos. Fue el pueblo español quien les forzó a hacerla\"",
+   "x": 7.143,
+   "y": 58.774,
+   "w": 37.143,
+   "h": 2.427
+  },
+  {
+   "n": 10,
+   "title": "Moncloa tomó el control directo del rescate de Air Europa cuando Hidalgo estaba \"muy jodido\"",
+   "x": 7.143,
+   "y": 28.883,
+   "w": 37.143,
+   "h": 2.654
+  },
+  {
+   "n": 17,
+   "title": "De la máquina de Turing a la pizarra de Broncano: 167 años de locura tras el enigma matemático del millón dólares",
+   "x": 73.357,
+   "y": 43.016,
+   "w": 19.5,
+   "h": 6.007
+  },
+  {
+   "n": 8,
+   "title": "Juan Bravo: \"Con las reformas económicas del PP, el salario medio se colocará en 50.000 euros en ocho años\"",
+   "x": 73.357,
+   "y": 10.924,
+   "w": 19.5,
+   "h": 6.028
+  },
+  {
+   "n": 14,
+   "title": "Luis Garicano: \"España ha tomado muchas decisiones como si fuera un país rico. Y tiene que empezar a asumir que se está convirtiendo en un país pobre\"",
+   "x": 46.857,
+   "y": 26.558,
+   "w": 19.5,
+   "h": 6.439
+  },
+  {
+   "n": 16,
+   "title": "Alcaraz, de las \"dificultades\" a cantar Wonderwall en plena final y confirmarse para la Davis: \"Intentaré ayudar al equipo\"",
+   "x": 7.143,
+   "y": 43.016,
+   "w": 19.5,
+   "h": 7.982
+  },
+  {
+   "n": 15,
+   "title": "WorkCafé cumple diez años reinventando el concepto de oficina bancaria",
+   "x": 7.143,
+   "y": 34.417,
+   "w": 85.714,
+   "h": 4.588
+  }
+ ]
+}
