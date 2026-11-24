@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3351,
+ "bytes": 295552,
+ "hotspots": [
+  {
+   "n": 13,
+   "title": "Las tecnológicas se disparan en bolsa tras el regreso de Jensen Huang como CEO de Nvidia con el Nasdaq creciendo un 7%",
+   "x": 14.286,
+   "y": 67.711,
+   "w": 35.143,
+   "h": 1.373
+  },
+  {
+   "n": 6,
+   "title": "Aldama acompañó en viaje oficial a la ex directora de la Guardia Civil Gámez",
+   "x": 44.5,
+   "y": 17.368,
+   "w": 17,
+   "h": 4.088
+  },
+  {
+   "n": 7,
+   "title": "El 29J se planteó ya al Puerto de Ceuta acoger a migrantes en un centro",
+   "x": 44.5,
+   "y": 27.842,
+   "w": 17,
+   "h": 4.088
+  },
+  {
+   "n": 17,
+   "title": "Merz admite el error de no facilitar la entrada de Ucrania en la OTAN en 2008",
+   "x": 68.714,
+   "y": 53.984,
+   "w": 17,
+   "h": 5.282
+  },
+  {
+   "n": 18,
+   "title": "Rusia podría poner en órbita un arma nuclear en diciembre, según el Mando Espacial alemán",
+   "x": 68.714,
+   "y": 65.055,
+   "w": 17,
+   "h": 5.282
+  },
+  {
+   "n": 8,
+   "title": "Trabajo investiga seis denuncias por acoso contra un alto cargo de UGT",
+   "x": 14.286,
+   "y": 42.883,
+   "w": 17,
+   "h": 5.282
+  },
+  {
+   "n": 9,
+   "title": "El déficit de vivienda asequible se agrava y alcanza los 2,63 millones de unidades, 200.000 más que hace dos años",
+   "x": 32.429,
+   "y": 42.883,
+   "w": 17,
+   "h": 5.282
+  },
+  {
+   "n": 10,
+   "title": "La semana del run run",
+   "x": 50.571,
+   "y": 42.883,
+   "w": 17,
+   "h": 5.282
+  },
+  {
+   "n": 11,
+   "title": "De la berenjena al kiwi",
+   "x": 68.714,
+   "y": 42.883,
+   "w": 17,
+   "h": 5.282
+  },
+  {
+   "n": 15,
+   "title": "Cerca de 500.000 soldados rusos murieron en casi cinco años de guerra, según medios independientes del país",
+   "x": 50.571,
+   "y": 53.984,
+   "w": 17,
+   "h": 5.909
+  },
+  {
+   "n": 16,
+   "title": "La Fiscalía de Paraguay ordena detener al hermano del expresidente Santiago Peña por el escándalo de Ueno bank",
+   "x": 50.571,
+   "y": 65.682,
+   "w": 17,
+   "h": 5.909
+  },
+  {
+   "n": 19,
+   "title": "Precio de la luz hoy, martes 24 de noviembre, por horas: el megavatio vuelve a subir y esta vez el mínimo del día es preocupante (175,46 euros/MWh)",
+   "x": 14.286,
+   "y": 89.257,
+   "w": 17,
+   "h": 7.162
+  },
+  {
+   "n": 20,
+   "title": "Por qué no soplar en un control de alcoholemia puede costarte hasta un año de cárcel, según el abogado Luis Romero",
+   "x": 32.429,
+   "y": 89.257,
+   "w": 17,
+   "h": 7.162
+  },
+  {
+   "n": 12,
+   "title": "Trump logra el regreso de Jensen Huang a Nvidia tras el escándalo de espionaje chino",
+   "x": 14.286,
+   "y": 58.281,
+   "w": 35.143,
+   "h": 3.969
+  },
+  {
+   "n": 4,
+   "title": "Alberto Núñez Feijóo: «No podría dormir tranquilo si me doy cuenta de que he sido un cobarde»",
+   "x": 14.286,
+   "y": 3.76,
+   "w": 35.714,
+   "h": 8.236
+  },
+  {
+   "n": 5,
+   "title": "Santos Cerdán accedió a causas secretas contras el independentismo catalán",
+   "x": 14.286,
+   "y": 24.828,
+   "w": 29.071,
+   "h": 12.235
+  }
+ ]
+}

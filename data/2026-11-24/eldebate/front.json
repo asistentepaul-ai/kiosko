@@ -1,0 +1,152 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3130,
+ "bytes": 248820,
+ "hotspots": [
+  {
+   "n": 12,
+   "title": "El rifirrafe entre Matute y Ester Muñoz por ETA y los cachorros de Bildu",
+   "x": 16.429,
+   "y": 53.195,
+   "w": 15.714,
+   "h": 4.505
+  },
+  {
+   "n": 14,
+   "title": "La tensión entre Nogueras y Rufián hablando catalán en el debate de TVE",
+   "x": 50.714,
+   "y": 53.195,
+   "w": 15.714,
+   "h": 4.505
+  },
+  {
+   "n": 17,
+   "title": "¿Qué es y cómo funciona el Senado en España?",
+   "x": 16.429,
+   "y": 79.808,
+   "w": 21.643,
+   "h": 3.387
+  },
+  {
+   "n": 15,
+   "title": "«¿Cómo no va haber partido? Si Sánchez tiene el CIS, el BOE y la tele»",
+   "x": 67.857,
+   "y": 53.195,
+   "w": 15.714,
+   "h": 5.335
+  },
+  {
+   "n": 18,
+   "title": "Crecen las dudas sobre el voto CERA en la comisión de la ley de nietos: «Los problemas del censo son conocidos»",
+   "x": 39.143,
+   "y": 79.808,
+   "w": 21.643,
+   "h": 4.185
+  },
+  {
+   "n": 13,
+   "title": "Rufián defiende a Patxi López porque «portó féretros de compañeros» y López le responde: «No me defiendas»",
+   "x": 33.571,
+   "y": 53.195,
+   "w": 15.714,
+   "h": 6.134
+  },
+  {
+   "n": 2,
+   "title": "Las izquierdas ensayan su oposición feroz a un Gobierno del PP y Vox en un debate a trompicones",
+   "x": 39.286,
+   "y": 25.815,
+   "w": 44.286,
+   "h": 2.236
+  },
+  {
+   "n": 4,
+   "title": "Ester Muñoz retrata a la izquierda por su discurso feminista: «Los cuatro son hombres y uno ni es portavoz de su partido»",
+   "x": 39.286,
+   "y": 31.725,
+   "w": 21.643,
+   "h": 6.613
+  },
+  {
+   "n": 5,
+   "title": "Millán, a Bildu: «Representa a una organización cuya política de vivienda era volar las casas cuartel de la Guardia Civil»",
+   "x": 62,
+   "y": 31.725,
+   "w": 21.643,
+   "h": 6.613
+  },
+  {
+   "n": 16,
+   "title": "Una revisión del CIS resta más de 30 escaños al PSOE y detecta un repunte del PP: «Vuelve a caer en el mismo error»",
+   "x": 16.429,
+   "y": 72.045,
+   "w": 44.286,
+   "h": 3.355
+  },
+  {
+   "n": 10,
+   "title": "Los escaños en juego para cada partido en cada provincia en las elecciones generales",
+   "x": 50.714,
+   "y": 41.31,
+   "w": 15.714,
+   "h": 10.032
+  },
+  {
+   "n": 8,
+   "title": "La tensión Junts-ERC salta en el debate y Rufián le pide a Nogueras que «deje de votar con PP y Vox»",
+   "x": 16.429,
+   "y": 41.31,
+   "w": 15.714,
+   "h": 10.575
+  },
+  {
+   "n": 9,
+   "title": "Fortes no se corta ni en el debate a 8 de TVE: «El Gobierno tiene que sacar pecho con la economía y el empleo»",
+   "x": 33.571,
+   "y": 41.31,
+   "w": 15.714,
+   "h": 10.575
+  },
+  {
+   "n": 11,
+   "title": "El PSOE ningunea a Sumar en el último Consejo de Ministros antes de que el Gobierno entre en funciones",
+   "x": 67.857,
+   "y": 41.31,
+   "w": 15.714,
+   "h": 10.575
+  },
+  {
+   "n": 20,
+   "title": "La trampa de Sánchez al hablar de las «dos casas» que tiene alquiladas en Madrid",
+   "x": 39.286,
+   "y": 85.304,
+   "w": 21.429,
+   "h": 9.904
+  },
+  {
+   "n": 7,
+   "title": "Jordi Wild desmonta a Sánchez tras entrevistarlo: «Sus cambios de opinión son radicales y escandalosos»",
+   "x": 16.429,
+   "y": 29.425,
+   "w": 21.429,
+   "h": 10.575
+  },
+  {
+   "n": 19,
+   "title": "El Gobierno engaña dos veces a la Junta Electoral para meter como sea su DNI digital en las urnas",
+   "x": 16.429,
+   "y": 85.304,
+   "w": 21.429,
+   "h": 10.863
+  },
+  {
+   "n": 6,
+   "title": "Interior retira la escolta permanente que tenía la juez del hermano de Sánchez en pleno auge de tiroteos en las calles de Badajoz",
+   "x": 16.429,
+   "y": 13.578,
+   "w": 21.429,
+   "h": 15.208
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3104,
+ "bytes": 201962,
+ "hotspots": [
+  {
+   "n": 19,
+   "title": "El PP mantiene su ventaja con el PSOE movilizando los resquicios de la izquierda",
+   "x": 14.5,
+   "y": 91.978,
+   "w": 22.286,
+   "h": 4.156
+  },
+  {
+   "n": 11,
+   "title": "El PSOE repunta en la recta final, pero la derecha mantiene al menos 193 escaños",
+   "x": 14.5,
+   "y": 80.831,
+   "w": 46.429,
+   "h": 2.062
+  },
+  {
+   "n": 18,
+   "title": "La extraña confianza de Sánchez en la victoria",
+   "x": 62.357,
+   "y": 78.608,
+   "w": 23.214,
+   "h": 4.317
+  },
+  {
+   "n": 15,
+   "title": "Euforia contenida en el PSOE: «Vamos a ganar las elecciones, pero la izquierda no suma»",
+   "x": 14.5,
+   "y": 26.965,
+   "w": 22.714,
+   "h": 9.407
+  },
+  {
+   "n": 16,
+   "title": "Transparencia exige al Gobierno detallar sus controles durante el fraude del fuel",
+   "x": 14.5,
+   "y": 37.339,
+   "w": 22.714,
+   "h": 9.826
+  },
+  {
+   "n": 17,
+   "title": "Bronca en la tele de Iglesias en México bajo denuncias de supuestos abusos",
+   "x": 39.286,
+   "y": 37.339,
+   "w": 22.714,
+   "h": 9.826
+  },
+  {
+   "n": 20,
+   "title": "El CIS andaluz anticipa el desgaste del PSOE y el avance de Vox en el tablero nacional",
+   "x": 38.857,
+   "y": 86.05,
+   "w": 22.286,
+   "h": 10.084
+  },
+  {
+   "n": 12,
+   "title": "La UCO investiga si Cerdán llevó dinero a Suiza en el avión del PSOE que usa Sánchez",
+   "x": 14.5,
+   "y": 11.276,
+   "w": 71.071,
+   "h": 4.317
+  },
+  {
+   "n": 13,
+   "title": "Denuncian ante el Supremo el «circuito de votación paralela» de las urnas de cartón",
+   "x": 14.5,
+   "y": 16.559,
+   "w": 34.786,
+   "h": 9.117
+  },
+  {
+   "n": 14,
+   "title": "Exteriores se niega a desglosar por países las nacionalizaciones de la ‘ley de nietos’",
+   "x": 50.786,
+   "y": 16.559,
+   "w": 34.786,
+   "h": 9.117
+  }
+ ]
+}

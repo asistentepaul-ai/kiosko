@@ -1,0 +1,144 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1755,
+ "bytes": 202494,
+ "hotspots": [
+  {
+   "n": 1,
+   "title": "Elecciones generales",
+   "x": 16,
+   "y": 7.066,
+   "w": 15.143,
+   "h": 2.792
+  },
+  {
+   "n": 2,
+   "title": "Lo que dicen las últimas encuestas",
+   "x": 33.643,
+   "y": 7.066,
+   "w": 15.143,
+   "h": 2.792
+  },
+  {
+   "n": 4,
+   "title": "El Supremo exige. Cumplir la orden de dejar sin derecho a voto a los 163.355 nacionalizados por la 'ley de nietos'",
+   "x": 7.143,
+   "y": 22.051,
+   "w": 19.5,
+   "h": 2.849
+  },
+  {
+   "n": 10,
+   "title": "Justa electoral con ocho portavoces y una traductora",
+   "x": 73.357,
+   "y": 19.658,
+   "w": 19.5,
+   "h": 3.533
+  },
+  {
+   "n": 12,
+   "title": "Un directivo de la Sepi avisó a Bruselas de una \"triquiñuela\" en el rescate de Air Europa para \"eludir su escrutinio\"",
+   "x": 73.357,
+   "y": 39.202,
+   "w": 19.5,
+   "h": 4.672
+  },
+  {
+   "n": 5,
+   "title": "El 'golpe' del CIS de Tezanos corona ocho años de la politización de las instituciones con Sánchez",
+   "x": 7.143,
+   "y": 27.009,
+   "w": 19.5,
+   "h": 4.729
+  },
+  {
+   "n": 18,
+   "title": "La mancha de García Ortiz degrada las tomas de posesión de fiscales de la máxima categoría a salas secundarias del Supremo",
+   "x": 46.857,
+   "y": 58.462,
+   "w": 19.5,
+   "h": 5.812
+  },
+  {
+   "n": 9,
+   "title": "El PP promete acabar con la burocracia del urbanismo: externalizará servicios para tener \"licencia de obras en tres meses\"",
+   "x": 73.357,
+   "y": 11.738,
+   "w": 19.5,
+   "h": 5.869
+  },
+  {
+   "n": 17,
+   "title": "España gastará en pensiones un 43% más de PIB que la UE en 2050 pese a disparar cotizaciones y sin los ajustes de Alemania o Suecia",
+   "x": 46.857,
+   "y": 49.402,
+   "w": 19.5,
+   "h": 7.009
+  },
+  {
+   "n": 14,
+   "title": "Nvidia. Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan las bolsas disparando el Nasdaq un 7%",
+   "x": 7.143,
+   "y": 75.442,
+   "w": 37.143,
+   "h": 4.217
+  },
+  {
+   "n": 19,
+   "title": "Inma Sanz, la llave de Almeida al Senado para el 29N: \"El pacto con Vox ha sido un acuerdo inteligente y el del PSOE con Bildu, lo más indigno e inmoral en la historia de la democracia\"",
+   "x": 46.857,
+   "y": 66.325,
+   "w": 19.5,
+   "h": 8.148
+  },
+  {
+   "n": 16,
+   "title": "Así es la inmensa fortuna que han amasado Jensen y Lori Huang",
+   "x": 7.143,
+   "y": 81.652,
+   "w": 37.143,
+   "h": 5.014
+  },
+  {
+   "n": 3,
+   "title": "Los 'nietos' votan en urnas de cartón en Argentina y Venezuela con una participación masiva",
+   "x": 7.143,
+   "y": 11.738,
+   "w": 19.5,
+   "h": 9.858
+  },
+  {
+   "n": 6,
+   "title": "Ofensivas de PSOE y PP para ganar voto entre amigos y familiares: \"Si salta el 'cuñao', que salte\"",
+   "x": 7.143,
+   "y": 35.157,
+   "w": 19.5,
+   "h": 10.142
+  },
+  {
+   "n": 13,
+   "title": "Los 11 días en el rincón de pensar de Jensen Huang y la alargada sombra de Trump: \"El sexo vende, colegas\"",
+   "x": 7.143,
+   "y": 69.63,
+   "w": 37.143,
+   "h": 5.356
+  },
+  {
+   "n": 7,
+   "title": "El último episodio de la 'lucha de clases': el nieto de un minero y de un patrón pujan por el escaño clave en Asturias",
+   "x": 29.214,
+   "y": 34.302,
+   "w": 41.571,
+   "h": 5.356
+  },
+  {
+   "n": 20,
+   "title": "Guerras interconectadas y costes al alza: la guerra de Ucrania agita el Mediterráneo",
+   "x": 46.857,
+   "y": 76.524,
+   "w": 19.5,
+   "h": 16.638
+  }
+ ]
+}
