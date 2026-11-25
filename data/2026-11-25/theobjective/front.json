@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4902,
+ "bytes": 382062,
+ "hotspots": [
+  {
+   "n": 15,
+   "title": "TO emitirá un especial ‘Objetivo directo’ con motivo del 29-N",
+   "x": 62.357,
+   "y": 56.752,
+   "w": 23.214,
+   "h": 1.714
+  },
+  {
+   "n": 16,
+   "title": "La desconfianza electoral",
+   "x": 62.357,
+   "y": 58.792,
+   "w": 23.214,
+   "h": 2.122
+  },
+  {
+   "n": 8,
+   "title": "Trabajadores de Hacienda denuncian que el jefe de los fondos UE trabaja desde Londres",
+   "x": 14.5,
+   "y": 23.317,
+   "w": 34.786,
+   "h": 1.652
+  },
+  {
+   "n": 14,
+   "title": "Iglesias entra en campaña para ayudar a Montero ante el miedo a que se quede fuera del Congreso",
+   "x": 14.5,
+   "y": 62.179,
+   "w": 46.429,
+   "h": 1.856
+  },
+  {
+   "n": 6,
+   "title": "Colau y Albiol se enfrentan por la vivienda: de expropiar ‘fondos buitre’ a la okupación",
+   "x": 32.571,
+   "y": 92.003,
+   "w": 16.714,
+   "h": 5.549
+  },
+  {
+   "n": 17,
+   "title": "El PSOE acelera en la recta final: «La clave está en las provincias pequeñas»",
+   "x": 14.5,
+   "y": 64.851,
+   "w": 22.286,
+   "h": 5.896
+  },
+  {
+   "n": 19,
+   "title": "El Gobierno dio el mantenimiento del Falcon a la firma de los jets de Sánchez",
+   "x": 63.286,
+   "y": 64.851,
+   "w": 22.286,
+   "h": 5.896
+  },
+  {
+   "n": 18,
+   "title": "Varias webs oficiales del 29-N carecen de protección para evitar la suplantación",
+   "x": 38.857,
+   "y": 64.851,
+   "w": 22.286,
+   "h": 5.896
+  },
+  {
+   "n": 10,
+   "title": "Interior entrega a Huawei durante 15 años la custodia del historial del DNI electrónico",
+   "x": 14.5,
+   "y": 25.785,
+   "w": 22.714,
+   "h": 5.957
+  },
+  {
+   "n": 11,
+   "title": "Un colaborador de la Guardia Civil alertó de una avalancha en Ceuta 23 días antes del asalto",
+   "x": 39.286,
+   "y": 25.785,
+   "w": 22.714,
+   "h": 5.957
+  },
+  {
+   "n": 20,
+   "title": "Las expectativas ante las elecciones provocan grietas en la Policía y la Guardia Civil",
+   "x": 39.286,
+   "y": 71.563,
+   "w": 22.714,
+   "h": 6.018
+  },
+  {
+   "n": 12,
+   "title": "Figaredo: «Vox siempre ha defendido un sistema público de pensiones»",
+   "x": 14.5,
+   "y": 32.354,
+   "w": 22.714,
+   "h": 6.222
+  },
+  {
+   "n": 13,
+   "title": "El capo ‘ejecutado’ en Madrid introducía toneladas de cocaína en la Península",
+   "x": 39.286,
+   "y": 32.354,
+   "w": 22.714,
+   "h": 6.222
+  },
+  {
+   "n": 9,
+   "title": "Renfe mantiene al frente de una filial a un investigado en un amaño de 38 millones",
+   "x": 50.786,
+   "y": 19.196,
+   "w": 34.786,
+   "h": 5.773
+  },
+  {
+   "n": 7,
+   "title": "Fraude electoral: las pruebas que demuestran cómo se compra el voto por correo en España",
+   "x": 14.5,
+   "y": 15.341,
+   "w": 71.071,
+   "h": 3.244
+  }
+ ]
+}

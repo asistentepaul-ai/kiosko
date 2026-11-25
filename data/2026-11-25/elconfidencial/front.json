@@ -1,0 +1,104 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3275,
+ "bytes": 235096,
+ "hotspots": [
+  {
+   "n": 18,
+   "title": "El blanqueo de capitales mueve al año hasta 100.000 millones de euros en España",
+   "x": 8.857,
+   "y": 82.748,
+   "w": 26.286,
+   "h": 2.626
+  },
+  {
+   "n": 10,
+   "title": "El 60% del voto que el PP arrebata al PSOE es femenino y busca que crezca",
+   "x": 64.857,
+   "y": 32.244,
+   "w": 26.286,
+   "h": 3.267
+  },
+  {
+   "n": 11,
+   "title": "La mitad de ministros ya han pasado por 'TelePedro'... y la derecha lo ignora",
+   "x": 64.857,
+   "y": 36.519,
+   "w": 26.286,
+   "h": 3.267
+  },
+  {
+   "n": 15,
+   "title": "González, Sánchez, Bono y el patriotismo de partido",
+   "x": 64.857,
+   "y": 65.74,
+   "w": 26.286,
+   "h": 3.267
+  },
+  {
+   "n": 8,
+   "title": "El Supremo permite las urnas de cartón para los 'nietos' siempre que sus votos se mantengan y envíen por separado",
+   "x": 64.857,
+   "y": 22.229,
+   "w": 26.286,
+   "h": 4
+  },
+  {
+   "n": 9,
+   "title": "Sánchez volverá a sacar su 'yo moderado' en el debate a cuatro para convencer de que no es un \"dictador ni un psicópata\"",
+   "x": 64.857,
+   "y": 27.237,
+   "w": 26.286,
+   "h": 4
+  },
+  {
+   "n": 17,
+   "title": "El grotesco 'show' de nuestro próximo presidente: de Plex a Keep it Cutre",
+   "x": 64.857,
+   "y": 75.145,
+   "w": 26.286,
+   "h": 4
+  },
+  {
+   "n": 16,
+   "title": "Populismo fiscal y que paguen los ricos",
+   "x": 64.857,
+   "y": 70.015,
+   "w": 26.286,
+   "h": 4.122
+  },
+  {
+   "n": 19,
+   "title": "La paradoja de la economía española: las empresas de hostelería son ya más rentables que las tecnológicas",
+   "x": 8.857,
+   "y": 86.809,
+   "w": 26.286,
+   "h": 9.527
+  },
+  {
+   "n": 6,
+   "title": "2.100 inmigrantes en El Hierro: nuevo récord de rescates en el mar en un solo día en España",
+   "x": 8.857,
+   "y": 17.679,
+   "w": 82.286,
+   "h": 3.42
+  },
+  {
+   "n": 7,
+   "title": "Núñez-Feijóo: \"Si alguna vez pierdo la cabeza y me comporto como Sánchez, que me echen del partido\"",
+   "x": 8.857,
+   "y": 38.198,
+   "w": 54.286,
+   "h": 5.435
+  },
+  {
+   "n": 12,
+   "title": "El plan de la derecha para asaltar (al fin) la 'aldea gala' del Norte: \"Asturias no puede ser un enorme geriátrico\"",
+   "x": 8.857,
+   "y": 45.313,
+   "w": 54.286,
+   "h": 14.992
+  }
+ ]
+}

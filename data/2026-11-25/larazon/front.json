@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3546,
+ "bytes": 296978,
+ "hotspots": [
+  {
+   "n": 11,
+   "title": "El juez pide investigar si Koldo cobró a través de \"terceros\" para evitar pagar la condena del Supremo",
+   "x": 14.286,
+   "y": 41.06,
+   "w": 17,
+   "h": 3.864
+  },
+  {
+   "n": 9,
+   "title": "Aluvión de decretos electorales del Gobierno sin garantía de ejecutarse",
+   "x": 44.5,
+   "y": 25.663,
+   "w": 17,
+   "h": 4.371
+  },
+  {
+   "n": 10,
+   "title": "La batalla definitiva del 29N se centra en Cádiz, Málaga y Sevilla",
+   "x": 44.5,
+   "y": 35.533,
+   "w": 17,
+   "h": 4.371
+  },
+  {
+   "n": 16,
+   "title": "El Papa Francisco: «He visto al diablo y la entrada del infierno»",
+   "x": 50.571,
+   "y": 56.486,
+   "w": 17,
+   "h": 4.371
+  },
+  {
+   "n": 17,
+   "title": "Israel descabeza por segunda vez en tres meses el aparato de Seguridad Interna de Hamás",
+   "x": 50.571,
+   "y": 66.385,
+   "w": 17,
+   "h": 4.992
+  },
+  {
+   "n": 19,
+   "title": "Alemania acelera su rearme con un gasto militar récord y un endeudamiento histórico",
+   "x": 68.714,
+   "y": 67.569,
+   "w": 17,
+   "h": 4.992
+  },
+  {
+   "n": 18,
+   "title": "Dimite el vicepresidente y cofundador del partido de Erdogan al ser implicado su hijo en fraude de fondos",
+   "x": 68.714,
+   "y": 56.486,
+   "w": 17,
+   "h": 5.584
+  },
+  {
+   "n": 12,
+   "title": "Anticorrupción sospecha que fallaron los controles internos del PSOE con los pagos a la cloaca",
+   "x": 32.429,
+   "y": 45.403,
+   "w": 17,
+   "h": 5.584
+  },
+  {
+   "n": 13,
+   "title": "Dos Hércules de Rabat aterrizaron a 35 kilómetros de Melilla en plena crisis fronteriza",
+   "x": 50.571,
+   "y": 45.403,
+   "w": 17,
+   "h": 5.584
+  },
+  {
+   "n": 14,
+   "title": "El cerebro económico de Sánchez reconoce al juez que no se valoró el conflicto por Begoña Gómez en el rescate de Air Europa",
+   "x": 68.714,
+   "y": 45.403,
+   "w": 17,
+   "h": 5.584
+  },
+  {
+   "n": 20,
+   "title": "Una hipoteca de 233 euros que acaba costando 403 al mes: el abogado Miguel Orellana denuncia la oferta que recibió un cliente con seguros y alarma incluidos",
+   "x": 14.286,
+   "y": 89.227,
+   "w": 17,
+   "h": 7.389
+  },
+  {
+   "n": 6,
+   "title": "Feijóo aprieta en siete provincias por un escaño",
+   "x": 14.286,
+   "y": 3.553,
+   "w": 71.429,
+   "h": 1.946
+  },
+  {
+   "n": 7,
+   "title": "Operación del PSOE para anular el «efecto Felipe González» en los indecisos",
+   "x": 14.286,
+   "y": 11.252,
+   "w": 35.714,
+   "h": 7.783
+  },
+  {
+   "n": 15,
+   "title": "De sospechoso de espionaje a salvador de Wall Street: la implosión controlada de Nvidia desata mofa y cálculo en China",
+   "x": 14.286,
+   "y": 52.143,
+   "w": 35.143,
+   "h": 7.924
+  },
+  {
+   "n": 8,
+   "title": "Carlos H. Quero: «No podemos ser el patio trasero de los ricos del mundo que vienen a jugar al Monopoly con nuestras casas»",
+   "x": 14.286,
+   "y": 28.37,
+   "w": 29.071,
+   "h": 11.562
+  }
+ ]
+}
