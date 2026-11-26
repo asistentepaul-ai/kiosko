@@ -1,0 +1,96 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 5200,
+ "bytes": 440930,
+ "hotspots": [
+  {
+   "n": 10,
+   "title": "Directo. Feijóo, Sánchez, Abascal y Colau se miden en el último debate de la campaña",
+   "x": 8.857,
+   "y": 23.365,
+   "w": 26.286,
+   "h": 1.173
+  },
+  {
+   "n": 15,
+   "title": "El TC usa el caso Loaiza para despojar del derecho al honor a las instituciones del Estado",
+   "x": 43.857,
+   "y": 31.538,
+   "w": 19.286,
+   "h": 2.519
+  },
+  {
+   "n": 12,
+   "title": "Feijóo pelea contra la complacencia: \"El cambio está cerca, hay que culminarlo\"",
+   "x": 64.857,
+   "y": 21.712,
+   "w": 26.286,
+   "h": 2.058
+  },
+  {
+   "n": 6,
+   "title": "El Atlético de Madrid allana su supervivencia en la Champions tras una cómoda victoria ante el Viking (2-0)",
+   "x": 8.857,
+   "y": 96.115,
+   "w": 26.286,
+   "h": 2.308
+  },
+  {
+   "n": 20,
+   "title": "Huang y Sánchez: los CEO que no quieren oír hablar de su sucesión",
+   "x": 64.857,
+   "y": 40.25,
+   "w": 26.286,
+   "h": 2.519
+  },
+  {
+   "n": 16,
+   "title": "Puigdemont orquesta su campaña con el único fin de desmovilizar el voto del PSC",
+   "x": 43.857,
+   "y": 34.692,
+   "w": 19.286,
+   "h": 4.231
+  },
+  {
+   "n": 14,
+   "title": "A debate | Gómez ve \"esencial\" la salida de Sánchez y Villacís anticipa el voto \"por rabia\"",
+   "x": 43.857,
+   "y": 25.692,
+   "w": 19.286,
+   "h": 5.212
+  },
+  {
+   "n": 13,
+   "title": "Así se pelea por un escaño clave: \"Aquí las encuestas de Madrid no valen\"",
+   "x": 8.857,
+   "y": 34.962,
+   "w": 33.286,
+   "h": 3.635
+  },
+  {
+   "n": 8,
+   "title": "Sánchez y Colau evitarán chocar para intentar acorralar a Feijóo en el debate",
+   "x": 8.857,
+   "y": 17.981,
+   "w": 26.286,
+   "h": 5.077
+  },
+  {
+   "n": 18,
+   "title": "El suplente de Zapatero (perfil de otro cínico)",
+   "x": 8.857,
+   "y": 40.25,
+   "w": 19.714,
+   "h": 8.846
+  },
+  {
+   "n": 11,
+   "title": "El PSOE se lanza por primera vez a por el voto de españoles de origen marroquí",
+   "x": 64.857,
+   "y": 14,
+   "w": 26.286,
+   "h": 7.077
+  }
+ ]
+}

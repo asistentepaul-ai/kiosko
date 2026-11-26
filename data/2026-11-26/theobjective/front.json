@@ -1,0 +1,72 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2091,
+ "bytes": 142778,
+ "hotspots": [
+  {
+   "n": 16,
+   "title": "El Gobierno termina la legislatura sin revelar cuántos inmigrantes ha regularizado",
+   "x": 39.286,
+   "y": 50.167,
+   "w": 22.714,
+   "h": 5.022
+  },
+  {
+   "n": 18,
+   "title": "La Policía guardará en equipos de Huawei el rastro de 1.500 millones de firmas electrónicas",
+   "x": 39.286,
+   "y": 65.567,
+   "w": 22.714,
+   "h": 5.022
+  },
+  {
+   "n": 15,
+   "title": "La UCO encontró pruebas de la compra de votos en la casa de un candidato del PSOE",
+   "x": 14.5,
+   "y": 41.224,
+   "w": 22.714,
+   "h": 13.965
+  },
+  {
+   "n": 17,
+   "title": "Alma Ezcurra: «Sánchez ha repartido nacionalidades como carnés del PSOE»",
+   "x": 14.5,
+   "y": 56.624,
+   "w": 22.714,
+   "h": 16.26
+  },
+  {
+   "n": 20,
+   "title": "Intxaurrondo se suelta la faja",
+   "x": 14.5,
+   "y": 77.188,
+   "w": 23.714,
+   "h": 17.073
+  },
+  {
+   "n": 13,
+   "title": "La misteriosa firma de las alhajas es de Tufenkjian, una centenaria joyería de Beirut",
+   "x": 14.5,
+   "y": 25.777,
+   "w": 34.786,
+   "h": 13.534
+  },
+  {
+   "n": 14,
+   "title": "El rastro de las joyas de Zapatero señala al novio de Delcy y al entorno de Plus Ultra",
+   "x": 50.786,
+   "y": 25.777,
+   "w": 34.786,
+   "h": 13.534
+  },
+  {
+   "n": 12,
+   "title": "Las joyas de Zapatero se fabricaron en el Líbano y el encargo apunta a Venezuela",
+   "x": 14.5,
+   "y": 16.738,
+   "w": 71.071,
+   "h": 7.604
+  }
+ ]
+}

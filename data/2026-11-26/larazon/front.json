@@ -1,0 +1,16 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1400,
+ "bytes": 66090,
+ "hotspots": [
+  {
+   "n": 2,
+   "title": "Hércules de Marruecos",
+   "x": 64.286,
+   "y": 74.857,
+   "w": 21.429,
+   "h": 8.286
+  }
+ ]
+}
