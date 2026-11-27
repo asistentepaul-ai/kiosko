@@ -1,128 +1,112 @@
 {
  "img": "front.webp",
  "w": 1400,
- "h": 2950,
- "bytes": 245686,
+ "h": 3179,
+ "bytes": 293716,
  "hotspots": [
   {
-   "n": 8,
-   "title": "Lo de anoche fue una partida de parchís, y yo vi cómo se jugó",
+   "n": 14,
+   "title": "Ayuso censura la actitud \"calladita y ofendidita\" de Colau, \"que arruinó Barcelona\"",
+   "x": 14.286,
+   "y": 52.878,
+   "w": 29.071,
+   "h": 1.447
+  },
+  {
+   "n": 6,
+   "title": "Directo Última hora de la retirada de Marc Márquez",
    "x": 50,
-   "y": 22.576,
+   "y": 94.778,
    "w": 35.714,
-   "h": 1.559
-  },
-  {
-   "n": 10,
-   "title": "Santiago Abascal: «Ceuta es la bola de cristal donde vemos el futuro de España si gobiernan»",
-   "x": 44.5,
-   "y": 28.542,
-   "w": 17,
-   "h": 4.644
-  },
-  {
-   "n": 11,
-   "title": "Ada Colau: \"Señor Sánchez, no todos somos iguales. La corrupción cero existe\"",
-   "x": 44.5,
-   "y": 41.831,
-   "w": 17,
-   "h": 4.644
-  },
-  {
-   "n": 18,
-   "title": "Koldo, su hermano y su exmujer, más cerca del banquillo por blanqueo",
-   "x": 68.714,
-   "y": 69.085,
-   "w": 17,
-   "h": 4.644
-  },
-  {
-   "n": 20,
-   "title": "Rebelión laborista contra Burnham por sus planes de explotar un nuevo yacimiento petrolero",
-   "x": 50.571,
-   "y": 87.627,
-   "w": 17,
-   "h": 6
+   "h": 1.447
   },
   {
    "n": 15,
-   "title": "De Cos toma el mando del BCE: el español más poderoso desde Felipe II",
+   "title": "Pedro Sánchez: «Mucho bulo, mucha mentira, mucho insulto, pero muy poca solución»",
    "x": 14.286,
-   "y": 74.305,
-   "w": 17,
-   "h": 6.712
+   "y": 54.357,
+   "w": 29.071,
+   "h": 2.202
   },
   {
-   "n": 16,
-   "title": "La cúpula de Información de la Guardia Civil se reunió con el jefe de los espías de Marruecos en Marbella un día antes del asalto a Ceuta",
-   "x": 32.429,
-   "y": 74.305,
+   "n": 18,
+   "title": "La broma que Abascal le hizo a Feijóo minutos antes del debate a cuatro: \"No te va a dar tiempo\"",
+   "x": 14.286,
+   "y": 64.58,
    "w": 17,
-   "h": 6.712
-  },
-  {
-   "n": 17,
-   "title": "El Supremo confirma la suspensión del voto de los nacionalizados con la \"ley de nietos\", incluidos los que residen en España",
-   "x": 50.571,
-   "y": 74.305,
-   "w": 17,
-   "h": 6.712
+   "h": 5.568
   },
   {
    "n": 19,
-   "title": "Plus Ultra plantea un ERE extintivo para despedir a toda su plantilla",
-   "x": 14.286,
-   "y": 92.508,
-   "w": 35.143,
-   "h": 3.424
+   "title": "\"Los inmigrantes no pueden venir solo a pedir y recibir prestaciones, tienen que venir a trabajar y de forma regulada\"",
+   "x": 32.429,
+   "y": 64.58,
+   "w": 17,
+   "h": 5.568
   },
   {
-   "n": 12,
-   "title": "¿Quién ha ganado el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau? Vota en nuestra encuesta",
-   "x": 14.286,
-   "y": 62.102,
-   "w": 23.071,
-   "h": 5.559
-  },
-  {
-   "n": 13,
-   "title": "Moncloa difunde una foto de Pedro Sánchez jurando bandera en la mili",
-   "x": 38.5,
-   "y": 62.102,
-   "w": 23.071,
-   "h": 5.559
-  },
-  {
-   "n": 14,
-   "title": "El debate de Antón Pirulero",
-   "x": 62.643,
-   "y": 62.102,
-   "w": 23.071,
-   "h": 5.559
+   "n": 20,
+   "title": "Pedro Sánchez la lía en el debate con el Mundial 2030 e indigna por igual a atléticos y culés",
+   "x": 50.571,
+   "y": 64.58,
+   "w": 17,
+   "h": 5.568
   },
   {
    "n": 9,
-   "title": "Feijóo deja mudo a Sánchez con su órdago: «Si usted no es presidente ¿va a dimitir y va a dejar el aforamiento?»",
+   "title": "Cayetana Álvarez de Toledo sentencia a Sánchez tras los debates electorales: «En el primero perdió la presidencia del Gobierno. En el segundo, el liderazgo de la oposición»",
    "x": 14.286,
-   "y": 28.542,
+   "y": 12.897,
+   "w": 71.429,
+   "h": 1.447
+  },
+  {
+   "n": 17,
+   "title": "Frente Amplio recupera en su último vídeo de campaña el meme del «Perro Sanxe» para disputarle al PSOE el voto útil del 29N",
+   "x": 44.5,
+   "y": 51.557,
+   "w": 17,
+   "h": 6.889
+  },
+  {
+   "n": 12,
+   "title": "Sánchez alardea de que le «van a dar los números» para formar gobierno sin Junts",
+   "x": 14.286,
+   "y": 40.138,
    "w": 29.071,
-   "h": 7.898
+   "h": 4.341
+  },
+  {
+   "n": 16,
+   "title": "Feijóo elude el enfrentamiento con Intxaurrondo y lleva a RTVE ante la Junta Electoral por \"falta de neutralidad\" en la campaña",
+   "x": 44.5,
+   "y": 37.119,
+   "w": 17,
+   "h": 8.336
+  },
+  {
+   "n": 4,
+   "title": "Análisis debate a Cuatro",
+   "x": 50,
+   "y": 18.308,
+   "w": 35.714,
+   "h": 6.858
   },
   {
    "n": 7,
-   "title": "Pedro Sánchez: «Mucho bulo, mucha mentira, mucho insulto, pero muy poca solución»",
-   "x": 50,
-   "y": 13.525,
-   "w": 35.714,
-   "h": 6.508
+   "title": "Directo Última hora de las elecciones generales 29N",
+   "x": 14.286,
+   "y": 0,
+   "w": 71.429,
+   "h": 4.404
   },
   {
-   "n": 5,
-   "title": "Feijóo dibuja el cambio y Colau eclipsa a Sánchez",
+   "n": 8,
+   "title": "El PP denuncia \"irregularidades\" en el voto por correo y el reparto de su propaganda electoral",
    "x": 14.286,
-   "y": 1.39,
+   "y": 5.694,
    "w": 71.429,
-   "h": 5.22
+   "h": 4.844
   }
  ]
 }

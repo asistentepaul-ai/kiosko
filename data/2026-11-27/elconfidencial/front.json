@@ -1,88 +1,64 @@
 {
  "img": "front.webp",
  "w": 1400,
- "h": 1624,
- "bytes": 92322,
+ "h": 1400,
+ "bytes": 93548,
  "hotspots": [
   {
-   "n": 9,
-   "title": "La noche de los 'sherpas'",
-   "x": 64.857,
-   "y": 63.547,
-   "w": 26.286,
-   "h": 5.296
-  },
-  {
    "n": 11,
-   "title": "Sánchez intenta subirse al éxito de Colau: \"La pinza ha sido natural\", dice Moncloa",
+   "title": "'La gran elección'. Un programa de más de cuatro horas en directo para seguir la noche electoral",
    "x": 8.857,
-   "y": 84.544,
-   "w": 19.286,
-   "h": 8.067
-  },
-  {
-   "n": 12,
-   "title": "Feijóo, de la \"manipulación\" del \"calladita\" al pacto de 'no agresión' de Abascal",
-   "x": 29.857,
-   "y": 84.544,
-   "w": 19.286,
-   "h": 8.067
-  },
-  {
-   "n": 13,
-   "title": "Por lo que sea, Pedro ya no quiso ser Obama... y se habló hasta de la \"banda de guarros\"",
-   "x": 50.857,
-   "y": 84.544,
-   "w": 19.286,
-   "h": 8.067
+   "y": 84.786,
+   "w": 26.286,
+   "h": 4.357
   },
   {
    "n": 14,
-   "title": "El vídeo entero del momento entre Feijóo y Colau; \"el fondo buitre es usted\" y una pizza",
-   "x": 71.857,
-   "y": 84.544,
-   "w": 19.286,
-   "h": 8.067
+   "title": "La noche de los 'sherpas'",
+   "x": 64.857,
+   "y": 73.714,
+   "w": 26.286,
+   "h": 6.143
   },
   {
-   "n": 8,
+   "n": 13,
    "title": "Los machos alfa conceden la victoria a la almirante Colau",
    "x": 64.857,
-   "y": 54.926,
+   "y": 63.714,
    "w": 26.286,
-   "h": 6.589
+   "h": 7.643
+  },
+  {
+   "n": 15,
+   "title": "Lo que renta una apuesta de 100€ a que Sánchez gobierna",
+   "x": 64.857,
+   "y": 82.214,
+   "w": 26.286,
+   "h": 7.643
+  },
+  {
+   "n": 12,
+   "title": "Nunca segundas partes fueron buenas: un bodrio insoportable",
+   "x": 64.857,
+   "y": 52,
+   "w": 26.286,
+   "h": 9.357
+  },
+  {
+   "n": 9,
+   "title": "La JEC ordena contabilizar por países y consulados a los 'nietos' que voten",
+   "x": 8.857,
+   "y": 66.786,
+   "w": 26.286,
+   "h": 16.857
   },
   {
    "n": 7,
-   "title": "Nunca segundas partes fueron buenas: un bodrio insoportable",
-   "x": 64.857,
-   "y": 44.828,
-   "w": 26.286,
-   "h": 8.067
-  },
-  {
-   "n": 10,
-   "title": "Lo que renta una apuesta de 100€ a que Sánchez gobierna",
-   "x": 64.857,
-   "y": 70.874,
-   "w": 26.286,
-   "h": 8.313
-  },
-  {
-   "n": 5,
-   "title": "Un español en lo más alto del BCE, ¿qué significa el nombramiento de De Cos para Europa?",
+   "title": "De 143.000 millones de granos de polen a los 3,5 M de euros en podas: el precio oculto del árbol que colonizó nuestras avenidas",
    "x": 8.857,
-   "y": 35.653,
+   "y": 41.357,
    "w": 82.286,
-   "h": 6.897
-  },
-  {
-   "n": 6,
-   "title": "Pedro Sánchez cosecha otra derrota mientras Ada Colau busca su sitio y las derechas se divierten",
-   "x": 8.857,
-   "y": 72.167,
-   "w": 54.286,
-   "h": 10.961
+   "h": 8
   }
  ]
 }

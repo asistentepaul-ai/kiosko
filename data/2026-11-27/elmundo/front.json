@@ -1,128 +1,144 @@
 {
  "img": "front.webp",
  "w": 1400,
- "h": 1934,
- "bytes": 183592,
+ "h": 1942,
+ "bytes": 186280,
  "hotspots": [
   {
-   "n": 5,
-   "title": "Debate electoral a 4",
+   "n": 1,
+   "title": "Ganador Debate elecciones",
    "x": 7.143,
-   "y": 8.842,
+   "y": 8.805,
    "w": 15.143,
-   "h": 2.585
+   "h": 2.575
   },
   {
-   "n": 6,
+   "n": 3,
    "title": "¿De qué partido político estás más cerca?",
    "x": 24.786,
-   "y": 8.842,
+   "y": 8.805,
    "w": 15.143,
-   "h": 2.585
+   "h": 2.575
   },
   {
-   "n": 7,
+   "n": 4,
    "title": "Lo que dicen las últimas encuestas",
    "x": 42.429,
-   "y": 8.842,
+   "y": 8.805,
    "w": 15.143,
-   "h": 2.585
-  },
-  {
-   "n": 10,
-   "title": "Sánchez se redime con una apuesta al 'reality' de \"motosierras de Milei\" y el \"aticazo de Ayuso\"",
-   "x": 7.143,
-   "y": 34.385,
-   "w": 19.5,
-   "h": 4.292
-  },
-  {
-   "n": 18,
-   "title": "Debate a cuatro, la cara de tu retrato",
-   "x": 55.714,
-   "y": 59.772,
-   "w": 19.5,
-   "h": 4.55
-  },
-  {
-   "n": 11,
-   "title": "Solo hubo una coreografía norcoreana",
-   "x": 7.143,
-   "y": 42.658,
-   "w": 19.5,
-   "h": 4.55
-  },
-  {
-   "n": 14,
-   "title": "...Y Colau revivió el último día: la gran animadora en el choque con las dos derechas y mordiendo a Sánchez en vivienda",
-   "x": 73.357,
-   "y": 23.371,
-   "w": 19.5,
-   "h": 5.326
-  },
-  {
-   "n": 15,
-   "title": "Abascal habla para los suyos y esquiva el fuego cruzado de los \"112.000 millones\" con la promesa de más gasto social",
-   "x": 73.357,
-   "y": 30.558,
-   "w": 19.5,
-   "h": 5.326
-  },
-  {
-   "n": 19,
-   "title": "'Black Friday' ultra",
-   "x": 77.786,
-   "y": 53.361,
-   "w": 15.071,
-   "h": 9.772
-  },
-  {
-   "n": 9,
-   "title": "Alberto Núñez Feijóo hace 'doblete': \"La ventaja que traíamos al debate sigue intacta\"",
-   "x": 7.143,
-   "y": 23.371,
-   "w": 19.5,
-   "h": 7.808
-  },
-  {
-   "n": 12,
-   "title": "El \"gran buitre\", \"a otro perro con ese hueso\" y \"usted, calladita\": los 10 momentos más intensos del debate de cuatro candidatos",
-   "x": 29.214,
-   "y": 40.745,
-   "w": 41.571,
-   "h": 3.775
-  },
-  {
-   "n": 20,
-   "title": "Carlos H. Quero, el rostro joven de Abascal: \"Pedir que vengan más personas es una irresponsabilidad y una traición\"",
-   "x": 7.143,
-   "y": 88.987,
-   "w": 37.143,
-   "h": 4.809
-  },
-  {
-   "n": 16,
-   "title": "Esta vez no hubo perdedor ni ganador",
-   "x": 73.357,
-   "y": 37.746,
-   "w": 19.5,
-   "h": 11.892
-  },
-  {
-   "n": 17,
-   "title": "Sánchez aprueba el B1 de Errejón",
-   "x": 7.143,
-   "y": 53.361,
-   "w": 46,
-   "h": 13.547
+   "h": 2.575
   },
   {
    "n": 8,
+   "title": "TV. Lo que esconden los 10 millones de espectadores del debate a cuatro: los audímetros ponen patas arriba la televisión",
+   "x": 7.143,
+   "y": 36.148,
+   "w": 19.5,
+   "h": 3.811
+  },
+  {
+   "n": 6,
    "title": "Feijóo resiste los ataques de la pinza de Sánchez y Colau con Abascal por libre",
    "x": 7.143,
-   "y": 15.305,
-   "w": 85.714,
-   "h": 7.549
+   "y": 25.386,
+   "w": 19.5,
+   "h": 4.274
+  },
+  {
+   "n": 7,
+   "title": "El PP sale satisfecho del debate: \"La ventaja que traíamos sigue intacta\"",
+   "x": 7.143,
+   "y": 31.462,
+   "w": 19.5,
+   "h": 4.274
+  },
+  {
+   "n": 15,
+   "title": "Debate a cuatro, la cara de tu retrato",
+   "x": 55.714,
+   "y": 53.502,
+   "w": 19.5,
+   "h": 4.531
+  },
+  {
+   "n": 12,
+   "title": "El PP denuncia ante la Junta Electoral \"irregularidades\" en el voto por correo y en el reparto de la propaganda electoral",
+   "x": 73.357,
+   "y": 13.028,
+   "w": 19.5,
+   "h": 5.304
+  },
+  {
+   "n": 10,
+   "title": "Vox. Carlos H. Quero, el rostro joven de Abascal: \"Pedir que vengan más personas es una irresponsabilidad y una traición\"",
+   "x": 29.214,
+   "y": 35.582,
+   "w": 41.571,
+   "h": 2.935
+  },
+  {
+   "n": 20,
+   "title": "La Guardia Civil desmonta la \"renovación integral\" de Óscar Puente en Adamuz: traviesas, vías y balasto de 1990 en el punto exacto del accidente",
+   "x": 46.857,
+   "y": 64.315,
+   "w": 19.5,
+   "h": 6.334
+  },
+  {
+   "n": 17,
+   "title": "Marc Márquez, en su adiós: \"Empecé a sentir miedo\"",
+   "x": 7.143,
+   "y": 82.595,
+   "w": 37.143,
+   "h": 3.605
+  },
+  {
+   "n": 9,
+   "title": "El \"gran buitre\", \"a otro perro con ese hueso\" y \"usted, calladita\": los 10 momentos más intensos del debate de cuatro candidatos",
+   "x": 29.214,
+   "y": 30.33,
+   "w": 41.571,
+   "h": 3.759
+  },
+  {
+   "n": 19,
+   "title": "Retirarse a tiempo es para un deportista una muestra de sabiduría. Retirarse en la cumbre, una demostración de grandeza",
+   "x": 7.143,
+   "y": 89.289,
+   "w": 37.143,
+   "h": 4.531
+  },
+  {
+   "n": 16,
+   "title": "Solo hubo una coreografía norcoreana",
+   "x": 77.786,
+   "y": 47.116,
+   "w": 15.071,
+   "h": 11.637
+  },
+  {
+   "n": 5,
+   "title": "Un testigo protegido declara a la juez que el jefe de Policía de Tetuán le anunció la oleada migratoria: \"Ya viene el asalto final\"",
+   "x": 7.143,
+   "y": 13.028,
+   "w": 19.5,
+   "h": 10.453
+  },
+  {
+   "n": 13,
+   "title": "La campaña del 'todo por la patria' de Sánchez con banderas y la mili para sumar votos: \"Los símbolos no son sólo de PP y Vox\"",
+   "x": 73.357,
+   "y": 20.185,
+   "w": 19.5,
+   "h": 15.088
+  },
+  {
+   "n": 14,
+   "title": "Sánchez aprueba el B1 de Errejón",
+   "x": 7.143,
+   "y": 47.116,
+   "w": 46,
+   "h": 13.491
   }
  ]
 }

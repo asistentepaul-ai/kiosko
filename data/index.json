@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T05:18:32.763Z",
+ "updatedAt": "2026-11-27T13:46:32.816Z",
  "keepDays": 10,
  "days": [
   {
@@ -25,7 +25,7 @@
      "slug": "abc",
      "name": "ABC",
      "total": 20,
-     "ok": 4,
+     "ok": 3,
      "color": "#00558c",
      "accent": "#00558c"
     },
@@ -57,7 +57,7 @@
      "slug": "elpais",
      "name": "El País",
      "total": 20,
-     "ok": 14,
+     "ok": 20,
      "color": "#0b0b0b",
      "accent": "#1a6fb5"
     }

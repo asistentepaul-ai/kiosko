@@ -1,24 +1,32 @@
 {
  "img": "front.webp",
  "w": 1400,
- "h": 1400,
- "bytes": 111364,
+ "h": 1624,
+ "bytes": 154658,
  "hotspots": [
   {
-   "n": 4,
-   "title": "Las encuestas electorales",
+   "n": 2,
+   "title": "Encuestas elecciones generales",
    "x": 10.5,
-   "y": 28.071,
-   "w": 18.143,
-   "h": 5.143
+   "y": 24.2,
+   "w": 14.071,
+   "h": 4.557
   },
   {
    "n": 1,
    "title": "Ganador debate elecciones",
    "x": 10.5,
-   "y": 17.857,
+   "y": 15.394,
    "w": 79,
-   "h": 3.571
+   "h": 3.079
+  },
+  {
+   "n": 13,
+   "title": "Abascal y «los juegos del hambre» de la vivienda, el minuto de oro del debate",
+   "x": 51.071,
+   "y": 72.167,
+   "w": 18.143,
+   "h": 20.443
   }
  ]
 }
