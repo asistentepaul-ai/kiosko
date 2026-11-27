@@ -1,0 +1,24 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1400,
+ "bytes": 111364,
+ "hotspots": [
+  {
+   "n": 4,
+   "title": "Las encuestas electorales",
+   "x": 10.5,
+   "y": 28.071,
+   "w": 18.143,
+   "h": 5.143
+  },
+  {
+   "n": 1,
+   "title": "Ganador debate elecciones",
+   "x": 10.5,
+   "y": 17.857,
+   "w": 79,
+   "h": 3.571
+  }
+ ]
+}

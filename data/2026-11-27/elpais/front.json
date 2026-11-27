@@ -1,0 +1,104 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1584,
+ "bytes": 172466,
+ "hotspots": [
+  {
+   "n": 2,
+   "title": "Comparador de programas",
+   "x": 8.786,
+   "y": 5.492,
+   "w": 19.571,
+   "h": 4.419
+  },
+  {
+   "n": 11,
+   "title": "Feijóo salva el debate en medio del fuego cruzado contra su alianza con Abascal",
+   "x": 51.143,
+   "y": 53.851,
+   "w": 19,
+   "h": 10.417
+  },
+  {
+   "n": 12,
+   "title": "Abascal intenta dar una imagen de Gobierno pero pierde las formas contra Sánchez y Colau",
+   "x": 72.286,
+   "y": 13.447,
+   "w": 19,
+   "h": 12.816
+  },
+  {
+   "n": 3,
+   "title": "La izquierda sale a la ofensiva contra Abascal y Feijóo por los recortes y la violencia machista",
+   "x": 8.786,
+   "y": 34.407,
+   "w": 40.143,
+   "h": 6.818
+  },
+  {
+   "n": 5,
+   "title": "“Y usted calladita”: la polémica frase de Feijóo a Colau durante el debate",
+   "x": 8.786,
+   "y": 49.747,
+   "w": 19,
+   "h": 14.583
+  },
+  {
+   "n": 6,
+   "title": "Mentiras y medias verdades del encuentro",
+   "x": 29.929,
+   "y": 49.747,
+   "w": 19,
+   "h": 14.583
+  },
+  {
+   "n": 9,
+   "title": "“A otro perro con ese hueso”: Sánchez cambia de estrategia y reactiva el ánimo de los suyos",
+   "x": 51.143,
+   "y": 36.427,
+   "w": 19,
+   "h": 16.162
+  },
+  {
+   "n": 15,
+   "title": "Sánchez recuerda a Feijóo y Abascal que el único que “ha hecho la mili es él",
+   "x": 8.786,
+   "y": 73.106,
+   "w": 19,
+   "h": 19.318
+  },
+  {
+   "n": 17,
+   "title": "Feijóo se compromete a dimitir si no puede asumir la Presidencia del Gobierno",
+   "x": 29.929,
+   "y": 73.106,
+   "w": 19,
+   "h": 19.318
+  },
+  {
+   "n": 19,
+   "title": "Abascal llama “buitre” y “sinvergüenza” a Sánchez durante el debate",
+   "x": 51.143,
+   "y": 73.106,
+   "w": 19,
+   "h": 19.318
+  },
+  {
+   "n": 7,
+   "title": "¿Quién ha ganado? Los analistas de EL PAÍS se decantan por Ada Colau",
+   "x": 51.143,
+   "y": 13.447,
+   "w": 19,
+   "h": 21.717
+  },
+  {
+   "n": 13,
+   "title": "Del “amiga, date cuenta” al “calladita” y el nivel de inglés: los momentos televisivos",
+   "x": 72.286,
+   "y": 43.624,
+   "w": 19,
+   "h": 25.063
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1400,
+ "bytes": 97988,
+ "hotspots": [
+  {
+   "n": 20,
+   "title": "Mentiras y medias verdades de los cuatro candidatos",
+   "x": 63.286,
+   "y": 76.714,
+   "w": 22.286,
+   "h": 5.643
+  },
+  {
+   "n": 13,
+   "title": "¿Quién ha ganado el debate a cuatro?",
+   "x": 14.5,
+   "y": 53.071,
+   "w": 22.357,
+   "h": 6.143
+  },
+  {
+   "n": 15,
+   "title": "Vox celebra el resultado: «Ha ganado el sentido común»",
+   "x": 14.5,
+   "y": 44.5,
+   "w": 22.357,
+   "h": 7.429
+  },
+  {
+   "n": 16,
+   "title": "El PSOE atisba la remontada tras el debate a cuatro: «Este es el Sánchez que queríamos»",
+   "x": 14.5,
+   "y": 76.714,
+   "w": 22.286,
+   "h": 7.5
+  },
+  {
+   "n": 18,
+   "title": "Colau sorprende en el debate: «Fue protagonista, también gracias a Feijóo»",
+   "x": 38.857,
+   "y": 76.714,
+   "w": 22.286,
+   "h": 7.5
+  },
+  {
+   "n": 14,
+   "title": "Satisfacción en el PP con el debate a cuatro: un Sánchez «desesperado» refuerza a Feijóo",
+   "x": 14.5,
+   "y": 25,
+   "w": 22.357,
+   "h": 18.357
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1934,
+ "bytes": 183592,
+ "hotspots": [
+  {
+   "n": 5,
+   "title": "Debate electoral a 4",
+   "x": 7.143,
+   "y": 8.842,
+   "w": 15.143,
+   "h": 2.585
+  },
+  {
+   "n": 6,
+   "title": "¿De qué partido político estás más cerca?",
+   "x": 24.786,
+   "y": 8.842,
+   "w": 15.143,
+   "h": 2.585
+  },
+  {
+   "n": 7,
+   "title": "Lo que dicen las últimas encuestas",
+   "x": 42.429,
+   "y": 8.842,
+   "w": 15.143,
+   "h": 2.585
+  },
+  {
+   "n": 10,
+   "title": "Sánchez se redime con una apuesta al 'reality' de \"motosierras de Milei\" y el \"aticazo de Ayuso\"",
+   "x": 7.143,
+   "y": 34.385,
+   "w": 19.5,
+   "h": 4.292
+  },
+  {
+   "n": 18,
+   "title": "Debate a cuatro, la cara de tu retrato",
+   "x": 55.714,
+   "y": 59.772,
+   "w": 19.5,
+   "h": 4.55
+  },
+  {
+   "n": 11,
+   "title": "Solo hubo una coreografía norcoreana",
+   "x": 7.143,
+   "y": 42.658,
+   "w": 19.5,
+   "h": 4.55
+  },
+  {
+   "n": 14,
+   "title": "...Y Colau revivió el último día: la gran animadora en el choque con las dos derechas y mordiendo a Sánchez en vivienda",
+   "x": 73.357,
+   "y": 23.371,
+   "w": 19.5,
+   "h": 5.326
+  },
+  {
+   "n": 15,
+   "title": "Abascal habla para los suyos y esquiva el fuego cruzado de los \"112.000 millones\" con la promesa de más gasto social",
+   "x": 73.357,
+   "y": 30.558,
+   "w": 19.5,
+   "h": 5.326
+  },
+  {
+   "n": 19,
+   "title": "'Black Friday' ultra",
+   "x": 77.786,
+   "y": 53.361,
+   "w": 15.071,
+   "h": 9.772
+  },
+  {
+   "n": 9,
+   "title": "Alberto Núñez Feijóo hace 'doblete': \"La ventaja que traíamos al debate sigue intacta\"",
+   "x": 7.143,
+   "y": 23.371,
+   "w": 19.5,
+   "h": 7.808
+  },
+  {
+   "n": 12,
+   "title": "El \"gran buitre\", \"a otro perro con ese hueso\" y \"usted, calladita\": los 10 momentos más intensos del debate de cuatro candidatos",
+   "x": 29.214,
+   "y": 40.745,
+   "w": 41.571,
+   "h": 3.775
+  },
+  {
+   "n": 20,
+   "title": "Carlos H. Quero, el rostro joven de Abascal: \"Pedir que vengan más personas es una irresponsabilidad y una traición\"",
+   "x": 7.143,
+   "y": 88.987,
+   "w": 37.143,
+   "h": 4.809
+  },
+  {
+   "n": 16,
+   "title": "Esta vez no hubo perdedor ni ganador",
+   "x": 73.357,
+   "y": 37.746,
+   "w": 19.5,
+   "h": 11.892
+  },
+  {
+   "n": 17,
+   "title": "Sánchez aprueba el B1 de Errejón",
+   "x": 7.143,
+   "y": 53.361,
+   "w": 46,
+   "h": 13.547
+  },
+  {
+   "n": 8,
+   "title": "Feijóo resiste los ataques de la pinza de Sánchez y Colau con Abascal por libre",
+   "x": 7.143,
+   "y": 15.305,
+   "w": 85.714,
+   "h": 7.549
+  }
+ ]
+}

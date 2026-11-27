@@ -1,0 +1,128 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2950,
+ "bytes": 245686,
+ "hotspots": [
+  {
+   "n": 8,
+   "title": "Lo de anoche fue una partida de parchís, y yo vi cómo se jugó",
+   "x": 50,
+   "y": 22.576,
+   "w": 35.714,
+   "h": 1.559
+  },
+  {
+   "n": 10,
+   "title": "Santiago Abascal: «Ceuta es la bola de cristal donde vemos el futuro de España si gobiernan»",
+   "x": 44.5,
+   "y": 28.542,
+   "w": 17,
+   "h": 4.644
+  },
+  {
+   "n": 11,
+   "title": "Ada Colau: \"Señor Sánchez, no todos somos iguales. La corrupción cero existe\"",
+   "x": 44.5,
+   "y": 41.831,
+   "w": 17,
+   "h": 4.644
+  },
+  {
+   "n": 18,
+   "title": "Koldo, su hermano y su exmujer, más cerca del banquillo por blanqueo",
+   "x": 68.714,
+   "y": 69.085,
+   "w": 17,
+   "h": 4.644
+  },
+  {
+   "n": 20,
+   "title": "Rebelión laborista contra Burnham por sus planes de explotar un nuevo yacimiento petrolero",
+   "x": 50.571,
+   "y": 87.627,
+   "w": 17,
+   "h": 6
+  },
+  {
+   "n": 15,
+   "title": "De Cos toma el mando del BCE: el español más poderoso desde Felipe II",
+   "x": 14.286,
+   "y": 74.305,
+   "w": 17,
+   "h": 6.712
+  },
+  {
+   "n": 16,
+   "title": "La cúpula de Información de la Guardia Civil se reunió con el jefe de los espías de Marruecos en Marbella un día antes del asalto a Ceuta",
+   "x": 32.429,
+   "y": 74.305,
+   "w": 17,
+   "h": 6.712
+  },
+  {
+   "n": 17,
+   "title": "El Supremo confirma la suspensión del voto de los nacionalizados con la \"ley de nietos\", incluidos los que residen en España",
+   "x": 50.571,
+   "y": 74.305,
+   "w": 17,
+   "h": 6.712
+  },
+  {
+   "n": 19,
+   "title": "Plus Ultra plantea un ERE extintivo para despedir a toda su plantilla",
+   "x": 14.286,
+   "y": 92.508,
+   "w": 35.143,
+   "h": 3.424
+  },
+  {
+   "n": 12,
+   "title": "¿Quién ha ganado el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau? Vota en nuestra encuesta",
+   "x": 14.286,
+   "y": 62.102,
+   "w": 23.071,
+   "h": 5.559
+  },
+  {
+   "n": 13,
+   "title": "Moncloa difunde una foto de Pedro Sánchez jurando bandera en la mili",
+   "x": 38.5,
+   "y": 62.102,
+   "w": 23.071,
+   "h": 5.559
+  },
+  {
+   "n": 14,
+   "title": "El debate de Antón Pirulero",
+   "x": 62.643,
+   "y": 62.102,
+   "w": 23.071,
+   "h": 5.559
+  },
+  {
+   "n": 9,
+   "title": "Feijóo deja mudo a Sánchez con su órdago: «Si usted no es presidente ¿va a dimitir y va a dejar el aforamiento?»",
+   "x": 14.286,
+   "y": 28.542,
+   "w": 29.071,
+   "h": 7.898
+  },
+  {
+   "n": 7,
+   "title": "Pedro Sánchez: «Mucho bulo, mucha mentira, mucho insulto, pero muy poca solución»",
+   "x": 50,
+   "y": 13.525,
+   "w": 35.714,
+   "h": 6.508
+  },
+  {
+   "n": 5,
+   "title": "Feijóo dibuja el cambio y Colau eclipsa a Sánchez",
+   "x": 14.286,
+   "y": 1.39,
+   "w": 71.429,
+   "h": 5.22
+  }
+ ]
+}
