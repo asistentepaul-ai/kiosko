@@ -1,0 +1,136 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 4814,
+ "bytes": 493712,
+ "hotspots": [
+  {
+   "n": 1,
+   "title": "Ganador Debate elecciones",
+   "x": 16,
+   "y": 2.576,
+   "w": 15.143,
+   "h": 1.039
+  },
+  {
+   "n": 4,
+   "title": "¿De qué partido político estás más cerca?",
+   "x": 33.643,
+   "y": 2.576,
+   "w": 15.143,
+   "h": 1.039
+  },
+  {
+   "n": 5,
+   "title": "Lo que dicen las últimas encuestas",
+   "x": 51.286,
+   "y": 2.576,
+   "w": 15.143,
+   "h": 1.039
+  },
+  {
+   "n": 12,
+   "title": "Colau activa la \"remontada\" del Frente Amplio 'in extremis' con la esperanza de llegar a tiempo",
+   "x": 53.357,
+   "y": 91.857,
+   "w": 16.214,
+   "h": 0.997
+  },
+  {
+   "n": 9,
+   "title": "\"No está hecho\": prudencia en Vox ante la movilización de la izquierda y con traspiés en el final de campaña",
+   "x": 53.357,
+   "y": 93.519,
+   "w": 16.214,
+   "h": 0.997
+  },
+  {
+   "n": 7,
+   "title": "Sánchez se aferra al voto de las mujeres como en 2023 en busca de su suma mágica: 136 + 41, sin Junts",
+   "x": 53.357,
+   "y": 96.51,
+   "w": 16.214,
+   "h": 0.997
+  },
+  {
+   "n": 19,
+   "title": "Renfe fue advertida hace un año del desgaste de las ruedas de sus trenes",
+   "x": 46.857,
+   "y": 23.411,
+   "w": 19.5,
+   "h": 1.413
+  },
+  {
+   "n": 18,
+   "title": "Lo que el fracaso de Antalya esconde",
+   "x": 46.857,
+   "y": 20.544,
+   "w": 19.5,
+   "h": 2.14
+  },
+  {
+   "n": 16,
+   "title": "Genes. Los orígenes gallegos de Cristóbal Colón: un estudio genético de sus descendientes apunta hacia Pedro Álvarez de Sotomayor",
+   "x": 7.143,
+   "y": 26.714,
+   "w": 37.143,
+   "h": 1.184
+  },
+  {
+   "n": 17,
+   "title": "Sánchez deja en un mes una mochila de más 6.000 millones en gasto en Defensa para la próxima legislatura y deja sin margen al Ministerio",
+   "x": 46.857,
+   "y": 17.221,
+   "w": 19.5,
+   "h": 2.555
+  },
+  {
+   "n": 11,
+   "title": "La polémica de los 'nietos' no acaba el 29-N: sus votos serán guardados en las juntas provinciales pero no se contabilizarán por el orden del Supremo",
+   "x": 73.357,
+   "y": 4.3,
+   "w": 19.5,
+   "h": 2.555
+  },
+  {
+   "n": 6,
+   "title": "El PP se juega 14 escaños clave frente a una izquierda movilizada: \"Ya pasó en 2023\"",
+   "x": 7.143,
+   "y": 4.3,
+   "w": 19.5,
+   "h": 3.137
+  },
+  {
+   "n": 14,
+   "title": "Cristóbal Colón, duque de Veragua y grande de España: \"No siento nada. A lo mejor es que tengo un ego pequeñito\"",
+   "x": 7.143,
+   "y": 24.595,
+   "w": 37.143,
+   "h": 1.953
+  },
+  {
+   "n": 10,
+   "title": "Antonio vota a Vox y Menty al PSOE, la pareja de la España polarizada: \"Ahí tienes la puerta y si quieres te vas\"",
+   "x": 29.214,
+   "y": 12.505,
+   "w": 41.571,
+   "h": 1.953
+  },
+  {
+   "n": 13,
+   "title": "La salud mental de todo un país",
+   "x": 73.357,
+   "y": 10.49,
+   "w": 19.5,
+   "h": 5.235
+  },
+  {
+   "n": 20,
+   "title": "Un día en el 'frente' de la guerra energética de Ucrania",
+   "x": 46.857,
+   "y": 25.571,
+   "w": 19.5,
+   "h": 5.629
+  }
+ ]
+}

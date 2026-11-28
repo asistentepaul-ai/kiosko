@@ -1,0 +1,112 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2347,
+ "bytes": 217276,
+ "hotspots": [
+  {
+   "n": 11,
+   "title": "Así será la programación especial de las grandes cadenas en la noche electoral del 29N",
+   "x": 14.286,
+   "y": 60.418,
+   "w": 29.071,
+   "h": 1.96
+  },
+  {
+   "n": 20,
+   "title": "La irrupción de Bruselas abre un nuevo frente en la causa de Urda",
+   "x": 50.571,
+   "y": 81.679,
+   "w": 17,
+   "h": 5.837
+  },
+  {
+   "n": 14,
+   "title": "La pelea por el último escaño: el pulso del PP con la izquierda en 14 circunscripciones",
+   "x": 14.286,
+   "y": 73.285,
+   "w": 17,
+   "h": 6.647
+  },
+  {
+   "n": 15,
+   "title": "El futuro del voto exterior del 29N, en el aire tras el veto del Supremo",
+   "x": 32.429,
+   "y": 73.285,
+   "w": 17,
+   "h": 6.647
+  },
+  {
+   "n": 16,
+   "title": "Pago extraordinario y días libres: así se compensará a los policías que trabajen el 29N",
+   "x": 50.571,
+   "y": 73.285,
+   "w": 17,
+   "h": 6.647
+  },
+  {
+   "n": 17,
+   "title": "Final de campaña, por fin",
+   "x": 68.714,
+   "y": 73.285,
+   "w": 17,
+   "h": 6.647
+  },
+  {
+   "n": 18,
+   "title": "Pablo Haro, la pesadilla del Gobierno en transparencia: \"Ocultan datos\"",
+   "x": 14.286,
+   "y": 88.24,
+   "w": 17,
+   "h": 6.647
+  },
+  {
+   "n": 19,
+   "title": "Quién está detrás del alquiler en España: tres de cada cuatro caseros tienen un solo piso",
+   "x": 32.429,
+   "y": 88.24,
+   "w": 17,
+   "h": 6.647
+  },
+  {
+   "n": 12,
+   "title": "Ada Colau, sobre su infancia: “Mis padres eran hippies y yo era la rarita de la clase”",
+   "x": 44.5,
+   "y": 39.838,
+   "w": 17,
+   "h": 7.542
+  },
+  {
+   "n": 13,
+   "title": "La factura que Sánchez deja al próximo Gobierno: una deuda de casi medio billón más de euros y los impuestos más altos de la historia",
+   "x": 44.5,
+   "y": 55.646,
+   "w": 17,
+   "h": 9.331
+  },
+  {
+   "n": 9,
+   "title": "Pedro Sánchez fía su última batalla electoral a la épica del 23J",
+   "x": 50,
+   "y": 15.552,
+   "w": 35.714,
+   "h": 7.925
+  },
+  {
+   "n": 10,
+   "title": "Abascal cierra la campaña al grito de \"lo han destruido todo\" en una abarrotada plaza de toros de Valencia",
+   "x": 14.286,
+   "y": 33.277,
+   "w": 29.071,
+   "h": 9.928
+  },
+  {
+   "n": 7,
+   "title": "Feijóo: «Un país limpio que funcione, en el que tu esfuerzo merezca la pena»",
+   "x": 14.286,
+   "y": 1.747,
+   "w": 71.429,
+   "h": 12.058
+  }
+ ]
+}

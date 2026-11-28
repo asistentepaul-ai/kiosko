@@ -1,0 +1,64 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2515,
+ "bytes": 182738,
+ "hotspots": [
+  {
+   "n": 12,
+   "title": "Análisis. Las consecuencias del debate electoral: ¿es posible la remontada de la izquierda?",
+   "x": 8.857,
+   "y": 48.31,
+   "w": 26.286,
+   "h": 2.425
+  },
+  {
+   "n": 19,
+   "title": "'La gran elección'. Un programa de más de cuatro horas en directo para seguir la noche electoral",
+   "x": 8.857,
+   "y": 71.61,
+   "w": 26.286,
+   "h": 2.425
+  },
+  {
+   "n": 20,
+   "title": "Sin desmemoria no hay remontada: Sánchez quiere que olvidemos",
+   "x": 64.857,
+   "y": 90.02,
+   "w": 26.286,
+   "h": 5.209
+  },
+  {
+   "n": 10,
+   "title": "Las claves del voto de los 'nietos': dónde se guardan, cuántos votan y cuentan",
+   "x": 8.857,
+   "y": 37.177,
+   "w": 26.286,
+   "h": 10.497
+  },
+  {
+   "n": 17,
+   "title": "Los seis perros del presidente: por qué el líder socialista ha cambiado tanto de personalidad en esta campaña electoral",
+   "x": 8.857,
+   "y": 59.523,
+   "w": 26.286,
+   "h": 11.451
+  },
+  {
+   "n": 1,
+   "title": "Elecciones Generales",
+   "x": 8.857,
+   "y": 23.022,
+   "w": 82.286,
+   "h": 4.453
+  },
+  {
+   "n": 13,
+   "title": "De la Calle, el ojo que todo lo ve en los debates: whiskies, manos temblorosas y un perro que no es Sánchez",
+   "x": 64.857,
+   "y": 28.946,
+   "w": 26.286,
+   "h": 20.636
+  }
+ ]
+}

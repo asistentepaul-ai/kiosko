@@ -1,0 +1,80 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 2843,
+ "bytes": 192522,
+ "hotspots": [
+  {
+   "n": 13,
+   "title": "Renfe usa un sistema informático obsoleto para el mantenimiento de sus trenes",
+   "x": 14.5,
+   "y": 26.064,
+   "w": 34.786,
+   "h": 2.849
+  },
+  {
+   "n": 20,
+   "title": "29-N: ¿fin del sanchismo?",
+   "x": 62.357,
+   "y": 83.222,
+   "w": 23.214,
+   "h": 4.713
+  },
+  {
+   "n": 19,
+   "title": "Bruselas señala a España por su gasto público descontrolado y su política de vivienda ineficaz",
+   "x": 14.5,
+   "y": 92.578,
+   "w": 46.429,
+   "h": 3.201
+  },
+  {
+   "n": 15,
+   "title": "Las casas de apuestas lo tienen claro: Feijóo será el próximo presidente del Gobierno",
+   "x": 14.5,
+   "y": 30.32,
+   "w": 22.714,
+   "h": 10.271
+  },
+  {
+   "n": 16,
+   "title": "Defensa pone en alerta a los militares en Ceuta ante otro posible asalto el 29-N",
+   "x": 39.286,
+   "y": 30.32,
+   "w": 22.714,
+   "h": 10.271
+  },
+  {
+   "n": 17,
+   "title": "La Policía detecta una campaña en redes para cruzar a Canarias antes de las elecciones",
+   "x": 14.5,
+   "y": 41.646,
+   "w": 22.714,
+   "h": 10.658
+  },
+  {
+   "n": 18,
+   "title": "La división entre las víctimas de Urda obliga a suspender una rueda de prensa",
+   "x": 39.286,
+   "y": 41.646,
+   "w": 22.714,
+   "h": 10.658
+  },
+  {
+   "n": 14,
+   "title": "Los estrategas de Sánchez y Colau se coordinaron antes del debate a cuatro",
+   "x": 50.786,
+   "y": 18.959,
+   "w": 34.786,
+   "h": 9.954
+  },
+  {
+   "n": 12,
+   "title": "Un candidato del PSOE en Mojácar: «Te doy dos billetes marrones si me das el voto»",
+   "x": 14.5,
+   "y": 12.311,
+   "w": 71.071,
+   "h": 5.593
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 3439,
+ "bytes": 273178,
+ "hotspots": [
+  {
+   "n": 12,
+   "title": "¿Por qué no deberías votar a primera hora de la mañana en las elecciones de este domingo 29 de noviembre?",
+   "x": 62.143,
+   "y": 36.755,
+   "w": 21.429,
+   "h": 2.501
+  },
+  {
+   "n": 4,
+   "title": "Abascal cierra campaña: «Sánchez es el candidato de Marruecos, de Bildu y del separatismo catalán»",
+   "x": 50.714,
+   "y": 21.082,
+   "w": 15.714,
+   "h": 4.1
+  },
+  {
+   "n": 5,
+   "title": "¿Quién crees que ganará las elecciones generales este 29 de noviembre?",
+   "x": 67.857,
+   "y": 21.082,
+   "w": 15.714,
+   "h": 4.1
+  },
+  {
+   "n": 10,
+   "title": "Quién ganará las elecciones según los inversores",
+   "x": 39.143,
+   "y": 44.722,
+   "w": 21.643,
+   "h": 3.082
+  },
+  {
+   "n": 18,
+   "title": "Los siete pueblos de Almería que llegan al 29-N con más electores en el extranjero que residentes",
+   "x": 16.429,
+   "y": 79.965,
+   "w": 21.643,
+   "h": 3.082
+  },
+  {
+   "n": 19,
+   "title": "Así fue la jornada de reflexión más peculiar de Feijóo cuando residía en Galicia",
+   "x": 39.143,
+   "y": 79.965,
+   "w": 21.643,
+   "h": 3.082
+  },
+  {
+   "n": 11,
+   "title": "Una web pide a los ciudadanos fotografiar las actas electorales para verificar el recuento del 29-N",
+   "x": 62.143,
+   "y": 32.364,
+   "w": 21.429,
+   "h": 3.489
+  },
+  {
+   "n": 2,
+   "title": "Feijóo: «Sánchez fue anoche al debate a defenderse a sí mismo; y yo fui a defender a la gente»",
+   "x": 16.429,
+   "y": 21.082,
+   "w": 15.714,
+   "h": 4.856
+  },
+  {
+   "n": 3,
+   "title": "Sánchez llama a los socialistas a «hacer historia» entre cánticos de «no pasarán» y «sí se puede»",
+   "x": 33.571,
+   "y": 21.082,
+   "w": 15.714,
+   "h": 4.856
+  },
+  {
+   "n": 7,
+   "title": "¿Qué está prohibido en el colegio electoral el 29N? ¿Puedo ir vestido de cualquier forma?",
+   "x": 16.429,
+   "y": 40.68,
+   "w": 44.286,
+   "h": 1.861
+  },
+  {
+   "n": 9,
+   "title": "La porra de las elecciones generales del 29N: reparte los 350 escaños del Congreso",
+   "x": 16.429,
+   "y": 44.722,
+   "w": 21.643,
+   "h": 4.565
+  },
+  {
+   "n": 6,
+   "title": "Quién va a ganar las elecciones generales este 29N, según las encuestas",
+   "x": 16.429,
+   "y": 37.511,
+   "w": 44.286,
+   "h": 2.268
+  },
+  {
+   "n": 15,
+   "title": "¿Quién va a ganar las elecciones? La calle da su opinión a dos días del 29-N",
+   "x": 50.714,
+   "y": 52.864,
+   "w": 15.714,
+   "h": 8.869
+  },
+  {
+   "n": 16,
+   "title": "«La mejor campaña de la historia de...»: Un fallo técnico silencia a Sánchez en su cierre de campaña",
+   "x": 67.857,
+   "y": 52.864,
+   "w": 15.714,
+   "h": 8.869
+  },
+  {
+   "n": 14,
+   "title": "«Si te mienten con algo que está grabado y ha salido en una docena de televisiones... qué no harán con los demás»",
+   "x": 33.571,
+   "y": 52.864,
+   "w": 15.714,
+   "h": 10.352
+  },
+  {
+   "n": 17,
+   "title": "Ciudadanos alertan que han recibido sobres del PP con papeletas que llevan marcados los candidatos del PSOE al Senado",
+   "x": 16.429,
+   "y": 74.498,
+   "w": 44.286,
+   "h": 4.507
+  },
+  {
+   "n": 13,
+   "title": "Bieito Rubido y Ana Martín, antes del 29-N: «Sánchez llegará donde tenga que llegar si puede seguir cuatro años más»",
+   "x": 62.143,
+   "y": 40.448,
+   "w": 21.429,
+   "h": 11.224
+  },
+  {
+   "n": 20,
+   "title": "Los ciberataques ya no son intrusiones aisladas, sino campañas continuas en la 'zona gris' impulsadas por IA a velocidad máquina",
+   "x": 16.429,
+   "y": 84.269,
+   "w": 21.429,
+   "h": 12.242
+  },
+  {
+   "n": 1,
+   "title": "La derecha pide paso tras una campaña marcada por el agitprop socialista",
+   "x": 16.429,
+   "y": 12.358,
+   "w": 67.143,
+   "h": 7.531
+  }
+ ]
+}

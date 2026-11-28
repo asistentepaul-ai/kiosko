@@ -1,0 +1,16 @@
+{
+ "img": "front.webp",
+ "w": 1400,
+ "h": 1400,
+ "bytes": 151692,
+ "hotspots": [
+  {
+   "n": 2,
+   "title": "Encuestas elecciones generales",
+   "x": 10.5,
+   "y": 28.071,
+   "w": 14.071,
+   "h": 5.286
+  }
+ ]
+}
